@@ -97,7 +97,7 @@
 			// Add your items here <3
 		};
 	};
-	class VSMBackpacks
+	class Backpacks
 	{
 		name = "VSM Backpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
@@ -137,7 +137,7 @@
 		};
 	};
 
-class ARMABackpack
+class Backpacks
 {
 name="Arma Backpacks";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
@@ -211,7 +211,8 @@ items[]=
 	"G_Bergen",
 };
 };
-class RHS_BACKPACKS {
+class Backpacks 
+{
         name = "RHS Backpacks";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -234,15 +235,8 @@ class RHS_BACKPACKS {
 				"rhssaf_kitbag_smb"
         };
     };
-class RHSBackpack
-{
-name="RHS Backpacks";
-icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
-items[]=
-{	// RHSBackpack
-};
-};
-	class VSMHeadgear 
+
+	class Headgear
 	{
 		name = "VSM Headgear";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -318,7 +312,8 @@ items[]=
 		};
 	};
 
-class RHS_HELMETS   {
+class Headgear   
+{
         name = "RHS Helmets";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -607,7 +602,7 @@ class RHS_HELMETS   {
         };
     };
  
-class ARMAHeadgear
+class Headgear
 {
 name="Arma Headgear";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -749,7 +744,7 @@ items[]=
 };
 };
 
-class EXILEHeadgear
+class Headgear
 {
 name="Exile Headgear";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\headgear_ca.paa";
@@ -761,7 +756,7 @@ items[]=
 };
 };
 
-class ARMANVGoggles
+class NVG
 {
 name="Arma Night Vision";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\Goggles_ca.paa";
@@ -774,7 +769,8 @@ items[]=
 	"O_NVGoggles_urb_F",
 };
 };
-class RHS_EQUIPMENTS    {
+class Headgear    
+{
         name = "RHS Equipments";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -802,7 +798,7 @@ class RHS_EQUIPMENTS    {
                 "rhs_tr8_periscope_pip"
         };
     };
-		class VSMUniform 
+class Uniforms 
 	{
 		name = "VSM Uniform";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
@@ -1142,7 +1138,8 @@ class RHS_EQUIPMENTS    {
 		};
 	};
 
-class RHS_UNIFORMS  {
+class Uniforms  
+{
         name = "RHS Uniforms";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -1219,7 +1216,7 @@ class RHS_UNIFORMS  {
         };
     };
    
-class ARMAUniform
+class Uniforms
 {
 name="Arma Uniforms";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
@@ -1391,7 +1388,7 @@ items[]=
 };
 };
 
-class EXILEUniform
+class Uniforms
 {
 name="Exile Uniforms";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
@@ -1400,7 +1397,7 @@ items[]=
 	"Exile_Uniform_Woodland",
 };
 };
-	class VSMVests
+class Vests
 	{
 		name = "VSM Vests";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
@@ -1560,7 +1557,8 @@ items[]=
 			"Specter_LBT_vest_WL_TAN" 
 		};
 	};	
-class RHS_VESTS {
+class Vests 
+{
         name = "RHS Vests";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -1724,7 +1722,7 @@ class RHS_VESTS {
 				"rhssaf_vest_md99_woodland"
         };
     };
-class ARMAVest
+class Vests
 {
 name="Arma Vests";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\vest_ca.paa";
@@ -1800,7 +1798,7 @@ items[]=
 {	// EXILECurrency
 };
 };
-class EXILEDrink
+class Drinks
 {
 name="Exile Drinks";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -1819,7 +1817,7 @@ items[]=
 	"Exile_Item_PowerDrink",
 };
 };
-class EXILEFood
+class Food
 {
 name="Exile Food";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -1933,7 +1931,8 @@ items[]=
 
 };
 };
-class RHS_RIFLES    {
+class AssaultRifles    
+{
         name = "RHS Rifles";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2070,7 +2069,7 @@ class RHS_RIFLES    {
         };
     };
    
-class ARMAAssaultRifle
+class AssaultRifles
 {
 name="Arma Assault Rifles";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2135,7 +2134,8 @@ items[]=
 	"arifle_SPAR_03_snd_F",
 };
 };
-    class RHS_PISTOLS   {
+    class Pistols   
+	{
         name = "RHS Pistols";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2150,7 +2150,7 @@ items[]=
         };
     };
    
-class ARMAHandgun
+class Pistols
 {
 name="Arma Handgun";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2241,7 +2241,8 @@ items[]=
     //"launch_Titan_short_F",
 };
 };
-    class RHS_LMGS  {
+    class LightMachineGuns  
+	{
         name = "RHS LMGs";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2262,7 +2263,7 @@ items[]=
         };
     };
    
-class ARMAMachineGun
+class LightMachineGuns
 {
 name="Arma LMG";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2275,7 +2276,7 @@ items[]=
 	"LMG_Zafir_F",
 };
 };
-class ARMAShotgun
+class Shotguns
 {
 name="Arma Shotgun";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2284,7 +2285,8 @@ items[]=
 	"M1014",
 };
 };
-    class RHS_SNIPERS   {
+    class SniperRifles   
+	{
         name = "RHS Snipers";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2322,7 +2324,7 @@ items[]=
         };
     };
    
-class ARMASniperRifle
+class SniperRifles
 {
 name="Arma Sniper Rifles";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2360,7 +2362,7 @@ items[]=
 	"srifle_LRR_tna_F",
 };
 };
-class ARMASubmachineGun
+class SubMachineGuns
 {
 name="Arma SMG";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2371,7 +2373,8 @@ items[]=
 	"SMG_05_F",
 };
 };
-    class RHS_SMG    {
+    class SubMachineGuns    
+	{
         name = "RHS SMG";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2387,7 +2390,7 @@ items[]=
         };
     };
  
-class EXILEAssaultRifle
+class AssaultRifles
 {
 name="Exile Assault Rifles";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2401,7 +2404,7 @@ items[]=
 	"Exile_Weapon_VSSVintorez",
 };
 };
-class EXILEHandgun
+class Pistols
 {
 name="Exile Handgun";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2409,7 +2412,7 @@ items[]=
 {	// EXILEHandgun
 };
 };
-class EXILEMachineGun
+class LightMachineGuns
 {
 name="Exile LMG";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2428,7 +2431,7 @@ items[]=
 {	// EXILEMelee
 };
 };
-class EXILESniperRifle
+class SniperRifles
 {
 name="Exile Sniper Rifle";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2440,7 +2443,7 @@ items[]=
 	"Exile_Weapon_SVDCamo",
 };
 };
-class NIARMSAssaultRifle
+class AssaultRifles
 {
 name="NIArms Assault Rifle";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2568,7 +2571,7 @@ items[]=
 	"hlc_rifle_vendimus",
 };
 };
-class NIARMSMachineGun
+class LightMachineGuns
 {
 name="NIArms LMG";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2603,7 +2606,7 @@ items[]=
 	"hlc_rifle_rpk",
 };
 };
-class NIARMSSniperRifle
+class SniperRifles
 {
 name="NIArms Sniper Rifle";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2622,7 +2625,7 @@ items[]=
 	"hlc_rifle_M1903A1_unertl",
 };
 };
-class NIARMSSubMachineGun
+class SubMachineGuns
 {
 name="NIArms SMG";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2652,7 +2655,7 @@ items[]=
 	"B_Mortar_01_support_F",
 };
 };
-class ArmaBipod
+class BipodAttachments
 {
 name="Arma Bipods";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
@@ -2670,32 +2673,14 @@ items[]=
 };
 };
 
-class NIARMSBipod
+class BipodAttachments
 {
 name="NIArma Bipods";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itembipod_ca.paa";
 items[]=
 {	// NIARMSBipod
 	"HLC_Bipod_G36",
-};
-};
-    class RHS_ACCESSORIES   {
-        name = "RHS Accessories";
-        icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-        items[] =
-        {  
-                //aksupp
-                "rhs_acc_ak5",
-                "rhs_acc_dtk",
-                "rhs_acc_dtk1",
-                "rhs_acc_dtk3",
-                "rhs_acc_dtk4screws",
-                "rhs_acc_dtk4long",
-                "rhs_acc_pbs1",
-                "rhs_acc_pgs64",
-                "rhs_acc_tgpa",
-                "rhs_acc_tgpv",
-                //bipodacc
+	                //bipodacc
                 "rhsusf_acc_harris_bipod",
                 "rhsusf_acc_grip2",
                 "rhsusf_acc_grip2_tan",
@@ -2703,14 +2688,51 @@ items[]=
                 "rhsusf_acc_harris_bipod",
                 "rhsusf_acc_grip3",
                 "rhsusf_acc_grip3_tan",
-                //m4sup
-                "rhsusf_acc_nt4_black",
-                "rhsusf_acc_nt4_tan",
-                "rhsusf_acc_rotex5_grey",
-                "rhsusf_acc_rotex5_tan",
-                "rhsusf_acc_SF3P556",
-                "rhsusf_acc_SFMB556",
-                //snipersup
+};
+};
+
+
+class OpticAttachments
+{
+name="Arma Optics";
+icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
+items[]=
+{	// ARMAOptics
+	"optic_Aco",
+	"optic_ACO_grn",
+	"optic_ACO_grn_smg",
+	"optic_Aco_smg",
+	"optic_AMS",
+	"optic_AMS_khk",
+	"optic_AMS_snd",
+	"optic_Arco",
+	"optic_Arco_blk_F",
+	"optic_Arco_ghex_F",
+	"optic_DMS",
+	"optic_DMS_ghex_F",
+	"optic_ERCO_blk_F",
+	"optic_ERCO_khk_F",
+	"optic_ERCO_snd_F",
+	"optic_Hamr",
+	"optic_Hamr_khk_F",
+	"optic_Holosight",
+	"optic_Holosight_blk_F",
+	"optic_Holosight_khk_F",
+	"optic_Holosight_smg",
+	"optic_Holosight_smg_blk_F",
+	"optic_KHS_blk",
+	"optic_KHS_hex",
+	"optic_KHS_old",
+	"optic_KHS_tan",
+	"optic_LRPS",
+	"optic_LRPS_ghex_F",
+	"optic_LRPS_tna_F",
+	"optic_MRCO",
+	"optic_MRD",
+	"optic_SOS",
+	"optic_SOS_khk_F",
+	"optic_Yorris",
+	                //snipersup
                 "rhsusf_acc_M2010S",
                 //
                 "rhsusf_acc_ACOG2_USMC",
@@ -2760,53 +2782,10 @@ items[]=
                 "rhs_acc_pkas",
                 "rhs_acc_pso1m2",
                 "rhs_acc_pso1m21"
-        };
-    };
-   
-class ARMAOptics
-{
-name="Arma Optics";
-icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
-items[]=
-{	// ARMAOptics
-	"optic_Aco",
-	"optic_ACO_grn",
-	"optic_ACO_grn_smg",
-	"optic_Aco_smg",
-	"optic_AMS",
-	"optic_AMS_khk",
-	"optic_AMS_snd",
-	"optic_Arco",
-	"optic_Arco_blk_F",
-	"optic_Arco_ghex_F",
-	"optic_DMS",
-	"optic_DMS_ghex_F",
-	"optic_ERCO_blk_F",
-	"optic_ERCO_khk_F",
-	"optic_ERCO_snd_F",
-	"optic_Hamr",
-	"optic_Hamr_khk_F",
-	"optic_Holosight",
-	"optic_Holosight_blk_F",
-	"optic_Holosight_khk_F",
-	"optic_Holosight_smg",
-	"optic_Holosight_smg_blk_F",
-	"optic_KHS_blk",
-	"optic_KHS_hex",
-	"optic_KHS_old",
-	"optic_KHS_tan",
-	"optic_LRPS",
-	"optic_LRPS_ghex_F",
-	"optic_LRPS_tna_F",
-	"optic_MRCO",
-	"optic_MRD",
-	"optic_SOS",
-	"optic_SOS_khk_F",
-	"optic_Yorris",
 };
 };
 
-class NIARMSOptics
+class OpticAttachments
 {
 name="NIArms Optics";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemoptic_ca.paa";
@@ -2835,18 +2814,18 @@ items[]=
 	"HLC_Optic_ZFSG1",
 };
 };
-class ARMAPointer
+class PointerAttachments
 {
 name="ARMA Pointers";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 items[]=
 {	// ARMAPointer
 	"acc_flashlight",
-	"acc_pointer_IR",
+	"acc_pointer_IR"
 };
 };
 
-class NIARMSPointer
+class PointerAttachments
 {
 name="NIArms Pointers";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2871,7 +2850,8 @@ items[]=
 {	// NIARMSMuzzle
 };
 };
-    class RHS_AMMO  {
+    class Ammunition  
+	{
         name = "RHS Ammo";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -3028,7 +3008,7 @@ items[]=
                 "rhsusf_mag_40Rnd_46x30_AP"
         };
     };
-class ARMAAmmo
+class Ammunition
 {
 name="ARMA Ammo";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
@@ -3137,7 +3117,7 @@ items[]=
 	"9Rnd_45ACP_Mag",
 };
 };
-class EXILEAmmo
+class Ammunition
 {
 name="EXILE Ammo";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
@@ -3172,7 +3152,7 @@ items[]=
 	"Exile_Magazine_8Rnd_9x18",
 };
 };
-class NIARMSAmmo
+class Ammunition
 {
 name="NIARMS Ammo";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\CargoMag_ca.paa";
