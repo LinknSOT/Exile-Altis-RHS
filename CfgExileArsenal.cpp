@@ -4,37 +4,37 @@
 ////////////Backpacks
 ///////////////
 
-class ABU_Backpack_Kitbag  									{quality == 1; price = 200; };
-class ABU_Backpack_Compact                                	{quality == 1; price = 200; };
-class AOR1_Backpack_Kitbag                                	{quality == 1; price = 200; };
-class AOR1_Backpack_Compact                               	{quality == 1; price = 200; };
-class AOR2_Backpack_Kitbag                                	{quality == 1; price = 200; };
-class AOR2_Backpack_Compact                               	{quality == 1; price = 200; };
-class AORU_Backpack_Kitbag                                	{quality == 1; price = 200; };
-class AORU_Backpack_Compact                               	{quality == 1; price = 200; };
-class CADPAT_Backpack_Kitbag                              	{quality == 1; price = 200; };
-class CADPAT_Backpack_Compact                             	{quality == 1; price = 200; };
-class DualTex_Backpack_Kitbag                             	{quality == 1; price = 200; };
-class DualTex_Backpack_Compact                            	{quality == 1; price = 200; };
-class M81_Backpack_Kitbag                                 	{quality == 1; price = 200; };
-class M81_Backpack_Compact                                	{quality == 1; price = 200; };
-class M90_Backpack_Kitbag                                 	{quality == 1; price = 200; };
-class M90d_Backpack_Kitbag                                	{quality == 1; price = 200; };
-class MarPat_Backpack_Kitbag                              	{quality == 1; price = 200; };
-class MarPat_Backpack_Compact                             	{quality == 1; price = 200; };
-class MC_Backpack_Kitbag                                  	{quality == 1; price = 200; };
-class MCB_Backpack_Kitbag                                 	{quality == 1; price = 200; };
-class MCB_Backpack_Compact                                	{quality == 1; price = 200; };
-class OGA_Backpack_Kitbag                                 	{quality == 1; price = 200; };
-class OGA_G_Backpack_Kitbag                               	{quality == 1; price = 200; };
-class Project_Honor_Backpack_Kitbag                       	{quality == 1; price = 200; };
-class Project_Honor_Backpack_Compact                      	{quality == 1; price = 200; };
-class Scorpion_Backpack_Kitbag                            	{quality == 1; price = 200; };
-class Scorpion_Backpack_Compact                           	{quality == 1; price = 200; };
-class SURPAT_Backpack_Kitbag                              	{quality == 1; price = 200; };
-class SURPAT_Backpack_Compact                             	{quality == 1; price = 200; };
-class Tiger_Backpack_Kitbag                               	{quality == 1; price = 200; };
-class Tiger_Backpack_Compact                              	{quality == 1; price = 200; };
+class ABU_Backpack_Kitbag  									{quality = 1; price = 200; };
+class ABU_Backpack_Compact                                	{quality = 1; price = 200; };
+class AOR1_Backpack_Kitbag                                	{quality = 1; price = 200; };
+class AOR1_Backpack_Compact                               	{quality = 1; price = 200; };
+class AOR2_Backpack_Kitbag                                	{quality = 1; price = 200; };
+class AOR2_Backpack_Compact                               	{quality = 1; price = 200; };
+class AORU_Backpack_Kitbag                                	{quality = 1; price = 200; };
+class AORU_Backpack_Compact                               	{quality = 1; price = 200; };
+class CADPAT_Backpack_Kitbag                              	{quality = 1; price = 200; };
+class CADPAT_Backpack_Compact                             	{quality = 1; price = 200; };
+class DualTex_Backpack_Kitbag                             	{quality = 1; price = 200; };
+class DualTex_Backpack_Compact                            	{quality = 1; price = 200; };
+class M81_Backpack_Kitbag                                 	{quality = 1; price = 200; };
+class M81_Backpack_Compact                                	{quality = 1; price = 200; };
+class M90_Backpack_Kitbag                                 	{quality = 1; price = 200; };
+class M90d_Backpack_Kitbag                                	{quality = 1; price = 200; };
+class MarPat_Backpack_Kitbag                              	{quality = 1; price = 200; };
+class MarPat_Backpack_Compact                             	{quality = 1; price = 200; };
+class MC_Backpack_Kitbag                                  	{quality = 1; price = 200; };
+class MCB_Backpack_Kitbag                                 	{quality = 1; price = 200; };
+class MCB_Backpack_Compact                                	{quality = 1; price = 200; };
+class OGA_Backpack_Kitbag                                 	{quality = 1; price = 200; };
+class OGA_G_Backpack_Kitbag                               	{quality = 1; price = 200; };
+class Project_Honor_Backpack_Kitbag                       	{quality = 1; price = 200; };
+class Project_Honor_Backpack_Compact                      	{quality = 1; price = 200; };
+class Scorpion_Backpack_Kitbag                            	{quality = 1; price = 200; };
+class Scorpion_Backpack_Compact                           	{quality = 1; price = 200; };
+class SURPAT_Backpack_Kitbag                              	{quality = 1; price = 200; };
+class SURPAT_Backpack_Compact                             	{quality = 1; price = 200; };
+class Tiger_Backpack_Kitbag                               	{quality = 1; price = 200; };
+class Tiger_Backpack_Compact                              	{quality = 1; price = 200; };
 	//Arma 3//
 class B_Assault_Diver {quality = 1; price = 2000; };
 class B_AssaultPack_blk {quality = 1; price = 2000; };
@@ -103,22 +103,22 @@ class C_Bergen_red {quality = 1; price = 1800; };
 class G_AssaultPack {quality = 1; price = 1500; };
 class G_Bergen {quality = 1; price = 2000; };
 //us
-class rhsusf_assault_eagleaiii_coy  {quality == 1; price = 2000; };
-class B_rhsusf_B_BACKPACK   {quality == 1; price = 2000; };
-class rhsusf_assault_eagleaiii_ocp  {quality == 1; price = 2000; };
-class rhsusf_assault_eagleaiii_ucp  {quality == 1; price = 2000; };
-class rhsusf_falconii_coy   {quality == 1; price = 2000; };
-class rhsusf_falconii_mc    {quality == 1; price = 2000; };
-class rhsusf_falconii   {quality == 1; price = 2000; };
+class rhsusf_assault_eagleaiii_coy  {quality = 1; price = 2000; };
+class B_rhsusf_B_BACKPACK   {quality = 1; price = 2000; };
+class rhsusf_assault_eagleaiii_ocp  {quality = 1; price = 2000; };
+class rhsusf_assault_eagleaiii_ucp  {quality = 1; price = 2000; };
+class rhsusf_falconii_coy   {quality = 1; price = 2000; };
+class rhsusf_falconii_mc    {quality = 1; price = 2000; };
+class rhsusf_falconii   {quality = 1; price = 2000; };
  
 //ru
-class rhs_rpg_empty {quality == 1; price = 2000; };
-class rhs_sidor {quality == 1; price = 2000; };
-class rhs_assault_umbts {quality == 1; price = 2000; };
-class rhs_assault_umbts_engineer_empty  {quality == 1; price = 2000; };
-class rhssaf_kitbag_md2camo	{quality == 1; price = 2000; };
-class rhssaf_kitbag_digital	{quality == 1; price = 2000; };
-class rhssaf_kitbag_smb	{quality == 1; price = 2000; };
+class rhs_rpg_empty {quality = 1; price = 2000; };
+class rhs_sidor {quality = 1; price = 2000; };
+class rhs_assault_umbts {quality = 1; price = 2000; };
+class rhs_assault_umbts_engineer_empty  {quality = 1; price = 2000; };
+class rhssaf_kitbag_md2camo	{quality = 1; price = 2000; };
+class rhssaf_kitbag_digital	{quality = 1; price = 2000; };
+class rhssaf_kitbag_smb	{quality = 1; price = 2000; };
 
 
 //Head Gear//
@@ -265,367 +265,367 @@ class Exile_Headgear_GasMask {quality = 1; price = 7500; };
 ////HeaGear
 //////////////////
 
-class ABU_Helmet1                         					{quality == 1; price = 200; };                                     
-class ABU_Helmet2                         					{quality == 1; price = 200; };                                     
-class ABU_Boonie                          					{quality == 1; price = 200; };                                     
-class ABU_Cap                             					{quality == 1; price = 200; };                                     
-class AOR1_Helmet1                        					{quality == 1; price = 200; };                                     
-class AOR1_Helmet2                        					{quality == 1; price = 200; };                                     
-class AOR1_Boonie                         					{quality == 1; price = 200; };                                     
-class AOR1_Cap                            					{quality == 1; price = 200; };                                     
-class AOR2_Helmet1                        					{quality == 1; price = 200; };                                     
-class AOR2_Helmet2                        					{quality == 1; price = 200; };                                     
-class AOR2_Boonie                         					{quality == 1; price = 200; };                                     
-class AOR2_Cap                            					{quality == 1; price = 200; };                                     
-class AORU_Helmet1                        					{quality == 1; price = 200; };                                     
-class AORU_Helmet2                        					{quality == 1; price = 200; };                                     
-class AORU_Boonie                         					{quality == 1; price = 200; };                                     
-class AORU_Cap                            					{quality == 1; price = 200; };                                     
-class CADPAT_Helmet1                      					{quality == 1; price = 200; };                                     
-class CADPAT_Helmet2                      					{quality == 1; price = 200; };                                     
-class CADPAT_Boonie                       					{quality == 1; price = 200; };                                     
-class CADPAT_Cap                          					{quality == 1; price = 200; };                                     
-class DualTex_Helmet1                     					{quality == 1; price = 200; };                                     
-class DualTex_Helmet2                     					{quality == 1; price = 200; };                                     
-class DualTex_Boonie                      					{quality == 1; price = 200; };                                     
-class DualTex_Cap                         					{quality == 1; price = 200; };                                     
-class M81_Helmet1                         					{quality == 1; price = 200; };                                     
-class M81_Helmet2                         					{quality == 1; price = 200; };                                     
-class M81_Boonie                          					{quality == 1; price = 200; };                                     
-class M81_Cap                             					{quality == 1; price = 200; };                                     
-class M90_Helmet1                         					{quality == 1; price = 200; };                                     
-class M90_Helmet2                         					{quality == 1; price = 200; };                                     
-class M90_Boonie                          					{quality == 1; price = 200; };                                     
-class M90d_Helmet1                        					{quality == 1; price = 200; };                                     
-class M90d_Helmet2                        					{quality == 1; price = 200; };                                     
-class M90d_Boonie                         					{quality == 1; price = 200; };                                     
-class MarPat_Helmet1                      					{quality == 1; price = 200; };                                     
-class MarPat_Helmet2                      					{quality == 1; price = 200; };                                     
-class MarPat_Boonie                       					{quality == 1; price = 200; };                                     
-class MarPat_Cap                          					{quality == 1; price = 200; };                                     
-class MC_Helmet1                          					{quality == 1; price = 200; };                                     
-class MC_Helmet2                          					{quality == 1; price = 200; };                                     
-class MC_Boonie                           					{quality == 1; price = 200; };                                     
-class MC_Cap                              					{quality == 1; price = 200; };                                     
-class MCB_Helmet1                         					{quality == 1; price = 200; };                                     
-class MCB_Helmet2                         					{quality == 1; price = 200; };                                     
-class MCB_Boonie                          					{quality == 1; price = 200; };                                     
-class MCB_Cap                             					{quality == 1; price = 200; };                                     
-class OGA_Helmet1                         					{quality == 1; price = 200; };                                     
-class OGA_Helmet2                         					{quality == 1; price = 200; };                                     
-class OGA_G_Helmet1                       					{quality == 1; price = 200; };                                     
-class OGA_G_Helmet2                       					{quality == 1; price = 200; };                                     
-class Project_Honor_Helmet1               					{quality == 1; price = 200; };                                     
-class Project_Honor_Helmet2               					{quality == 1; price = 200; };                                     
-class Project_Honor_Boonie                					{quality == 1; price = 200; };                                     
-class Project_Honor_Cap                   					{quality == 1; price = 200; };                                     
-class Scorpion_Helmet1                    					{quality == 1; price = 200; };                                     
-class Scorpion_Helmet2                    					{quality == 1; price = 200; };                                     
-class Scorpion_Boonie                     					{quality == 1; price = 200; };                                     
-class Scorpion_Cap                        					{quality == 1; price = 200; };                                     
-class SURPAT_Helmet1                      					{quality == 1; price = 200; };                                     
-class SURPAT_Helmet2                      					{quality == 1; price = 200; };                                     
-class SURPAT_Helmet3                      					{quality == 1; price = 200; };                                     
-class SURPAT_Boonie                       					{quality == 1; price = 200; };                                     
-class SURPAT_Cap                          					{quality == 1; price = 200; };                                     
-class Tiger_Helmet1                       					{quality == 1; price = 200; };                                     
-class Tiger_Helmet2                       					{quality == 1; price = 200; };                                     
-class Tiger_Boonie                        					{quality == 1; price = 200; };                                     
-class Tiger_Cap						      					{quality == 1; price = 200; };
+class ABU_Helmet1                         					{quality = 1; price = 200; };                                     
+class ABU_Helmet2                         					{quality = 1; price = 200; };                                     
+class ABU_Boonie                          					{quality = 1; price = 200; };                                     
+class ABU_Cap                             					{quality = 1; price = 200; };                                     
+class AOR1_Helmet1                        					{quality = 1; price = 200; };                                     
+class AOR1_Helmet2                        					{quality = 1; price = 200; };                                     
+class AOR1_Boonie                         					{quality = 1; price = 200; };                                     
+class AOR1_Cap                            					{quality = 1; price = 200; };                                     
+class AOR2_Helmet1                        					{quality = 1; price = 200; };                                     
+class AOR2_Helmet2                        					{quality = 1; price = 200; };                                     
+class AOR2_Boonie                         					{quality = 1; price = 200; };                                     
+class AOR2_Cap                            					{quality = 1; price = 200; };                                     
+class AORU_Helmet1                        					{quality = 1; price = 200; };                                     
+class AORU_Helmet2                        					{quality = 1; price = 200; };                                     
+class AORU_Boonie                         					{quality = 1; price = 200; };                                     
+class AORU_Cap                            					{quality = 1; price = 200; };                                     
+class CADPAT_Helmet1                      					{quality = 1; price = 200; };                                     
+class CADPAT_Helmet2                      					{quality = 1; price = 200; };                                     
+class CADPAT_Boonie                       					{quality = 1; price = 200; };                                     
+class CADPAT_Cap                          					{quality = 1; price = 200; };                                     
+class DualTex_Helmet1                     					{quality = 1; price = 200; };                                     
+class DualTex_Helmet2                     					{quality = 1; price = 200; };                                     
+class DualTex_Boonie                      					{quality = 1; price = 200; };                                     
+class DualTex_Cap                         					{quality = 1; price = 200; };                                     
+class M81_Helmet1                         					{quality = 1; price = 200; };                                     
+class M81_Helmet2                         					{quality = 1; price = 200; };                                     
+class M81_Boonie                          					{quality = 1; price = 200; };                                     
+class M81_Cap                             					{quality = 1; price = 200; };                                     
+class M90_Helmet1                         					{quality = 1; price = 200; };                                     
+class M90_Helmet2                         					{quality = 1; price = 200; };                                     
+class M90_Boonie                          					{quality = 1; price = 200; };                                     
+class M90d_Helmet1                        					{quality = 1; price = 200; };                                     
+class M90d_Helmet2                        					{quality = 1; price = 200; };                                     
+class M90d_Boonie                         					{quality = 1; price = 200; };                                     
+class MarPat_Helmet1                      					{quality = 1; price = 200; };                                     
+class MarPat_Helmet2                      					{quality = 1; price = 200; };                                     
+class MarPat_Boonie                       					{quality = 1; price = 200; };                                     
+class MarPat_Cap                          					{quality = 1; price = 200; };                                     
+class MC_Helmet1                          					{quality = 1; price = 200; };                                     
+class MC_Helmet2                          					{quality = 1; price = 200; };                                     
+class MC_Boonie                           					{quality = 1; price = 200; };                                     
+class MC_Cap                              					{quality = 1; price = 200; };                                     
+class MCB_Helmet1                         					{quality = 1; price = 200; };                                     
+class MCB_Helmet2                         					{quality = 1; price = 200; };                                     
+class MCB_Boonie                          					{quality = 1; price = 200; };                                     
+class MCB_Cap                             					{quality = 1; price = 200; };                                     
+class OGA_Helmet1                         					{quality = 1; price = 200; };                                     
+class OGA_Helmet2                         					{quality = 1; price = 200; };                                     
+class OGA_G_Helmet1                       					{quality = 1; price = 200; };                                     
+class OGA_G_Helmet2                       					{quality = 1; price = 200; };                                     
+class Project_Honor_Helmet1               					{quality = 1; price = 200; };                                     
+class Project_Honor_Helmet2               					{quality = 1; price = 200; };                                     
+class Project_Honor_Boonie                					{quality = 1; price = 200; };                                     
+class Project_Honor_Cap                   					{quality = 1; price = 200; };                                     
+class Scorpion_Helmet1                    					{quality = 1; price = 200; };                                     
+class Scorpion_Helmet2                    					{quality = 1; price = 200; };                                     
+class Scorpion_Boonie                     					{quality = 1; price = 200; };                                     
+class Scorpion_Cap                        					{quality = 1; price = 200; };                                     
+class SURPAT_Helmet1                      					{quality = 1; price = 200; };                                     
+class SURPAT_Helmet2                      					{quality = 1; price = 200; };                                     
+class SURPAT_Helmet3                      					{quality = 1; price = 200; };                                     
+class SURPAT_Boonie                       					{quality = 1; price = 200; };                                     
+class SURPAT_Cap                          					{quality = 1; price = 200; };                                     
+class Tiger_Helmet1                       					{quality = 1; price = 200; };                                     
+class Tiger_Helmet2                       					{quality = 1; price = 200; };                                     
+class Tiger_Boonie                        					{quality = 1; price = 200; };                                     
+class Tiger_Cap						      					{quality = 1; price = 200; };
 ////////////////////////////////////////////////////////////////////
 ////////////////////////////RHS HELMETS 0411////////////////////////
 ////////////////////////////////////////////////////////////////////
  
-class rhssaf_helmet_m59_85_nocamo	{quality == 1; price = 500; };
-class rhssaf_helmet_m59_85_oakleaf	{quality == 1; price = 500; };	
-class rhssaf_helmet_m97_olive_nocamo	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_olive_nocamo_black_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_olive_nocamo_black_ess_bare	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_black_nocamo	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_black_nocamo_black_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_black_nocamo_black_ess_bare	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_woodland	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_digital	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_md2camo	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_oakleaf	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_nostrap_blue	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_nostrap_blue_tan_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_nostrap_blue_tan_ess_bare	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_woodland_black_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_digital_black_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_md2camo_black_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_oakleaf_black_ess	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_woodland_black_ess_bare	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_digital_black_ess_bare	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_md2camo_black_ess_bare	{quality == 1; price = 500; };
-class rhssaf_helmet_m97_oakleaf_black_ess_bare	{quality == 1; price = 500; };
-class rhssaf_beret_green	{quality == 1; price = 500; };
-class rhssaf_helmet_hgu56p	{quality == 1; price = 500; };
-class rhssaf_beret_red	{quality == 1; price = 500; };
-class rhssaf_beret_black	{quality == 1; price = 500; };
-class rhssaf_beret_blue_un	{quality == 1; price = 500; };
-class rhssaf_booniehat_digital	{quality == 1; price = 500; };
-class rhssaf_booniehat_md2camo	{quality == 1; price = 500; };
-class rhssaf_booniehat_woodland	{quality == 1; price = 500; };
-class rhs_6b26_green    {quality == 1; price = 500; };
-class rhs_6b26_bala_green   {quality == 1; price = 500; };
-class rhs_6b26_ess_green    {quality == 1; price = 500; };
-class rhs_6b26_ess_bala_green   {quality == 1; price = 500; };
-class rhs_6b26  {quality == 1; price = 500; };
-class rhs_6b26_bala {quality == 1; price = 500; };
-class rhs_6b26_ess  {quality == 1; price = 500; };
-class rhs_6b26_ess_bala {quality == 1; price = 500; };
-class rhs_6b27m_green   {quality == 1; price = 500; };
-class rhs_6b27m_green_bala  {quality == 1; price = 500; };
-class rhs_6b27m_green_ess   {quality == 1; price = 500; };
-class rhs_6b27m_green_ess_bala  {quality == 1; price = 500; };
-class rhs_6b27m_digi    {quality == 1; price = 500; };
-class rhs_6b27m_digi_bala   {quality == 1; price = 500; };
-class rhs_6b27m_digi_ess    {quality == 1; price = 500; };
-class rhs_6b27m_digi_ess_bala   {quality == 1; price = 500; };
-class rhs_6b27m {quality == 1; price = 500; };
-class rhs_6b27m_bala    {quality == 1; price = 500; };
-class rhs_6b27m_ess {quality == 1; price = 500; };
-class rhs_6b27m_ess_bala    {quality == 1; price = 500; };
-class rhs_6b27m_ml  {quality == 1; price = 500; };
-class rhs_6b27m_ml_bala {quality == 1; price = 500; };
-class rhs_6b27m_ml_ess  {quality == 1; price = 500; };
-class rhs_6b27m_ML_ess_bala {quality == 1; price = 500; };
-class rhs_6b28_green    {quality == 1; price = 500; };
-class rhs_6b28_green_bala   {quality == 1; price = 500; };
-class rhs_6b28_green_ess    {quality == 1; price = 500; };
-class rhs_6b28_green_ess_bala   {quality == 1; price = 500; };
-class rhs_6b28  {quality == 1; price = 500; };
-class rhs_6b28_bala {quality == 1; price = 500; };
-class rhs_6b28_ess  {quality == 1; price = 500; };
-class rhs_6b28_ess_bala {quality == 1; price = 500; };
-class rhs_6b28_flora    {quality == 1; price = 500; };
-class rhs_6b28_flora_bala   {quality == 1; price = 500; };
-class rhs_6b28_flora_ess    {quality == 1; price = 500; };
-class rhs_6b28_flora_ess_bala   {quality == 1; price = 500; };
-class rhs_6b47  {quality == 1; price = 500; };
-class rhs_6b47_bala {quality == 1; price = 500; };
-class rhs_6b47_ess  {quality == 1; price = 500; };
-class rhs_6b47_ess_bala {quality == 1; price = 500; };
-class rhs_6b7_1m    {quality == 1; price = 500; };
-class rhs_6b7_1m_bala1  {quality == 1; price = 500; };
-class rhs_6b7_1m_bala2  {quality == 1; price = 500; };
-class rhs_6b7_1m_emr    {quality == 1; price = 500; };
-class rhs_6b7_1m_bala1_emr  {quality == 1; price = 500; };
-class rhs_6b7_1m_bala2_emr  {quality == 1; price = 500; };
-class rhs_6b7_1m_emr_ess    {quality == 1; price = 500; };
-class rhs_6b7_1m_emr_ess_bala   {quality == 1; price = 500; };
-class rhs_6b7_1m_ess    {quality == 1; price = 500; };
-class rhs_6b7_1m_ess_bala   {quality == 1; price = 500; };
-class rhs_6b7_1m_flora  {quality == 1; price = 500; };
-class rhs_6b7_1m_bala2_flora    {quality == 1; price = 500; };
-class rhs_6b7_1m_bala1_flora    {quality == 1; price = 500; };
-class rhs_6b7_1m_flora_ns3  {quality == 1; price = 500; };
-class rhs_6b7_1m_olive  {quality == 1; price = 500; };
-class rhs_6b7_1m_bala1_olive    {quality == 1; price = 500; };
-class rhs_6b7_1m_bala2_olive    {quality == 1; price = 500; };
-class rhsusf_ach_bare   {quality == 1; price = 500; };
-class rhsusf_ach_bare_des   {quality == 1; price = 500; };
-class rhsusf_ach_bare_des_ess   {quality == 1; price = 500; };
-class rhsusf_ach_bare_des_headset   {quality == 1; price = 500; };
-class rhsusf_ach_bare_des_headset_ess   {quality == 1; price = 500; };
-class rhsusf_ach_bare_ess   {quality == 1; price = 500; };
-class rhsusf_ach_bare_headset   {quality == 1; price = 500; };
-class rhsusf_ach_bare_headset_ess   {quality == 1; price = 500; };
-class rhsusf_ach_bare_semi  {quality == 1; price = 500; };
-class rhsusf_ach_bare_semi_ess  {quality == 1; price = 500; };
-class rhsusf_ach_bare_semi_headset  {quality == 1; price = 500; };
-class rhsusf_ach_bare_semi_headset_ess  {quality == 1; price = 500; };
-class rhsusf_ach_bare_tan   {quality == 1; price = 500; };
-class rhsusf_ach_bare_tan_ess   {quality == 1; price = 500; };
-class rhsusf_ach_bare_tan_headset   {quality == 1; price = 500; };
-class rhsusf_ach_bare_tan_headset_ess   {quality == 1; price = 500; };
-class rhsusf_ach_bare_wood  {quality == 1; price = 500; };
-class rhsusf_ach_bare_wood_ess  {quality == 1; price = 500; };
-class rhsusf_ach_bare_wood_headset  {quality == 1; price = 500; };
-class rhsusf_ach_bare_wood_headset_ess  {quality == 1; price = 500; };
-class rhsusf_ach_helmet_M81 {quality == 1; price = 500; };
-class rhsusf_ach_helmet_ocp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_ESS_ocp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_headset_ocp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_headset_ess_ocp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_camo_ocp    {quality == 1; price = 500; };
-class rhsusf_ach_helmet_ocp_norotos {quality == 1; price = 500; };
-class rhsusf_ach_helmet_ucp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_ESS_ucp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_headset_ucp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_headset_ess_ucp {quality == 1; price = 500; };
-class rhsusf_ach_helmet_ucp_norotos {quality == 1; price = 500; };
-class rhsusf_cvc_green_helmet   {quality == 1; price = 500; };
-class rhsusf_cvc_green_ess  {quality == 1; price = 500; };
-class rhsusf_cvc_helmet {quality == 1; price = 500; };
-class rhsusf_cvc_ess    {quality == 1; price = 500; };
-class rhsgref_bcap_specter  {quality == 1; price = 500; };
-class rhs_beanie_green  {quality == 1; price = 500; };
-class rhs_beanie    {quality == 1; price = 500; };
-class rhs_beret_mp1 {quality == 1; price = 500; };
-class rhs_beret_mp2 {quality == 1; price = 500; };
-class rhs_beret_vdv2    {quality == 1; price = 500; };
-class rhs_beret_vdv3    {quality == 1; price = 500; };
-class rhs_beret_vdv1    {quality == 1; price = 500; };
-class rhs_beret_milp    {quality == 1; price = 500; };
-class rhs_Booniehat_digi    {quality == 1; price = 500; };
-class rhs_Booniehat_flora   {quality == 1; price = 500; };
-class rhsgref_Booniehat_alpen   {quality == 1; price = 500; };
-class rhs_Booniehat_m81 {quality == 1; price = 500; };
-class rhs_booniehat2_marpatd    {quality == 1; price = 500; };
-class rhs_booniehat2_marpatwd   {quality == 1; price = 500; };
-class rhs_Booniehat_ocp {quality == 1; price = 500; };
-class rhs_Booniehat_ucp {quality == 1; price = 500; };
-class rhsusf_Bowman {quality == 1; price = 500; };
-class rhsusf_bowman_cap {quality == 1; price = 500; };
-class rhsusf_opscore_aor1   {quality == 1; price = 500; };
-class rhsusf_opscore_aor1_pelt  {quality == 1; price = 500; };
-class rhsusf_opscore_aor1_pelt_nsw  {quality == 1; price = 500; };
-class rhsusf_opscore_aor2   {quality == 1; price = 500; };
-class rhsusf_opscore_aor2_pelt  {quality == 1; price = 500; };
-class rhsusf_opscore_aor2_pelt_nsw  {quality == 1; price = 500; };
-class rhsusf_opscore_bk {quality == 1; price = 500; };
-class rhsusf_opscore_bk_pelt    {quality == 1; price = 500; };
-class rhsusf_opscore_coy_cover  {quality == 1; price = 500; };
-class rhsusf_opscore_coy_cover_pelt {quality == 1; price = 500; };
-class rhsusf_opscore_fg {quality == 1; price = 500; };
-class rhsusf_opscore_fg_pelt    {quality == 1; price = 500; };
-class rhsusf_opscore_fg_pelt_cam    {quality == 1; price = 500; };
-class rhsusf_opscore_fg_pelt_nsw    {quality == 1; price = 500; };
-class rhsusf_opscore_mc_cover   {quality == 1; price = 500; };
-class rhsusf_opscore_mc_cover_pelt  {quality == 1; price = 500; };
-class rhsusf_opscore_mc_cover_pelt_nsw  {quality == 1; price = 500; };
-class rhsusf_opscore_mc_cover_pelt_cam  {quality == 1; price = 500; };
-class rhsusf_opscore_mc {quality == 1; price = 500; };
-class rhsusf_opscore_mc_pelt    {quality == 1; price = 500; };
-class rhsusf_opscore_mc_pelt_nsw    {quality == 1; price = 500; };
-class rhsusf_opscore_paint  {quality == 1; price = 500; };
-class rhsusf_opscore_paint_pelt {quality == 1; price = 500; };
-class rhsusf_opscore_paint_pelt_nsw {quality == 1; price = 500; };
-class rhsusf_opscore_paint_pelt_nsw_cam {quality == 1; price = 500; };
-class rhsusf_opscore_rg_cover   {quality == 1; price = 500; };
-class rhsusf_opscore_rg_cover_pelt  {quality == 1; price = 500; };
-class rhsusf_opscore_ut {quality == 1; price = 500; };
-class rhsusf_opscore_ut_pelt    {quality == 1; price = 500; };
-class rhsusf_opscore_ut_pelt_cam    {quality == 1; price = 500; };
-class rhsusf_opscore_ut_pelt_nsw    {quality == 1; price = 500; };
-class rhsusf_opscore_ut_pelt_nsw_cam    {quality == 1; price = 500; };
-class rhs_fieldcap  {quality == 1; price = 500; };
-class rhs_fieldcap_helm_digi    {quality == 1; price = 500; };
-class rhs_fieldcap_helm_ml  {quality == 1; price = 500; };
-class rhs_fieldcap_helm {quality == 1; price = 500; };
-class rhs_fieldcap_digi {quality == 1; price = 500; };
-class rhs_fieldcap_digi2    {quality == 1; price = 500; };
-class rhs_fieldcap_ml   {quality == 1; price = 500; };
-class rhs_fieldcap_khk  {quality == 1; price = 500; };
-class rhs_fieldcap_vsr  {quality == 1; price = 500; };
-class rhsgref_fieldcap_ttsko_digi   {quality == 1; price = 500; };
-class rhsgref_fieldcap_ttsko_forest {quality == 1; price = 500; };
-class rhsgref_fieldcap_ttsko_mountain   {quality == 1; price = 500; };
-class rhsgref_fieldcap_ttsko_urban  {quality == 1; price = 500; };
-class rhs_gssh18    {quality == 1; price = 500; };
-class rhsusf_hgu56p {quality == 1; price = 500; };
-class rhsusf_hgu56p_mask    {quality == 1; price = 500; };
-class RHS_jetpilot_usaf {quality == 1; price = 500; };
-class rhsgref_6b27m_ttsko_digi  {quality == 1; price = 500; };
-class rhsgref_6b27m_ttsko_forest    {quality == 1; price = 500; };
-class rhsgref_6b27m_ttsko_mountain  {quality == 1; price = 500; };
-class rhsgref_6b27m_ttsko_urban {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_M1942   {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatd {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatd_ess {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatd_headset {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatwd    {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatwd_blk_ess    {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatwd_headset_blk    {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatwd_headset    {quality == 1; price = 500; };
-class rhsusf_lwh_helmet_marpatwd_ess    {quality == 1; price = 500; };
-class rhsusf_mich_bare  {quality == 1; price = 500; };
-class rhsusf_mich_bare_alt  {quality == 1; price = 500; };
-class rhsusf_mich_bare_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_alt  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_alt_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_alt  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_alt_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_semi {quality == 1; price = 500; };
-class rhsusf_mich_bare_alt_semi {quality == 1; price = 500; };
-class rhsusf_mich_bare_semi_headset {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_semi {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_alt_semi {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_alt_semi_headset {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_semi {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_alt_semi {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_alt_semi_headset {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_semi_headset {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_semi_headset {quality == 1; price = 500; };
-class rhsusf_mich_bare_tan  {quality == 1; price = 500; };
-class rhsusf_mich_bare_alt_tan  {quality == 1; price = 500; };
-class rhsusf_mich_bare_tan_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_tan  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_alt_tan  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_alt_tan_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_tan  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_alt_tan  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_arc_alt_tan_headset  {quality == 1; price = 500; };
-class rhsusf_mich_bare_norotos_tan_headset  {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_alt    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_alt_headset    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_headset    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_norotos    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_norotos_arc    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_norotos_arc_headset    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatd_norotos_headset    {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_alt   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_alt_headset   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_headset   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_norotos   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_norotos_arc   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_norotos_arc_headset   {quality == 1; price = 500; };
-class rhsusf_mich_helmet_marpatwd_norotos_headset   {quality == 1; price = 500; };
-class rhsgref_patrolcap_specter {quality == 1; price = 500; };
-class rhsusf_patrolcap_ocp  {quality == 1; price = 500; };
-class rhsusf_patrolcap_ucp  {quality == 1; price = 500; };
-class rhsusf_protech_helmet {quality == 1; price = 500; };
-class rhsusf_protech_helmet_ess {quality == 1; price = 500; };
-class rhsusf_protech_helmet_rhino   {quality == 1; price = 500; };
-class rhsusf_protech_helmet_rhino_ess   {quality == 1; price = 500; };
-class rhs_ssh68 {quality == 1; price = 500; };
-class rhsgref_ssh68_emr {quality == 1; price = 500; };
-class rhsgref_ssh68_ttsko_digi  {quality == 1; price = 500; };
-class rhsgref_ssh68_ttsko_forest    {quality == 1; price = 500; };
-class rhsgref_ssh68_ttsko_mountain  {quality == 1; price = 500; };
-class rhsgref_ssh68_un  {quality == 1; price = 500; };
-class rhs_tsh4  {quality == 1; price = 500; };
-class rhs_tsh4_bala {quality == 1; price = 500; };
-class rhs_tsh4_ess  {quality == 1; price = 500; };
-class rhs_tsh4_ess_bala {quality == 1; price = 500; };
-class rhsgref_un_beret  {quality == 1; price = 500; };
-class rhs_8point_marpatd    {quality == 1; price = 500; };
-class rhs_8point_marpatwd   {quality == 1; price = 500; };
-class rhs_zsh12 {quality == 1; price = 500; };
-class rhs_zsh12_bala    {quality == 1; price = 500; };
-class rhs_zsh12_black   {quality == 1; price = 500; };
-class rhs_zsh7a_mike_green_alt  {quality == 1; price = 500; };
-class rhs_zsh7a_mike_alt    {quality == 1; price = 500; };
-class rhs_zsh7a_mike_green  {quality == 1; price = 500; };
-class rhs_zsh7a_mike    {quality == 1; price = 500; };
-class rhs_zsh7a {quality == 1; price = 500; };
-class rhs_zsh7a_alt {quality == 1; price = 500; };
+class rhssaf_helmet_m59_85_nocamo	{quality = 1; price = 500; };
+class rhssaf_helmet_m59_85_oakleaf	{quality = 1; price = 500; };	
+class rhssaf_helmet_m97_olive_nocamo	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_olive_nocamo_black_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_olive_nocamo_black_ess_bare	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_black_nocamo	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_black_nocamo_black_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_black_nocamo_black_ess_bare	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_woodland	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_digital	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_md2camo	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_oakleaf	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_nostrap_blue	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_nostrap_blue_tan_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_nostrap_blue_tan_ess_bare	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_woodland_black_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_digital_black_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_md2camo_black_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_oakleaf_black_ess	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_woodland_black_ess_bare	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_digital_black_ess_bare	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_md2camo_black_ess_bare	{quality = 1; price = 500; };
+class rhssaf_helmet_m97_oakleaf_black_ess_bare	{quality = 1; price = 500; };
+class rhssaf_beret_green	{quality = 1; price = 500; };
+class rhssaf_helmet_hgu56p	{quality = 1; price = 500; };
+class rhssaf_beret_red	{quality = 1; price = 500; };
+class rhssaf_beret_black	{quality = 1; price = 500; };
+class rhssaf_beret_blue_un	{quality = 1; price = 500; };
+class rhssaf_booniehat_digital	{quality = 1; price = 500; };
+class rhssaf_booniehat_md2camo	{quality = 1; price = 500; };
+class rhssaf_booniehat_woodland	{quality = 1; price = 500; };
+class rhs_6b26_green    {quality = 1; price = 500; };
+class rhs_6b26_bala_green   {quality = 1; price = 500; };
+class rhs_6b26_ess_green    {quality = 1; price = 500; };
+class rhs_6b26_ess_bala_green   {quality = 1; price = 500; };
+class rhs_6b26  {quality = 1; price = 500; };
+class rhs_6b26_bala {quality = 1; price = 500; };
+class rhs_6b26_ess  {quality = 1; price = 500; };
+class rhs_6b26_ess_bala {quality = 1; price = 500; };
+class rhs_6b27m_green   {quality = 1; price = 500; };
+class rhs_6b27m_green_bala  {quality = 1; price = 500; };
+class rhs_6b27m_green_ess   {quality = 1; price = 500; };
+class rhs_6b27m_green_ess_bala  {quality = 1; price = 500; };
+class rhs_6b27m_digi    {quality = 1; price = 500; };
+class rhs_6b27m_digi_bala   {quality = 1; price = 500; };
+class rhs_6b27m_digi_ess    {quality = 1; price = 500; };
+class rhs_6b27m_digi_ess_bala   {quality = 1; price = 500; };
+class rhs_6b27m {quality = 1; price = 500; };
+class rhs_6b27m_bala    {quality = 1; price = 500; };
+class rhs_6b27m_ess {quality = 1; price = 500; };
+class rhs_6b27m_ess_bala    {quality = 1; price = 500; };
+class rhs_6b27m_ml  {quality = 1; price = 500; };
+class rhs_6b27m_ml_bala {quality = 1; price = 500; };
+class rhs_6b27m_ml_ess  {quality = 1; price = 500; };
+class rhs_6b27m_ML_ess_bala {quality = 1; price = 500; };
+class rhs_6b28_green    {quality = 1; price = 500; };
+class rhs_6b28_green_bala   {quality = 1; price = 500; };
+class rhs_6b28_green_ess    {quality = 1; price = 500; };
+class rhs_6b28_green_ess_bala   {quality = 1; price = 500; };
+class rhs_6b28  {quality = 1; price = 500; };
+class rhs_6b28_bala {quality = 1; price = 500; };
+class rhs_6b28_ess  {quality = 1; price = 500; };
+class rhs_6b28_ess_bala {quality = 1; price = 500; };
+class rhs_6b28_flora    {quality = 1; price = 500; };
+class rhs_6b28_flora_bala   {quality = 1; price = 500; };
+class rhs_6b28_flora_ess    {quality = 1; price = 500; };
+class rhs_6b28_flora_ess_bala   {quality = 1; price = 500; };
+class rhs_6b47  {quality = 1; price = 500; };
+class rhs_6b47_bala {quality = 1; price = 500; };
+class rhs_6b47_ess  {quality = 1; price = 500; };
+class rhs_6b47_ess_bala {quality = 1; price = 500; };
+class rhs_6b7_1m    {quality = 1; price = 500; };
+class rhs_6b7_1m_bala1  {quality = 1; price = 500; };
+class rhs_6b7_1m_bala2  {quality = 1; price = 500; };
+class rhs_6b7_1m_emr    {quality = 1; price = 500; };
+class rhs_6b7_1m_bala1_emr  {quality = 1; price = 500; };
+class rhs_6b7_1m_bala2_emr  {quality = 1; price = 500; };
+class rhs_6b7_1m_emr_ess    {quality = 1; price = 500; };
+class rhs_6b7_1m_emr_ess_bala   {quality = 1; price = 500; };
+class rhs_6b7_1m_ess    {quality = 1; price = 500; };
+class rhs_6b7_1m_ess_bala   {quality = 1; price = 500; };
+class rhs_6b7_1m_flora  {quality = 1; price = 500; };
+class rhs_6b7_1m_bala2_flora    {quality = 1; price = 500; };
+class rhs_6b7_1m_bala1_flora    {quality = 1; price = 500; };
+class rhs_6b7_1m_flora_ns3  {quality = 1; price = 500; };
+class rhs_6b7_1m_olive  {quality = 1; price = 500; };
+class rhs_6b7_1m_bala1_olive    {quality = 1; price = 500; };
+class rhs_6b7_1m_bala2_olive    {quality = 1; price = 500; };
+class rhsusf_ach_bare   {quality = 1; price = 500; };
+class rhsusf_ach_bare_des   {quality = 1; price = 500; };
+class rhsusf_ach_bare_des_ess   {quality = 1; price = 500; };
+class rhsusf_ach_bare_des_headset   {quality = 1; price = 500; };
+class rhsusf_ach_bare_des_headset_ess   {quality = 1; price = 500; };
+class rhsusf_ach_bare_ess   {quality = 1; price = 500; };
+class rhsusf_ach_bare_headset   {quality = 1; price = 500; };
+class rhsusf_ach_bare_headset_ess   {quality = 1; price = 500; };
+class rhsusf_ach_bare_semi  {quality = 1; price = 500; };
+class rhsusf_ach_bare_semi_ess  {quality = 1; price = 500; };
+class rhsusf_ach_bare_semi_headset  {quality = 1; price = 500; };
+class rhsusf_ach_bare_semi_headset_ess  {quality = 1; price = 500; };
+class rhsusf_ach_bare_tan   {quality = 1; price = 500; };
+class rhsusf_ach_bare_tan_ess   {quality = 1; price = 500; };
+class rhsusf_ach_bare_tan_headset   {quality = 1; price = 500; };
+class rhsusf_ach_bare_tan_headset_ess   {quality = 1; price = 500; };
+class rhsusf_ach_bare_wood  {quality = 1; price = 500; };
+class rhsusf_ach_bare_wood_ess  {quality = 1; price = 500; };
+class rhsusf_ach_bare_wood_headset  {quality = 1; price = 500; };
+class rhsusf_ach_bare_wood_headset_ess  {quality = 1; price = 500; };
+class rhsusf_ach_helmet_M81 {quality = 1; price = 500; };
+class rhsusf_ach_helmet_ocp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_ESS_ocp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_headset_ocp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_headset_ess_ocp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_camo_ocp    {quality = 1; price = 500; };
+class rhsusf_ach_helmet_ocp_norotos {quality = 1; price = 500; };
+class rhsusf_ach_helmet_ucp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_ESS_ucp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_headset_ucp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_headset_ess_ucp {quality = 1; price = 500; };
+class rhsusf_ach_helmet_ucp_norotos {quality = 1; price = 500; };
+class rhsusf_cvc_green_helmet   {quality = 1; price = 500; };
+class rhsusf_cvc_green_ess  {quality = 1; price = 500; };
+class rhsusf_cvc_helmet {quality = 1; price = 500; };
+class rhsusf_cvc_ess    {quality = 1; price = 500; };
+class rhsgref_bcap_specter  {quality = 1; price = 500; };
+class rhs_beanie_green  {quality = 1; price = 500; };
+class rhs_beanie    {quality = 1; price = 500; };
+class rhs_beret_mp1 {quality = 1; price = 500; };
+class rhs_beret_mp2 {quality = 1; price = 500; };
+class rhs_beret_vdv2    {quality = 1; price = 500; };
+class rhs_beret_vdv3    {quality = 1; price = 500; };
+class rhs_beret_vdv1    {quality = 1; price = 500; };
+class rhs_beret_milp    {quality = 1; price = 500; };
+class rhs_Booniehat_digi    {quality = 1; price = 500; };
+class rhs_Booniehat_flora   {quality = 1; price = 500; };
+class rhsgref_Booniehat_alpen   {quality = 1; price = 500; };
+class rhs_Booniehat_m81 {quality = 1; price = 500; };
+class rhs_booniehat2_marpatd    {quality = 1; price = 500; };
+class rhs_booniehat2_marpatwd   {quality = 1; price = 500; };
+class rhs_Booniehat_ocp {quality = 1; price = 500; };
+class rhs_Booniehat_ucp {quality = 1; price = 500; };
+class rhsusf_Bowman {quality = 1; price = 500; };
+class rhsusf_bowman_cap {quality = 1; price = 500; };
+class rhsusf_opscore_aor1   {quality = 1; price = 500; };
+class rhsusf_opscore_aor1_pelt  {quality = 1; price = 500; };
+class rhsusf_opscore_aor1_pelt_nsw  {quality = 1; price = 500; };
+class rhsusf_opscore_aor2   {quality = 1; price = 500; };
+class rhsusf_opscore_aor2_pelt  {quality = 1; price = 500; };
+class rhsusf_opscore_aor2_pelt_nsw  {quality = 1; price = 500; };
+class rhsusf_opscore_bk {quality = 1; price = 500; };
+class rhsusf_opscore_bk_pelt    {quality = 1; price = 500; };
+class rhsusf_opscore_coy_cover  {quality = 1; price = 500; };
+class rhsusf_opscore_coy_cover_pelt {quality = 1; price = 500; };
+class rhsusf_opscore_fg {quality = 1; price = 500; };
+class rhsusf_opscore_fg_pelt    {quality = 1; price = 500; };
+class rhsusf_opscore_fg_pelt_cam    {quality = 1; price = 500; };
+class rhsusf_opscore_fg_pelt_nsw    {quality = 1; price = 500; };
+class rhsusf_opscore_mc_cover   {quality = 1; price = 500; };
+class rhsusf_opscore_mc_cover_pelt  {quality = 1; price = 500; };
+class rhsusf_opscore_mc_cover_pelt_nsw  {quality = 1; price = 500; };
+class rhsusf_opscore_mc_cover_pelt_cam  {quality = 1; price = 500; };
+class rhsusf_opscore_mc {quality = 1; price = 500; };
+class rhsusf_opscore_mc_pelt    {quality = 1; price = 500; };
+class rhsusf_opscore_mc_pelt_nsw    {quality = 1; price = 500; };
+class rhsusf_opscore_paint  {quality = 1; price = 500; };
+class rhsusf_opscore_paint_pelt {quality = 1; price = 500; };
+class rhsusf_opscore_paint_pelt_nsw {quality = 1; price = 500; };
+class rhsusf_opscore_paint_pelt_nsw_cam {quality = 1; price = 500; };
+class rhsusf_opscore_rg_cover   {quality = 1; price = 500; };
+class rhsusf_opscore_rg_cover_pelt  {quality = 1; price = 500; };
+class rhsusf_opscore_ut {quality = 1; price = 500; };
+class rhsusf_opscore_ut_pelt    {quality = 1; price = 500; };
+class rhsusf_opscore_ut_pelt_cam    {quality = 1; price = 500; };
+class rhsusf_opscore_ut_pelt_nsw    {quality = 1; price = 500; };
+class rhsusf_opscore_ut_pelt_nsw_cam    {quality = 1; price = 500; };
+class rhs_fieldcap  {quality = 1; price = 500; };
+class rhs_fieldcap_helm_digi    {quality = 1; price = 500; };
+class rhs_fieldcap_helm_ml  {quality = 1; price = 500; };
+class rhs_fieldcap_helm {quality = 1; price = 500; };
+class rhs_fieldcap_digi {quality = 1; price = 500; };
+class rhs_fieldcap_digi2    {quality = 1; price = 500; };
+class rhs_fieldcap_ml   {quality = 1; price = 500; };
+class rhs_fieldcap_khk  {quality = 1; price = 500; };
+class rhs_fieldcap_vsr  {quality = 1; price = 500; };
+class rhsgref_fieldcap_ttsko_digi   {quality = 1; price = 500; };
+class rhsgref_fieldcap_ttsko_forest {quality = 1; price = 500; };
+class rhsgref_fieldcap_ttsko_mountain   {quality = 1; price = 500; };
+class rhsgref_fieldcap_ttsko_urban  {quality = 1; price = 500; };
+class rhs_gssh18    {quality = 1; price = 500; };
+class rhsusf_hgu56p {quality = 1; price = 500; };
+class rhsusf_hgu56p_mask    {quality = 1; price = 500; };
+class RHS_jetpilot_usaf {quality = 1; price = 500; };
+class rhsgref_6b27m_ttsko_digi  {quality = 1; price = 500; };
+class rhsgref_6b27m_ttsko_forest    {quality = 1; price = 500; };
+class rhsgref_6b27m_ttsko_mountain  {quality = 1; price = 500; };
+class rhsgref_6b27m_ttsko_urban {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_M1942   {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatd {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatd_ess {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatd_headset {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatwd    {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatwd_blk_ess    {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatwd_headset_blk    {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatwd_headset    {quality = 1; price = 500; };
+class rhsusf_lwh_helmet_marpatwd_ess    {quality = 1; price = 500; };
+class rhsusf_mich_bare  {quality = 1; price = 500; };
+class rhsusf_mich_bare_alt  {quality = 1; price = 500; };
+class rhsusf_mich_bare_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_alt  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_alt_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_alt  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_alt_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_semi {quality = 1; price = 500; };
+class rhsusf_mich_bare_alt_semi {quality = 1; price = 500; };
+class rhsusf_mich_bare_semi_headset {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_semi {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_alt_semi {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_alt_semi_headset {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_semi {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_alt_semi {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_alt_semi_headset {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_semi_headset {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_semi_headset {quality = 1; price = 500; };
+class rhsusf_mich_bare_tan  {quality = 1; price = 500; };
+class rhsusf_mich_bare_alt_tan  {quality = 1; price = 500; };
+class rhsusf_mich_bare_tan_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_tan  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_alt_tan  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_alt_tan_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_tan  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_alt_tan  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_arc_alt_tan_headset  {quality = 1; price = 500; };
+class rhsusf_mich_bare_norotos_tan_headset  {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_alt    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_alt_headset    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_headset    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_norotos    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_norotos_arc    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_norotos_arc_headset    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatd_norotos_headset    {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_alt   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_alt_headset   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_headset   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_norotos   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_norotos_arc   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_norotos_arc_headset   {quality = 1; price = 500; };
+class rhsusf_mich_helmet_marpatwd_norotos_headset   {quality = 1; price = 500; };
+class rhsgref_patrolcap_specter {quality = 1; price = 500; };
+class rhsusf_patrolcap_ocp  {quality = 1; price = 500; };
+class rhsusf_patrolcap_ucp  {quality = 1; price = 500; };
+class rhsusf_protech_helmet {quality = 1; price = 500; };
+class rhsusf_protech_helmet_ess {quality = 1; price = 500; };
+class rhsusf_protech_helmet_rhino   {quality = 1; price = 500; };
+class rhsusf_protech_helmet_rhino_ess   {quality = 1; price = 500; };
+class rhs_ssh68 {quality = 1; price = 500; };
+class rhsgref_ssh68_emr {quality = 1; price = 500; };
+class rhsgref_ssh68_ttsko_digi  {quality = 1; price = 500; };
+class rhsgref_ssh68_ttsko_forest    {quality = 1; price = 500; };
+class rhsgref_ssh68_ttsko_mountain  {quality = 1; price = 500; };
+class rhsgref_ssh68_un  {quality = 1; price = 500; };
+class rhs_tsh4  {quality = 1; price = 500; };
+class rhs_tsh4_bala {quality = 1; price = 500; };
+class rhs_tsh4_ess  {quality = 1; price = 500; };
+class rhs_tsh4_ess_bala {quality = 1; price = 500; };
+class rhsgref_un_beret  {quality = 1; price = 500; };
+class rhs_8point_marpatd    {quality = 1; price = 500; };
+class rhs_8point_marpatwd   {quality = 1; price = 500; };
+class rhs_zsh12 {quality = 1; price = 500; };
+class rhs_zsh12_bala    {quality = 1; price = 500; };
+class rhs_zsh12_black   {quality = 1; price = 500; };
+class rhs_zsh7a_mike_green_alt  {quality = 1; price = 500; };
+class rhs_zsh7a_mike_alt    {quality = 1; price = 500; };
+class rhs_zsh7a_mike_green  {quality = 1; price = 500; };
+class rhs_zsh7a_mike    {quality = 1; price = 500; };
+class rhs_zsh7a {quality = 1; price = 500; };
+class rhs_zsh7a_alt {quality = 1; price = 500; };
 //facewear
-class rhs_balaclava {quality == 1; price = 500; };
-class rhs_balaclava1_olive  {quality == 1; price = 500; };
-class rhs_googles_black {quality == 1; price = 500; };
-class rhs_googles_orange    {quality == 1; price = 500; };
-class rhs_googles_yellow    {quality == 1; price = 500; };
-class rhs_googles_clear {quality == 1; price = 500; };
-class rhs_ess_black {quality == 1; price = 500; };
-class rhs_scarf {quality == 1; price = 500; };
+class rhs_balaclava {quality = 1; price = 500; };
+class rhs_balaclava1_olive  {quality = 1; price = 500; };
+class rhs_googles_black {quality = 1; price = 500; };
+class rhs_googles_orange    {quality = 1; price = 500; };
+class rhs_googles_yellow    {quality = 1; price = 500; };
+class rhs_googles_clear {quality = 1; price = 500; };
+class rhs_ess_black {quality = 1; price = 500; };
+class rhs_scarf {quality = 1; price = 500; };
 
 //nvgs//
 class Integrated_NVG_F {quality = 1; price = 990; };
@@ -636,17 +636,17 @@ class NVGoggles_tna_F {quality = 1; price = 990; };
 class O_NVGoggles_ghex_F {quality = 1; price = 990; };
 class O_NVGoggles_urb_F {quality = 1; price = 990; };
 //nvg
-class rhs_1PN138    {quality == 1; price = 500; };
-class rhsusf_ANPVS_14   {quality == 1; price = 500; };
-class rhsusf_ANPVS_15   {quality == 1; price = 500; };
-class rhsusf_Rhino  {quality == 1; price = 500; };
+class rhs_1PN138    {quality = 1; price = 500; };
+class rhsusf_ANPVS_14   {quality = 1; price = 500; };
+class rhsusf_ANPVS_15   {quality = 1; price = 500; };
+class rhsusf_Rhino  {quality = 1; price = 500; };
 //bino
-class lerca_1200_black  {quality == 1; price = 500; };
-class lerca_1200_tan    {quality == 1; price = 500; };
-class Leupold_Mk4   {quality == 1; price = 500; };
-class rhs_pdu4  {quality == 1; price = 500; };
-class rhs_tr8_periscope {quality == 1; price = 500; };
-class rhs_tr8_periscope_pip {quality == 1; price = 500; };
+class lerca_1200_black  {quality = 1; price = 500; };
+class lerca_1200_tan    {quality = 1; price = 500; };
+class Leupold_Mk4   {quality = 1; price = 500; };
+class rhs_pdu4  {quality = 1; price = 500; };
+class rhs_tr8_periscope {quality = 1; price = 500; };
+class rhs_tr8_periscope_pip {quality = 1; price = 500; };
 
 //Uniforms//
 	//Arma 3//
@@ -818,82 +818,82 @@ class U_Rangemaster {quality = 1; price = 291; };
 ////////////////////////////////////////////////////////////////////
  
 //us
-class rhs_uniform_cu_ocp    {quality == 1; price = 500; };
-class rhs_uniform_cu_ocp_101st  {quality == 1; price = 500; };
-class rhs_uniform_cu_ocp_10th   {quality == 1; price = 500; };
-class rhs_uniform_cu_ocp_1stcav {quality == 1; price = 500; };
-class rhs_uniform_cu_ocp_82nd   {quality == 1; price = 500; };
-class rhs_uniform_cu_ucp    {quality == 1; price = 500; };
-class rhs_uniform_cu_ucp_101st  {quality == 1; price = 500; };
-class rhs_uniform_cu_ucp_10th   {quality == 1; price = 500; };
-class rhs_uniform_cu_ucp_1stcav {quality == 1; price = 500; };
-class rhs_uniform_cu_ucp_82nd   {quality == 1; price = 500; };
+class rhs_uniform_cu_ocp    {quality = 1; price = 500; };
+class rhs_uniform_cu_ocp_101st  {quality = 1; price = 500; };
+class rhs_uniform_cu_ocp_10th   {quality = 1; price = 500; };
+class rhs_uniform_cu_ocp_1stcav {quality = 1; price = 500; };
+class rhs_uniform_cu_ocp_82nd   {quality = 1; price = 500; };
+class rhs_uniform_cu_ucp    {quality = 1; price = 500; };
+class rhs_uniform_cu_ucp_101st  {quality = 1; price = 500; };
+class rhs_uniform_cu_ucp_10th   {quality = 1; price = 500; };
+class rhs_uniform_cu_ucp_1stcav {quality = 1; price = 500; };
+class rhs_uniform_cu_ucp_82nd   {quality = 1; price = 500; };
  
 //ru
-class rhs_uniform_df15  {quality == 1; price = 500; };
-class rhs_uniform_df15_tan  {quality == 1; price = 500; };
+class rhs_uniform_df15  {quality = 1; price = 500; };
+class rhs_uniform_df15_tan  {quality = 1; price = 500; };
  
-class rhs_uniform_emr_des_patchless {quality == 1; price = 500; };
-class rhs_uniform_vdv_emr_des   {quality == 1; price = 500; };
-class rhs_uniform_emr_patchless {quality == 1; price = 500; };
-class rhs_uniform_msv_emr   {quality == 1; price = 500; };
-class rhs_uniform_vdv_emr   {quality == 1; price = 500; };
+class rhs_uniform_emr_des_patchless {quality = 1; price = 500; };
+class rhs_uniform_vdv_emr_des   {quality = 1; price = 500; };
+class rhs_uniform_emr_patchless {quality = 1; price = 500; };
+class rhs_uniform_msv_emr   {quality = 1; price = 500; };
+class rhs_uniform_vdv_emr   {quality = 1; price = 500; };
  
-class rhs_uniform_flora_patchless   {quality == 1; price = 500; };
-class rhs_uniform_flora_patchless_alt   {quality == 1; price = 500; };
-class rhs_uniform_flora {quality == 1; price = 500; };
-class rhs_uniform_vdv_flora {quality == 1; price = 500; };
-class rhs_uniform_vmf_flora {quality == 1; price = 500; };
+class rhs_uniform_flora_patchless   {quality = 1; price = 500; };
+class rhs_uniform_flora_patchless_alt   {quality = 1; price = 500; };
+class rhs_uniform_flora {quality = 1; price = 500; };
+class rhs_uniform_vdv_flora {quality = 1; price = 500; };
+class rhs_uniform_vmf_flora {quality = 1; price = 500; };
  
 //us
-class rhs_uniform_FROG01_d  {quality == 1; price = 500; };
-class rhs_uniform_FROG01_wd {quality == 1; price = 500; };
+class rhs_uniform_FROG01_d  {quality = 1; price = 500; };
+class rhs_uniform_FROG01_wd {quality = 1; price = 500; };
  
-class rhs_uniform_g3_blk    {quality == 1; price = 500; };
-class rhs_uniform_g3_m81    {quality == 1; price = 500; };
-class rhs_uniform_g3_mc {quality == 1; price = 500; };
-class rhs_uniform_g3_rgr    {quality == 1; price = 500; };
-class rhs_uniform_g3_tan    {quality == 1; price = 500; };
- 
-//ru
-class rhs_uniform_gorka_r_g {quality == 1; price = 500; };
-class rhs_uniform_gorka_r_y {quality == 1; price = 500; };
- 
-class rhs_uniform_mvd_izlom {quality == 1; price = 500; };
-class rhssaf_uniform_m10_digital	{quality == 1; price = 500; };
-class rhssaf_uniform_m10_digital_summer	{quality == 1; price = 500; };
-class rhssaf_uniform_m10_digital_desert	{quality == 1; price = 500; };	
-class rhssaf_uniform_m10_digital_tan_boots	{quality == 1; price = 500; };
-class rhssaf_uniform_m93_oakleaf	{quality == 1; price = 500; };
-class rhssaf_uniform_m93_oakleaf_summer	{quality == 1; price = 500; };
-class rhssaf_uniform_heli_pilot	{quality == 1; price = 500; };
- 
-//gref
-class rhsgref_uniform_para_ttsko_mountain   {quality == 1; price = 500; };
-class rhsgref_uniform_para_ttsko_oxblood    {quality == 1; price = 500; };
-class rhsgref_uniform_para_ttsko_urban  {quality == 1; price = 500; };
+class rhs_uniform_g3_blk    {quality = 1; price = 500; };
+class rhs_uniform_g3_m81    {quality = 1; price = 500; };
+class rhs_uniform_g3_mc {quality = 1; price = 500; };
+class rhs_uniform_g3_rgr    {quality = 1; price = 500; };
+class rhs_uniform_g3_tan    {quality = 1; price = 500; };
  
 //ru
-class rhs_uniform_m88_patchless {quality == 1; price = 500; };
+class rhs_uniform_gorka_r_g {quality = 1; price = 500; };
+class rhs_uniform_gorka_r_y {quality = 1; price = 500; };
+ 
+class rhs_uniform_mvd_izlom {quality = 1; price = 500; };
+class rhssaf_uniform_m10_digital	{quality = 1; price = 500; };
+class rhssaf_uniform_m10_digital_summer	{quality = 1; price = 500; };
+class rhssaf_uniform_m10_digital_desert	{quality = 1; price = 500; };	
+class rhssaf_uniform_m10_digital_tan_boots	{quality = 1; price = 500; };
+class rhssaf_uniform_m93_oakleaf	{quality = 1; price = 500; };
+class rhssaf_uniform_m93_oakleaf_summer	{quality = 1; price = 500; };
+class rhssaf_uniform_heli_pilot	{quality = 1; price = 500; };
  
 //gref
-class rhsgref_uniform_vsr   {quality == 1; price = 500; };
-class rhsgref_uniform_ttsko_forest  {quality == 1; price = 500; };
-class rhsgref_uniform_ttsko_mountain    {quality == 1; price = 500; };
-class rhsgref_uniform_ttsko_urban   {quality == 1; price = 500; };
-class rhsgref_uniform_alpenflage    {quality == 1; price = 500; };
-class rhsgref_uniform_flecktarn {quality == 1; price = 500; };
-class rhsgref_uniform_tigerstripe   {quality == 1; price = 500; };
-class rhsgref_uniform_reed  {quality == 1; price = 500; };
-class rhsgref_uniform_woodland  {quality == 1; price = 500; };
-class rhsgref_uniform_woodland_olive    {quality == 1; price = 500; };
+class rhsgref_uniform_para_ttsko_mountain   {quality = 1; price = 500; };
+class rhsgref_uniform_para_ttsko_oxblood    {quality = 1; price = 500; };
+class rhsgref_uniform_para_ttsko_urban  {quality = 1; price = 500; };
  
 //ru
-class rhs_uniform_mflora_patchless  {quality == 1; price = 500; };
-class rhs_uniform_vdv_mflora    {quality == 1; price = 500; };
+class rhs_uniform_m88_patchless {quality = 1; price = 500; };
  
 //gref
-class rhsgref_uniform_specter   {quality == 1; price = 500; };
+class rhsgref_uniform_vsr   {quality = 1; price = 500; };
+class rhsgref_uniform_ttsko_forest  {quality = 1; price = 500; };
+class rhsgref_uniform_ttsko_mountain    {quality = 1; price = 500; };
+class rhsgref_uniform_ttsko_urban   {quality = 1; price = 500; };
+class rhsgref_uniform_alpenflage    {quality = 1; price = 500; };
+class rhsgref_uniform_flecktarn {quality = 1; price = 500; };
+class rhsgref_uniform_tigerstripe   {quality = 1; price = 500; };
+class rhsgref_uniform_reed  {quality = 1; price = 500; };
+class rhsgref_uniform_woodland  {quality = 1; price = 500; };
+class rhsgref_uniform_woodland_olive    {quality = 1; price = 500; };
+ 
+//ru
+class rhs_uniform_mflora_patchless  {quality = 1; price = 500; };
+class rhs_uniform_vdv_mflora    {quality = 1; price = 500; };
+ 
+//gref
+class rhsgref_uniform_specter   {quality = 1; price = 500; };
 	//Diving gear//
 class G_B_Diving {quality = 1; price = 50; };
 class G_O_Diving {quality = 1; price = 50; };
@@ -974,328 +974,328 @@ class V_TacVestIR_blk {quality = 1; price = 1381; };
 ///Vests
 //////////////////
 
-class ABU_Vest_1                        					{quality == 1; price = 160; };                                       
-class ABU_Vest_2                        					{quality == 1; price = 160; };                                       
-class ABU_Vest_3                        					{quality == 1; price = 160; };                                       
-class ABU_Vest_4                        					{quality == 1; price = 160; };                                       
-class ABU_Vest_5                        					{quality == 1; price = 160; };                                       
-class AOR1_Vest_1                       					{quality == 1; price = 160; };                                       
-class AOR1_Vest_2                       					{quality == 1; price = 160; };                                       
-class AOR1_Vest_3                       					{quality == 1; price = 160; };                                       
-class AOR1_Vest_4                       					{quality == 1; price = 160; };                                       
-class AOR1_Vest_5                       					{quality == 1; price = 160; };                                       
-class AOR2_Vest_1                       					{quality == 1; price = 160; };                                       
-class AOR2_Vest_2                       					{quality == 1; price = 160; };                                       
-class AOR2_Vest_3                       					{quality == 1; price = 160; };                                       
-class AOR2_Vest_4                       					{quality == 1; price = 160; };                                       
-class AOR2_Vest_5                       					{quality == 1; price = 160; };                                       
-class aor2_LBT_vest                     					{quality == 1; price = 160; };                                       
-class AORU_Vest_1                       					{quality == 1; price = 160; };                                       
-class AORU_Vest_2                       					{quality == 1; price = 160; };                                       
-class AORU_Vest_3                       					{quality == 1; price = 160; };                                       
-class AORU_Vest_4                       					{quality == 1; price = 160; };                                       
-class AORU_Vest_5                       					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_1                     					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_2                     					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_3                     					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_4                     					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_5                     					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_6                     					{quality == 1; price = 160; };                                       
-class CADPAT_Vest_7                     					{quality == 1; price = 160; };                                       
-class DualTex_Vest_1                    					{quality == 1; price = 160; };                                       
-class DualTex_Vest_2                    					{quality == 1; price = 160; };                                       
-class DualTex_Vest_3                    					{quality == 1; price = 160; };                                       
-class DualTex_Vest_4                    					{quality == 1; price = 160; };                                       
-class DualTex_Vest_5                    					{quality == 1; price = 160; };                                       
-class M81_Vest_1                        					{quality == 1; price = 160; };                                       
-class M81_Vest_2                        					{quality == 1; price = 160; };                                       
-class M81_Vest_3                        					{quality == 1; price = 160; };                                       
-class M81_Vest_4                        					{quality == 1; price = 160; };                                       
-class M81_Vest_5                        					{quality == 1; price = 160; };                                       
-class M90_Vest_1                        					{quality == 1; price = 160; };                                       
-class M90_Vest_2                        					{quality == 1; price = 160; };                                       
-class M90_Vest_3                        					{quality == 1; price = 160; };                                       
-class M90_Vest_4                        					{quality == 1; price = 160; };                                       
-class M90_Vest_5                        					{quality == 1; price = 160; };                                       
-class M90d_Vest_1                       					{quality == 1; price = 160; };                                       
-class M90d_Vest_2                       					{quality == 1; price = 160; };                                       
-class M90d_Vest_3                       					{quality == 1; price = 160; };                                       
-class M90d_Vest_4                       					{quality == 1; price = 160; };                                       
-class M90d_Vest_5                       					{quality == 1; price = 160; };                                       
-class MarPat_Vest_1                     					{quality == 1; price = 160; };                                       
-class MarPat_Vest_2                     					{quality == 1; price = 160; };                                       
-class MarPat_Vest_3                     					{quality == 1; price = 160; };                                       
-class MarPat_Vest_4                     					{quality == 1; price = 160; };                                       
-class MarPat_Vest_5                     					{quality == 1; price = 160; };                                       
-class MC_Vest_1                         					{quality == 1; price = 160; };                                       
-class MC_Vest_2                         					{quality == 1; price = 160; };                                       
-class MC_Vest_3                         					{quality == 1; price = 160; };                                       
-class MC_Vest_4                         					{quality == 1; price = 160; };                                       
-class MC_Vest_5                         					{quality == 1; price = 160; };                                       
-class MCB_Vest_1                        					{quality == 1; price = 160; };                                       
-class MCB_Vest_2                        					{quality == 1; price = 160; };                                       
-class MCB_Vest_3                        					{quality == 1; price = 160; };                                       
-class MCB_Vest_4                        					{quality == 1; price = 160; };                                       
-class MCB_Vest_5                        					{quality == 1; price = 160; };                                       
-class MCB_Vest_6                        					{quality == 1; price = 160; };                                       
-class MCB_Vest_7                        					{quality == 1; price = 160; };                                       
-class MCB_LBT_vest                      					{quality == 1; price = 160; };                                       
-class OGA_Vest_1                        					{quality == 1; price = 160; };                                       
-class OGA_Vest_2                        					{quality == 1; price = 160; };                                       
-class OGA_Vest_3                        					{quality == 1; price = 160; };                                       
-class OGA_G_Vest_1                      					{quality == 1; price = 160; };                                       
-class OGA_G_Vest_2                      					{quality == 1; price = 160; };                                       
-class OGA_G_Vest_3                      					{quality == 1; price = 160; };                                       
-class OGA_Vest_6                        					{quality == 1; price = 160; };                                       
-class OGA_Vest_7                        					{quality == 1; price = 160; };                                       
-class OGA_G_Vest_6                      					{quality == 1; price = 160; };                                       
-class OGA_G_Vest_7                      					{quality == 1; price = 160; };                                       
-class Project_Honor_Vest_1              					{quality == 1; price = 160; };                                       
-class Project_Honor_Vest_2              					{quality == 1; price = 160; };                                  
-class Project_Honor_Vest_3              					{quality == 1; price = 160; };                                    
-class Project_Honor_Vest_4              					{quality == 1; price = 160; };                                       
-class Project_Honor_Vest_5              					{quality == 1; price = 160; };                                       
-class Project_Honor_Vest_6              					{quality == 1; price = 160; };                                       
-class Project_Honor_Vest_7              					{quality == 1; price = 160; };                                       
-class Project_Honor_LBT_vest            					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_1                   					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_2                   					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_3                   					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_4                   					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_5                   					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_6                   					{quality == 1; price = 160; };                                       
-class Scorpion_Vest_7                   					{quality == 1; price = 160; };                                       
-class Scorpion_LBT_vest                 					{quality == 1; price = 160; };                                       
-class Marpat_MBSS                       					{quality == 1; price = 160; };                                       
-class Marpat_MBSS_PACA                  					{quality == 1; price = 160; };                                       
-class MC_MBSS                           					{quality == 1; price = 160; };                                       
-class MC_MBSS_PACA                      					{quality == 1; price = 160; };                                       
-class PH_MBSS                           					{quality == 1; price = 160; };                                       
-class PH_MBSS_PACA                      					{quality == 1; price = 160; };                                       
-class Scorpion_MBSS                     					{quality == 1; price = 160; };                                       
-class Scorpion_MBSS_PACA                					{quality == 1; price = 160; };                                       
-class Tiger_MBSS                        					{quality == 1; price = 160; };                                       
-class Tiger_MBSS_PACA                   					{quality == 1; price = 160; };                                       
-class M81_MBSS                          					{quality == 1; price = 160; };                                       
-class M81_MBSS_PACA                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_1                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_2                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_3                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_4                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_5                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_6                     					{quality == 1; price = 160; };                                       
-class SURPAT_Vest_7                     					{quality == 1; price = 160; };                                       
-class Tiger_Vest_1                      					{quality == 1; price = 160; };                                       
-class Tiger_Vest_2                      					{quality == 1; price = 160; };                                       
-class Tiger_Vest_3                      					{quality == 1; price = 160; };                                       
-class Tiger_Vest_4                      					{quality == 1; price = 160; };                                       
-class Tiger_Vest_5                      					{quality == 1; price = 160; };                                       
-class Specter_RAV                       					{quality == 1; price = 160; };                                       
-class Specter_RAV_BLK                   					{quality == 1; price = 160; };                                       
-class Specter_MBSS                      					{quality == 1; price = 160; };                                       
-class Specter_MBSS_BLK                  					{quality == 1; price = 160; };                                       
-class Specter_MBSS_TAN                  					{quality == 1; price = 160; };                                       
-class Specter_MBSS_CB                   					{quality == 1; price = 160; };                                       
-class Specter_MBSS_WTF                  					{quality == 1; price = 160; };                                       
-class Specter_MBSS_light                					{quality == 1; price = 160; };                                       
-class Specter_MBSS_light_BLK            					{quality == 1; price = 160; };                                       
-class Specter_MBSS_light_TAN            					{quality == 1; price = 160; };                                       
-class Specter_MBSS_light_CB             					{quality == 1; price = 160; };                                       
-class Specter_MBSS_light_WTF            					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA                 					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_BLK             					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_TAN             					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_CB              					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_WTF             					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_l               					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_l_BLK           					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_l_TAN           					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_l_CB            					{quality == 1; price = 160; };                                       
-class Specter_MBSS_PACA_l_WTF           					{quality == 1; price = 160; };                                       
-class Specter_IDF_vest                  					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest                  					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_CB               					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_GRN              					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_TAN              					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_WL               					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_BLK_WL           					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_CB_WL            					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_GRN_WL           					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_TAN_WL           					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_WL_BLK           					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_WL_CB            					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_WL_GRN           					{quality == 1; price = 160; };                                       
-class Specter_LBT_vest_WL_TAN								{quality == 1; price = 160; };
+class ABU_Vest_1                        					{quality = 1; price = 160; };                                       
+class ABU_Vest_2                        					{quality = 1; price = 160; };                                       
+class ABU_Vest_3                        					{quality = 1; price = 160; };                                       
+class ABU_Vest_4                        					{quality = 1; price = 160; };                                       
+class ABU_Vest_5                        					{quality = 1; price = 160; };                                       
+class AOR1_Vest_1                       					{quality = 1; price = 160; };                                       
+class AOR1_Vest_2                       					{quality = 1; price = 160; };                                       
+class AOR1_Vest_3                       					{quality = 1; price = 160; };                                       
+class AOR1_Vest_4                       					{quality = 1; price = 160; };                                       
+class AOR1_Vest_5                       					{quality = 1; price = 160; };                                       
+class AOR2_Vest_1                       					{quality = 1; price = 160; };                                       
+class AOR2_Vest_2                       					{quality = 1; price = 160; };                                       
+class AOR2_Vest_3                       					{quality = 1; price = 160; };                                       
+class AOR2_Vest_4                       					{quality = 1; price = 160; };                                       
+class AOR2_Vest_5                       					{quality = 1; price = 160; };                                       
+class aor2_LBT_vest                     					{quality = 1; price = 160; };                                       
+class AORU_Vest_1                       					{quality = 1; price = 160; };                                       
+class AORU_Vest_2                       					{quality = 1; price = 160; };                                       
+class AORU_Vest_3                       					{quality = 1; price = 160; };                                       
+class AORU_Vest_4                       					{quality = 1; price = 160; };                                       
+class AORU_Vest_5                       					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_1                     					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_2                     					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_3                     					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_4                     					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_5                     					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_6                     					{quality = 1; price = 160; };                                       
+class CADPAT_Vest_7                     					{quality = 1; price = 160; };                                       
+class DualTex_Vest_1                    					{quality = 1; price = 160; };                                       
+class DualTex_Vest_2                    					{quality = 1; price = 160; };                                       
+class DualTex_Vest_3                    					{quality = 1; price = 160; };                                       
+class DualTex_Vest_4                    					{quality = 1; price = 160; };                                       
+class DualTex_Vest_5                    					{quality = 1; price = 160; };                                       
+class M81_Vest_1                        					{quality = 1; price = 160; };                                       
+class M81_Vest_2                        					{quality = 1; price = 160; };                                       
+class M81_Vest_3                        					{quality = 1; price = 160; };                                       
+class M81_Vest_4                        					{quality = 1; price = 160; };                                       
+class M81_Vest_5                        					{quality = 1; price = 160; };                                       
+class M90_Vest_1                        					{quality = 1; price = 160; };                                       
+class M90_Vest_2                        					{quality = 1; price = 160; };                                       
+class M90_Vest_3                        					{quality = 1; price = 160; };                                       
+class M90_Vest_4                        					{quality = 1; price = 160; };                                       
+class M90_Vest_5                        					{quality = 1; price = 160; };                                       
+class M90d_Vest_1                       					{quality = 1; price = 160; };                                       
+class M90d_Vest_2                       					{quality = 1; price = 160; };                                       
+class M90d_Vest_3                       					{quality = 1; price = 160; };                                       
+class M90d_Vest_4                       					{quality = 1; price = 160; };                                       
+class M90d_Vest_5                       					{quality = 1; price = 160; };                                       
+class MarPat_Vest_1                     					{quality = 1; price = 160; };                                       
+class MarPat_Vest_2                     					{quality = 1; price = 160; };                                       
+class MarPat_Vest_3                     					{quality = 1; price = 160; };                                       
+class MarPat_Vest_4                     					{quality = 1; price = 160; };                                       
+class MarPat_Vest_5                     					{quality = 1; price = 160; };                                       
+class MC_Vest_1                         					{quality = 1; price = 160; };                                       
+class MC_Vest_2                         					{quality = 1; price = 160; };                                       
+class MC_Vest_3                         					{quality = 1; price = 160; };                                       
+class MC_Vest_4                         					{quality = 1; price = 160; };                                       
+class MC_Vest_5                         					{quality = 1; price = 160; };                                       
+class MCB_Vest_1                        					{quality = 1; price = 160; };                                       
+class MCB_Vest_2                        					{quality = 1; price = 160; };                                       
+class MCB_Vest_3                        					{quality = 1; price = 160; };                                       
+class MCB_Vest_4                        					{quality = 1; price = 160; };                                       
+class MCB_Vest_5                        					{quality = 1; price = 160; };                                       
+class MCB_Vest_6                        					{quality = 1; price = 160; };                                       
+class MCB_Vest_7                        					{quality = 1; price = 160; };                                       
+class MCB_LBT_vest                      					{quality = 1; price = 160; };                                       
+class OGA_Vest_1                        					{quality = 1; price = 160; };                                       
+class OGA_Vest_2                        					{quality = 1; price = 160; };                                       
+class OGA_Vest_3                        					{quality = 1; price = 160; };                                       
+class OGA_G_Vest_1                      					{quality = 1; price = 160; };                                       
+class OGA_G_Vest_2                      					{quality = 1; price = 160; };                                       
+class OGA_G_Vest_3                      					{quality = 1; price = 160; };                                       
+class OGA_Vest_6                        					{quality = 1; price = 160; };                                       
+class OGA_Vest_7                        					{quality = 1; price = 160; };                                       
+class OGA_G_Vest_6                      					{quality = 1; price = 160; };                                       
+class OGA_G_Vest_7                      					{quality = 1; price = 160; };                                       
+class Project_Honor_Vest_1              					{quality = 1; price = 160; };                                       
+class Project_Honor_Vest_2              					{quality = 1; price = 160; };                                  
+class Project_Honor_Vest_3              					{quality = 1; price = 160; };                                    
+class Project_Honor_Vest_4              					{quality = 1; price = 160; };                                       
+class Project_Honor_Vest_5              					{quality = 1; price = 160; };                                       
+class Project_Honor_Vest_6              					{quality = 1; price = 160; };                                       
+class Project_Honor_Vest_7              					{quality = 1; price = 160; };                                       
+class Project_Honor_LBT_vest            					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_1                   					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_2                   					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_3                   					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_4                   					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_5                   					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_6                   					{quality = 1; price = 160; };                                       
+class Scorpion_Vest_7                   					{quality = 1; price = 160; };                                       
+class Scorpion_LBT_vest                 					{quality = 1; price = 160; };                                       
+class Marpat_MBSS                       					{quality = 1; price = 160; };                                       
+class Marpat_MBSS_PACA                  					{quality = 1; price = 160; };                                       
+class MC_MBSS                           					{quality = 1; price = 160; };                                       
+class MC_MBSS_PACA                      					{quality = 1; price = 160; };                                       
+class PH_MBSS                           					{quality = 1; price = 160; };                                       
+class PH_MBSS_PACA                      					{quality = 1; price = 160; };                                       
+class Scorpion_MBSS                     					{quality = 1; price = 160; };                                       
+class Scorpion_MBSS_PACA                					{quality = 1; price = 160; };                                       
+class Tiger_MBSS                        					{quality = 1; price = 160; };                                       
+class Tiger_MBSS_PACA                   					{quality = 1; price = 160; };                                       
+class M81_MBSS                          					{quality = 1; price = 160; };                                       
+class M81_MBSS_PACA                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_1                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_2                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_3                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_4                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_5                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_6                     					{quality = 1; price = 160; };                                       
+class SURPAT_Vest_7                     					{quality = 1; price = 160; };                                       
+class Tiger_Vest_1                      					{quality = 1; price = 160; };                                       
+class Tiger_Vest_2                      					{quality = 1; price = 160; };                                       
+class Tiger_Vest_3                      					{quality = 1; price = 160; };                                       
+class Tiger_Vest_4                      					{quality = 1; price = 160; };                                       
+class Tiger_Vest_5                      					{quality = 1; price = 160; };                                       
+class Specter_RAV                       					{quality = 1; price = 160; };                                       
+class Specter_RAV_BLK                   					{quality = 1; price = 160; };                                       
+class Specter_MBSS                      					{quality = 1; price = 160; };                                       
+class Specter_MBSS_BLK                  					{quality = 1; price = 160; };                                       
+class Specter_MBSS_TAN                  					{quality = 1; price = 160; };                                       
+class Specter_MBSS_CB                   					{quality = 1; price = 160; };                                       
+class Specter_MBSS_WTF                  					{quality = 1; price = 160; };                                       
+class Specter_MBSS_light                					{quality = 1; price = 160; };                                       
+class Specter_MBSS_light_BLK            					{quality = 1; price = 160; };                                       
+class Specter_MBSS_light_TAN            					{quality = 1; price = 160; };                                       
+class Specter_MBSS_light_CB             					{quality = 1; price = 160; };                                       
+class Specter_MBSS_light_WTF            					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA                 					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_BLK             					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_TAN             					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_CB              					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_WTF             					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_l               					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_l_BLK           					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_l_TAN           					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_l_CB            					{quality = 1; price = 160; };                                       
+class Specter_MBSS_PACA_l_WTF           					{quality = 1; price = 160; };                                       
+class Specter_IDF_vest                  					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest                  					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_CB               					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_GRN              					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_TAN              					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_WL               					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_BLK_WL           					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_CB_WL            					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_GRN_WL           					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_TAN_WL           					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_WL_BLK           					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_WL_CB            					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_WL_GRN           					{quality = 1; price = 160; };                                       
+class Specter_LBT_vest_WL_TAN								{quality = 1; price = 160; };
 ////////////////////////////////////////////////////////////////////
 ////////////////////////////RHS VESTS 0411//////////////////////////
 ////////////////////////////////////////////////////////////////////
  
-class rhssaf_vest_md98_woodland	{quality == 1; price = 500; };
-class rhssaf_vest_md98_md2camo	{quality == 1; price = 500; };
-class rhssaf_vest_md98_digital	{quality == 1; price = 500; };
-class rhssaf_vest_md98_officer	{quality == 1; price = 500; };
-class rhssaf_vest_md98_rifleman	{quality == 1; price = 500; };
-class rhssaf_vest_otv_md2camo	{quality == 1; price = 500; };
-class rhssaf_vest_md99_md2camo_rifleman	{quality == 1; price = 500; };
-class rhssaf_vest_md99_digital_rifleman	{quality == 1; price = 500; };
-class rhssaf_vest_md99_woodland_rifleman	{quality == 1; price = 500; };
-class rhssaf_vest_md99_md2camo	{quality == 1; price = 500; };
-class rhssaf_vest_md99_digital	{quality == 1; price = 500; };
-class rhssaf_vest_md99_woodland	{quality == 1; price = 500; };
+class rhssaf_vest_md98_woodland	{quality = 1; price = 500; };
+class rhssaf_vest_md98_md2camo	{quality = 1; price = 500; };
+class rhssaf_vest_md98_digital	{quality = 1; price = 500; };
+class rhssaf_vest_md98_officer	{quality = 1; price = 500; };
+class rhssaf_vest_md98_rifleman	{quality = 1; price = 500; };
+class rhssaf_vest_otv_md2camo	{quality = 1; price = 500; };
+class rhssaf_vest_md99_md2camo_rifleman	{quality = 1; price = 500; };
+class rhssaf_vest_md99_digital_rifleman	{quality = 1; price = 500; };
+class rhssaf_vest_md99_woodland_rifleman	{quality = 1; price = 500; };
+class rhssaf_vest_md99_md2camo	{quality = 1; price = 500; };
+class rhssaf_vest_md99_digital	{quality = 1; price = 500; };
+class rhssaf_vest_md99_woodland	{quality = 1; price = 500; };
  
 //ru
-class rhs_6b13_Flora    {quality == 1; price = 500; };
-class rhs_6b13_Flora_6sh92  {quality == 1; price = 500; };
-class rhs_6b13_Flora_6sh92_headset_mapcase  {quality == 1; price = 500; };
-class rhs_6b13_Flora_6sh92_radio    {quality == 1; price = 500; };
-class rhs_6b13_Flora_6sh92_vog  {quality == 1; price = 500; };
-class rhs_6b13_Flora_crewofficer    {quality == 1; price = 500; };
-class rhs_6b13_EMR_6sh92    {quality == 1; price = 500; };
-class rhs_6b13_EMR_6sh92_radio  {quality == 1; price = 500; };
-class rhs_6b13_EMR_6sh92_vog    {quality == 1; price = 500; };
-class rhs_6b13_EMR_6sh92_headset_mapcase    {quality == 1; price = 500; };
-class rhs_6b13_EMR  {quality == 1; price = 500; };
-class rhs_6b13  {quality == 1; price = 500; };
-class rhs_6b13_6sh92    {quality == 1; price = 500; };
-class rhs_6b13_6sh92_headset_mapcase    {quality == 1; price = 500; };
-class rhs_6b13_6sh92_radio  {quality == 1; price = 500; };
-class rhs_6b13_6sh92_vog    {quality == 1; price = 500; };
-class rhs_6b13_crewofficer  {quality == 1; price = 500; };
-class rhs_6b23  {quality == 1; price = 500; };
-class rhs_6b23_6sh116_od    {quality == 1; price = 500; };
-class rhs_6b23_6sh116_vog_od    {quality == 1; price = 500; };
-class rhs_6b23_6sh92    {quality == 1; price = 500; };
-class rhs_6b23_6sh92_headset    {quality == 1; price = 500; };
-class rhs_6b23_6sh92_headset_mapcase    {quality == 1; price = 500; };
-class rhs_6b23_6sh92_radio  {quality == 1; price = 500; };
-class rhs_6b23_6sh92_vog    {quality == 1; price = 500; };
-class rhs_6b23_6sh92_vog_headset    {quality == 1; price = 500; };
-class rhs_6b23_crewofficer  {quality == 1; price = 500; };
-class rhs_6b23_crew {quality == 1; price = 500; };
-class rhs_6b23_engineer {quality == 1; price = 500; };
-class rhs_6b23_medic    {quality == 1; price = 500; };
-class rhs_6b23_rifleman {quality == 1; price = 500; };
-class rhs_6b23_sniper   {quality == 1; price = 500; };
-class rhs_6b23_vydra_3m {quality == 1; price = 500; };
-class rhs_6b23_digi {quality == 1; price = 500; };
-class rhs_6b23_6sh116   {quality == 1; price = 500; };
-class rhs_6b23_6sh116_vog   {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92   {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_headset   {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_headset_spetsnaz  {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_headset_mapcase   {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_radio {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_Spetsnaz  {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_vog   {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_vog_headset   {quality == 1; price = 500; };
-class rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz    {quality == 1; price = 500; };
-class rhs_6b23_digi_crewofficer {quality == 1; price = 500; };
-class rhs_6b23_digi_crew    {quality == 1; price = 500; };
-class rhs_6b23_digi_engineer    {quality == 1; price = 500; };
-class rhs_6b23_digi_medic   {quality == 1; price = 500; };
-class rhs_6b23_digi_rifleman    {quality == 1; price = 500; };
-class rhs_6b23_digi_sniper  {quality == 1; price = 500; };
-class rhs_6b23_digi_vydra_3m    {quality == 1; price = 500; };
-class rhs_6b23_6sh116_flora {quality == 1; price = 500; };
-class rhs_6b23_6sh116_vog_flora {quality == 1; price = 500; };
+class rhs_6b13_Flora    {quality = 1; price = 500; };
+class rhs_6b13_Flora_6sh92  {quality = 1; price = 500; };
+class rhs_6b13_Flora_6sh92_headset_mapcase  {quality = 1; price = 500; };
+class rhs_6b13_Flora_6sh92_radio    {quality = 1; price = 500; };
+class rhs_6b13_Flora_6sh92_vog  {quality = 1; price = 500; };
+class rhs_6b13_Flora_crewofficer    {quality = 1; price = 500; };
+class rhs_6b13_EMR_6sh92    {quality = 1; price = 500; };
+class rhs_6b13_EMR_6sh92_radio  {quality = 1; price = 500; };
+class rhs_6b13_EMR_6sh92_vog    {quality = 1; price = 500; };
+class rhs_6b13_EMR_6sh92_headset_mapcase    {quality = 1; price = 500; };
+class rhs_6b13_EMR  {quality = 1; price = 500; };
+class rhs_6b13  {quality = 1; price = 500; };
+class rhs_6b13_6sh92    {quality = 1; price = 500; };
+class rhs_6b13_6sh92_headset_mapcase    {quality = 1; price = 500; };
+class rhs_6b13_6sh92_radio  {quality = 1; price = 500; };
+class rhs_6b13_6sh92_vog    {quality = 1; price = 500; };
+class rhs_6b13_crewofficer  {quality = 1; price = 500; };
+class rhs_6b23  {quality = 1; price = 500; };
+class rhs_6b23_6sh116_od    {quality = 1; price = 500; };
+class rhs_6b23_6sh116_vog_od    {quality = 1; price = 500; };
+class rhs_6b23_6sh92    {quality = 1; price = 500; };
+class rhs_6b23_6sh92_headset    {quality = 1; price = 500; };
+class rhs_6b23_6sh92_headset_mapcase    {quality = 1; price = 500; };
+class rhs_6b23_6sh92_radio  {quality = 1; price = 500; };
+class rhs_6b23_6sh92_vog    {quality = 1; price = 500; };
+class rhs_6b23_6sh92_vog_headset    {quality = 1; price = 500; };
+class rhs_6b23_crewofficer  {quality = 1; price = 500; };
+class rhs_6b23_crew {quality = 1; price = 500; };
+class rhs_6b23_engineer {quality = 1; price = 500; };
+class rhs_6b23_medic    {quality = 1; price = 500; };
+class rhs_6b23_rifleman {quality = 1; price = 500; };
+class rhs_6b23_sniper   {quality = 1; price = 500; };
+class rhs_6b23_vydra_3m {quality = 1; price = 500; };
+class rhs_6b23_digi {quality = 1; price = 500; };
+class rhs_6b23_6sh116   {quality = 1; price = 500; };
+class rhs_6b23_6sh116_vog   {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92   {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_headset   {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_headset_spetsnaz  {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_headset_mapcase   {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_radio {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_Spetsnaz  {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_vog   {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_vog_headset   {quality = 1; price = 500; };
+class rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz    {quality = 1; price = 500; };
+class rhs_6b23_digi_crewofficer {quality = 1; price = 500; };
+class rhs_6b23_digi_crew    {quality = 1; price = 500; };
+class rhs_6b23_digi_engineer    {quality = 1; price = 500; };
+class rhs_6b23_digi_medic   {quality = 1; price = 500; };
+class rhs_6b23_digi_rifleman    {quality = 1; price = 500; };
+class rhs_6b23_digi_sniper  {quality = 1; price = 500; };
+class rhs_6b23_digi_vydra_3m    {quality = 1; price = 500; };
+class rhs_6b23_6sh116_flora {quality = 1; price = 500; };
+class rhs_6b23_6sh116_vog_flora {quality = 1; price = 500; };
  
 //gref
-class rhsgref_6b23_khaki_medic  {quality == 1; price = 500; };
-class rhsgref_6b23_khaki_nco    {quality == 1; price = 500; };
-class rhsgref_6b23_khaki_officer    {quality == 1; price = 500; };
-class rhsgref_6b23_khaki_rifleman   {quality == 1; price = 500; };
-class rhsgref_6b23_khaki_sniper {quality == 1; price = 500; };
-class rhsgref_6b23_khaki    {quality == 1; price = 500; };
+class rhsgref_6b23_khaki_medic  {quality = 1; price = 500; };
+class rhsgref_6b23_khaki_nco    {quality = 1; price = 500; };
+class rhsgref_6b23_khaki_officer    {quality = 1; price = 500; };
+class rhsgref_6b23_khaki_rifleman   {quality = 1; price = 500; };
+class rhsgref_6b23_khaki_sniper {quality = 1; price = 500; };
+class rhsgref_6b23_khaki    {quality = 1; price = 500; };
  
 //ru
-class rhs_6b23_ML   {quality == 1; price = 500; };
-class rhs_6b23_ML_6sh92 {quality == 1; price = 500; };
-class rhs_6b23_ML_6sh92_headset {quality == 1; price = 500; };
-class rhs_6b23_ML_6sh92_headset_mapcase {quality == 1; price = 500; };
-class rhs_6b23_ML_6sh92_radio   {quality == 1; price = 500; };
-class rhs_6b23_ML_6sh92_vog {quality == 1; price = 500; };
-class rhs_6b23_ML_6sh92_vog_headset {quality == 1; price = 500; };
-class rhs_6b23_ML_crewofficer   {quality == 1; price = 500; };
-class rhs_6b23_ML_crew  {quality == 1; price = 500; };
-class rhs_6b23_ML_engineer  {quality == 1; price = 500; };
-class rhs_6b23_ML_medic {quality == 1; price = 500; };
-class rhs_6b23_ML_rifleman  {quality == 1; price = 500; };
-class rhs_6b23_ML_sniper    {quality == 1; price = 500; };
-class rhs_6b23_ML_vydra_3m  {quality == 1; price = 500; };
-class rhs_vydra_3m  {quality == 1; price = 500; };
+class rhs_6b23_ML   {quality = 1; price = 500; };
+class rhs_6b23_ML_6sh92 {quality = 1; price = 500; };
+class rhs_6b23_ML_6sh92_headset {quality = 1; price = 500; };
+class rhs_6b23_ML_6sh92_headset_mapcase {quality = 1; price = 500; };
+class rhs_6b23_ML_6sh92_radio   {quality = 1; price = 500; };
+class rhs_6b23_ML_6sh92_vog {quality = 1; price = 500; };
+class rhs_6b23_ML_6sh92_vog_headset {quality = 1; price = 500; };
+class rhs_6b23_ML_crewofficer   {quality = 1; price = 500; };
+class rhs_6b23_ML_crew  {quality = 1; price = 500; };
+class rhs_6b23_ML_engineer  {quality = 1; price = 500; };
+class rhs_6b23_ML_medic {quality = 1; price = 500; };
+class rhs_6b23_ML_rifleman  {quality = 1; price = 500; };
+class rhs_6b23_ML_sniper    {quality = 1; price = 500; };
+class rhs_6b23_ML_vydra_3m  {quality = 1; price = 500; };
+class rhs_vydra_3m  {quality = 1; price = 500; };
  
 //gref
-class rhsgref_6b23_ttsko_digi_medic {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_digi_nco   {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_digi_officer   {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_digi_rifleman  {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_digi_sniper    {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_digi   {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_forest_rifleman    {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_forest {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_mountain_medic {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_mountain_nco   {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_mountain_officer   {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_mountain_rifleman  {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_mountain_sniper    {quality == 1; price = 500; };
-class rhsgref_6b23_ttsko_mountain   {quality == 1; price = 500; };
+class rhsgref_6b23_ttsko_digi_medic {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_digi_nco   {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_digi_officer   {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_digi_rifleman  {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_digi_sniper    {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_digi   {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_forest_rifleman    {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_forest {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_mountain_medic {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_mountain_nco   {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_mountain_officer   {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_mountain_rifleman  {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_mountain_sniper    {quality = 1; price = 500; };
+class rhsgref_6b23_ttsko_mountain   {quality = 1; price = 500; };
  
 //ru
-class rhs_6sh46 {quality == 1; price = 500; };
-class rhs_6sh92 {quality == 1; price = 500; };
-class rhs_6sh92_headset {quality == 1; price = 500; };
-class rhs_6sh92_radio   {quality == 1; price = 500; };
-class rhs_6sh92_vog {quality == 1; price = 500; };
-class rhs_6sh92_vog_headset {quality == 1; price = 500; };
-class rhs_6sh92_digi    {quality == 1; price = 500; };
-class rhs_6sh92_digi_headset    {quality == 1; price = 500; };
-class rhs_6sh92_digi_radio  {quality == 1; price = 500; };
-class rhs_6sh92_digi_vog    {quality == 1; price = 500; };
-class rhs_6sh92_digi_vog_headset    {quality == 1; price = 500; };
+class rhs_6sh46 {quality = 1; price = 500; };
+class rhs_6sh92 {quality = 1; price = 500; };
+class rhs_6sh92_headset {quality = 1; price = 500; };
+class rhs_6sh92_radio   {quality = 1; price = 500; };
+class rhs_6sh92_vog {quality = 1; price = 500; };
+class rhs_6sh92_vog_headset {quality = 1; price = 500; };
+class rhs_6sh92_digi    {quality = 1; price = 500; };
+class rhs_6sh92_digi_headset    {quality = 1; price = 500; };
+class rhs_6sh92_digi_radio  {quality = 1; price = 500; };
+class rhs_6sh92_digi_vog    {quality = 1; price = 500; };
+class rhs_6sh92_digi_vog_headset    {quality = 1; price = 500; };
  
 //us
-class rhsusf_iotv_ocp_Grenadier {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_Grenadier {quality == 1; price = 500; };
-class rhsusf_iotv_ocp_Medic {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_Medic {quality == 1; price = 500; };
-class rhsusf_iotv_ocp   {quality == 1; price = 500; };
-class rhsusf_iotv_ocp_Repair    {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_Repair    {quality == 1; price = 500; };
-class rhsusf_iotv_ocp_Rifleman  {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_Rifleman  {quality == 1; price = 500; };
-class rhsusf_iotv_ocp_SAW   {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_SAW   {quality == 1; price = 500; };
-class rhsusf_iotv_ocp_Squadleader   {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_Squadleader   {quality == 1; price = 500; };
-class rhsusf_iotv_ocp_Teamleader    {quality == 1; price = 500; };
-class rhsusf_iotv_ucp_Teamleader    {quality == 1; price = 500; };
-class rhsusf_iotv_ucp   {quality == 1; price = 500; };
+class rhsusf_iotv_ocp_Grenadier {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_Grenadier {quality = 1; price = 500; };
+class rhsusf_iotv_ocp_Medic {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_Medic {quality = 1; price = 500; };
+class rhsusf_iotv_ocp   {quality = 1; price = 500; };
+class rhsusf_iotv_ocp_Repair    {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_Repair    {quality = 1; price = 500; };
+class rhsusf_iotv_ocp_Rifleman  {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_Rifleman  {quality = 1; price = 500; };
+class rhsusf_iotv_ocp_SAW   {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_SAW   {quality = 1; price = 500; };
+class rhsusf_iotv_ocp_Squadleader   {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_Squadleader   {quality = 1; price = 500; };
+class rhsusf_iotv_ocp_Teamleader    {quality = 1; price = 500; };
+class rhsusf_iotv_ucp_Teamleader    {quality = 1; price = 500; };
+class rhsusf_iotv_ucp   {quality = 1; price = 500; };
  
 //ru
-class rhs_vest_commander    {quality == 1; price = 500; };
-class rhs_vest_pistol_holster   {quality == 1; price = 500; };
+class rhs_vest_commander    {quality = 1; price = 500; };
+class rhs_vest_pistol_holster   {quality = 1; price = 500; };
  
 //gref
-class rhsgref_otv_digi  {quality == 1; price = 500; };
-class rhsgref_otv_khaki {quality == 1; price = 500; };
+class rhsgref_otv_digi  {quality = 1; price = 500; };
+class rhsgref_otv_khaki {quality = 1; price = 500; };
  
 //us
-class rhsusf_spc    {quality == 1; price = 500; };
-class rhsusf_spc_corpsman   {quality == 1; price = 500; };
-class rhsusf_spc_crewman    {quality == 1; price = 500; };
-class rhsusf_spc_iar    {quality == 1; price = 500; };
-class rhsusf_spc_light  {quality == 1; price = 500; };
-class rhsusf_spc_mg {quality == 1; price = 500; };
-class rhsusf_spc_marksman   {quality == 1; price = 500; };
-class rhsusf_spc_patchless  {quality == 1; price = 500; };
-class rhsusf_spc_patchless_radio    {quality == 1; price = 500; };
-class rhsusf_spc_rifleman   {quality == 1; price = 500; };
-class rhsusf_spc_squadleader    {quality == 1; price = 500; };
-class rhsusf_spc_teamleader {quality == 1; price = 500; };
-class rhsusf_spcs_ocp   {quality == 1; price = 500; };
-class rhsusf_spcs_ocp_rifleman  {quality == 1; price = 500; };
-class rhsusf_spcs_ucp_rifleman  {quality == 1; price = 500; };
-class rhsusf_spcs_ucp   {quality == 1; price = 500; };
+class rhsusf_spc    {quality = 1; price = 500; };
+class rhsusf_spc_corpsman   {quality = 1; price = 500; };
+class rhsusf_spc_crewman    {quality = 1; price = 500; };
+class rhsusf_spc_iar    {quality = 1; price = 500; };
+class rhsusf_spc_light  {quality = 1; price = 500; };
+class rhsusf_spc_mg {quality = 1; price = 500; };
+class rhsusf_spc_marksman   {quality = 1; price = 500; };
+class rhsusf_spc_patchless  {quality = 1; price = 500; };
+class rhsusf_spc_patchless_radio    {quality = 1; price = 500; };
+class rhsusf_spc_rifleman   {quality = 1; price = 500; };
+class rhsusf_spc_squadleader    {quality = 1; price = 500; };
+class rhsusf_spc_teamleader {quality = 1; price = 500; };
+class rhsusf_spcs_ocp   {quality = 1; price = 500; };
+class rhsusf_spcs_ocp_rifleman  {quality = 1; price = 500; };
+class rhsusf_spcs_ucp_rifleman  {quality = 1; price = 500; };
+class rhsusf_spcs_ucp   {quality = 1; price = 500; };
 //Exile Items//
 	//Food and drinks//
 class Exile_Item_Beer {quality = 1; price = 397; };
@@ -1403,21 +1403,21 @@ class Exile_Item_Shovel {quality = 1; price = 400; };
 ////Weapons
 ////////////
 
-class  VSM_MX_TC               								{quality == 1; price = 300; };                                           
-class  VSM_MX_LMG_TC                            			{quality == 1; price = 300; };                          
-class  VSM_MXC_TC                               			{quality == 1; price = 300; };                          
-class  VSM_MX_GL_TC                             			{quality == 1; price = 300; };                          
-class  VSM_MXM_TC                               			{quality == 1; price = 300; };                          
-class  VSM_MX                                   			{quality == 1; price = 300; };                          
-class  VSM_MX_LMG                               			{quality == 1; price = 300; };                          
-class  VSM_MXC                                  			{quality == 1; price = 300; };                          
-class  VSM_MX_GL                                			{quality == 1; price = 300; };                          
-class  VSM_MXM                                  			{quality == 1; price = 300; };
-class  Scorpion_Mk20C                           			{quality == 1; price = 150; };                          
-class  Scorpion_Mk20GL                          			{quality == 1; price = 150; };                          
-class  Scorpion_Mk20                            			{quality == 1; price = 150; };                          
-class  Project_Honor_Mk20C                      			{quality == 1; price = 150; };                          
-class  Project_Honor_Mk20GL                     			{quality == 1; price = 150; };                          
+class  VSM_MX_TC               								{quality = 1; price = 300; };                                           
+class  VSM_MX_LMG_TC                            			{quality = 1; price = 300; };                          
+class  VSM_MXC_TC                               			{quality = 1; price = 300; };                          
+class  VSM_MX_GL_TC                             			{quality = 1; price = 300; };                          
+class  VSM_MXM_TC                               			{quality = 1; price = 300; };                          
+class  VSM_MX                                   			{quality = 1; price = 300; };                          
+class  VSM_MX_LMG                               			{quality = 1; price = 300; };                          
+class  VSM_MXC                                  			{quality = 1; price = 300; };                          
+class  VSM_MX_GL                                			{quality = 1; price = 300; };                          
+class  VSM_MXM                                  			{quality = 1; price = 300; };
+class  Scorpion_Mk20C                           			{quality = 1; price = 150; };                          
+class  Scorpion_Mk20GL                          			{quality = 1; price = 150; };                          
+class  Scorpion_Mk20                            			{quality = 1; price = 150; };                          
+class  Project_Honor_Mk20C                      			{quality = 1; price = 150; };                          
+class  Project_Honor_Mk20GL                     			{quality = 1; price = 150; };                          
 class  Project_Honor_Mk20    
 	//Arma 3 rifle//
 class arifle_AK107 {quality = 1; price = 3057; };
@@ -1821,230 +1821,230 @@ class HLC_Bipod_G36 {quality = 1; price = 210; };
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  
 //ak
-class rhs_weap_ak103_gp25_npz   {quality == 1; price = 3000; };
-class rhs_weap_ak103_gp25   {quality == 1; price = 3000; };
-class rhs_weap_ak103    {quality == 1; price = 3000; };
-class rhs_weap_ak103_npz    {quality == 1; price = 3000; };
-class rhs_weap_ak103_1  {quality == 1; price = 3000; };
-class rhs_weap_ak103_1_npz  {quality == 1; price = 3000; };
-class rhs_weap_ak103_2  {quality == 1; price = 3000; };
-class rhs_weap_ak103_2_npz  {quality == 1; price = 3000; };
-class rhs_weap_ak104    {quality == 1; price = 3000; };
-class rhs_weap_ak104_npz    {quality == 1; price = 3000; };
-class rhs_weap_ak105    {quality == 1; price = 3000; };
-class rhs_weap_ak105_npz    {quality == 1; price = 3000; };
-class rhs_weap_ak74m    {quality == 1; price = 3000; };
-class rhs_weap_ak74m_2mag   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_2mag_camo  {quality == 1; price = 3000; };
-class rhs_weap_ak74m_2mag_npz   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_camo   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_camo_npz   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_desert {quality == 1; price = 3000; };
-class rhs_weap_ak74m_desert_npz {quality == 1; price = 3000; };
-class rhs_weap_ak74m_plummag_folded {quality == 1; price = 3000; };
-class rhs_weap_ak74m_desert_folded  {quality == 1; price = 3000; };
-class rhs_weap_ak74m_camo_folded    {quality == 1; price = 3000; };
-class rhs_weap_ak74m_folded {quality == 1; price = 3000; };
-class rhs_weap_ak74m_gp25   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_gp25_npz   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_fullplum_gp25  {quality == 1; price = 3000; };
-class rhs_weap_ak74m_fullplum_gp25_npz  {quality == 1; price = 3000; };
-class rhs_weap_ak74m_npz    {quality == 1; price = 3000; };
-class rhs_weap_ak74m_plummag    {quality == 1; price = 3000; };
-class rhs_weap_ak74m_plummag_npz    {quality == 1; price = 3000; };
-class rhs_weap_ak74m_fullplum   {quality == 1; price = 3000; };
-class rhs_weap_ak74m_fullplum_npz   {quality == 1; price = 3000; };
-class rhs_weap_akm  {quality == 1; price = 3000; };
-class rhs_weap_akm_gp25 {quality == 1; price = 3000; };
-class rhs_weap_akms {quality == 1; price = 3000; };
-class rhs_weap_akms_gp25    {quality == 1; price = 3000; };
-class rhs_weap_aks74u   {quality == 1; price = 3000; };
-class rhs_weap_aks74u_folded    {quality == 1; price = 3000; };
-class rhs_weap_aks74un  {quality == 1; price = 3000; };
-class rhs_weap_aks74un_folded   {quality == 1; price = 3000; };
+class rhs_weap_ak103_gp25_npz   {quality = 1; price = 3000; };
+class rhs_weap_ak103_gp25   {quality = 1; price = 3000; };
+class rhs_weap_ak103    {quality = 1; price = 3000; };
+class rhs_weap_ak103_npz    {quality = 1; price = 3000; };
+class rhs_weap_ak103_1  {quality = 1; price = 3000; };
+class rhs_weap_ak103_1_npz  {quality = 1; price = 3000; };
+class rhs_weap_ak103_2  {quality = 1; price = 3000; };
+class rhs_weap_ak103_2_npz  {quality = 1; price = 3000; };
+class rhs_weap_ak104    {quality = 1; price = 3000; };
+class rhs_weap_ak104_npz    {quality = 1; price = 3000; };
+class rhs_weap_ak105    {quality = 1; price = 3000; };
+class rhs_weap_ak105_npz    {quality = 1; price = 3000; };
+class rhs_weap_ak74m    {quality = 1; price = 3000; };
+class rhs_weap_ak74m_2mag   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_2mag_camo  {quality = 1; price = 3000; };
+class rhs_weap_ak74m_2mag_npz   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_camo   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_camo_npz   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_desert {quality = 1; price = 3000; };
+class rhs_weap_ak74m_desert_npz {quality = 1; price = 3000; };
+class rhs_weap_ak74m_plummag_folded {quality = 1; price = 3000; };
+class rhs_weap_ak74m_desert_folded  {quality = 1; price = 3000; };
+class rhs_weap_ak74m_camo_folded    {quality = 1; price = 3000; };
+class rhs_weap_ak74m_folded {quality = 1; price = 3000; };
+class rhs_weap_ak74m_gp25   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_gp25_npz   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_fullplum_gp25  {quality = 1; price = 3000; };
+class rhs_weap_ak74m_fullplum_gp25_npz  {quality = 1; price = 3000; };
+class rhs_weap_ak74m_npz    {quality = 1; price = 3000; };
+class rhs_weap_ak74m_plummag    {quality = 1; price = 3000; };
+class rhs_weap_ak74m_plummag_npz    {quality = 1; price = 3000; };
+class rhs_weap_ak74m_fullplum   {quality = 1; price = 3000; };
+class rhs_weap_ak74m_fullplum_npz   {quality = 1; price = 3000; };
+class rhs_weap_akm  {quality = 1; price = 3000; };
+class rhs_weap_akm_gp25 {quality = 1; price = 3000; };
+class rhs_weap_akms {quality = 1; price = 3000; };
+class rhs_weap_akms_gp25    {quality = 1; price = 3000; };
+class rhs_weap_aks74u   {quality = 1; price = 3000; };
+class rhs_weap_aks74u_folded    {quality = 1; price = 3000; };
+class rhs_weap_aks74un  {quality = 1; price = 3000; };
+class rhs_weap_aks74un_folded   {quality = 1; price = 3000; };
  
 //asval
-class rhs_weap_asval    {quality == 1; price = 3000; };
-class rhs_weap_asval_grip   {quality == 1; price = 3000; };
-class rhs_weap_asval_grip_npz   {quality == 1; price = 3000; };
-class rhs_weap_asval_npz    {quality == 1; price = 3000; };
+class rhs_weap_asval    {quality = 1; price = 3000; };
+class rhs_weap_asval_grip   {quality = 1; price = 3000; };
+class rhs_weap_asval_grip_npz   {quality = 1; price = 3000; };
+class rhs_weap_asval_npz    {quality = 1; price = 3000; };
  
 //hk
-class rhs_weap_hk416d10 {quality == 1; price = 3000; };
-class rhs_weap_hk416d10_m320    {quality == 1; price = 3000; };
-class rhs_weap_hk416d10_LMT {quality == 1; price = 3000; };
-class rhs_weap_hk416d145    {quality == 1; price = 3000; };
-class rhs_weap_hk416d145_m320   {quality == 1; price = 3000; };
+class rhs_weap_hk416d10 {quality = 1; price = 3000; };
+class rhs_weap_hk416d10_m320    {quality = 1; price = 3000; };
+class rhs_weap_hk416d10_LMT {quality = 1; price = 3000; };
+class rhs_weap_hk416d145    {quality = 1; price = 3000; };
+class rhs_weap_hk416d145_m320   {quality = 1; price = 3000; };
  
 //gref
-class rhs_weap_kar98k   {quality == 1; price = 3000; };
-class rhs_weap_m38  {quality == 1; price = 3000; };
-class rhs_weap_m21a {quality == 1; price = 3000; };
-class rhs_weap_m21a_fold    {quality == 1; price = 3000; };
-class rhs_weap_m21a_pr  {quality == 1; price = 3000; };
-class rhs_weap_m21s {quality == 1; price = 3000; };
-class rhs_weap_m21s_fold    {quality == 1; price = 3000; };
-class rhs_weap_m21s_pr  {quality == 1; price = 3000; };
-class rhs_weap_m70ab2   {quality == 1; price = 3000; };
-class rhs_weap_m70ab2_fold  {quality == 1; price = 3000; };
-class rhs_weap_m70b1    {quality == 1; price = 3000; };
-class rhs_weap_m76  {quality == 1; price = 3000; };
-class rhs_weap_m92  {quality == 1; price = 3000; };
-class rhs_weap_m92_fold {quality == 1; price = 3000; };
+class rhs_weap_kar98k   {quality = 1; price = 3000; };
+class rhs_weap_m38  {quality = 1; price = 3000; };
+class rhs_weap_m21a {quality = 1; price = 3000; };
+class rhs_weap_m21a_fold    {quality = 1; price = 3000; };
+class rhs_weap_m21a_pr  {quality = 1; price = 3000; };
+class rhs_weap_m21s {quality = 1; price = 3000; };
+class rhs_weap_m21s_fold    {quality = 1; price = 3000; };
+class rhs_weap_m21s_pr  {quality = 1; price = 3000; };
+class rhs_weap_m70ab2   {quality = 1; price = 3000; };
+class rhs_weap_m70ab2_fold  {quality = 1; price = 3000; };
+class rhs_weap_m70b1    {quality = 1; price = 3000; };
+class rhs_weap_m76  {quality = 1; price = 3000; };
+class rhs_weap_m92  {quality = 1; price = 3000; };
+class rhs_weap_m92_fold {quality = 1; price = 3000; };
  
 //m107
-class rhs_weap_M107 {quality == 1; price = 3000; };
-class rhs_weap_M107_d   {quality == 1; price = 3000; };
-class rhs_weap_M107_w   {quality == 1; price = 3000; };
+class rhs_weap_M107 {quality = 1; price = 3000; };
+class rhs_weap_M107_d   {quality = 1; price = 3000; };
+class rhs_weap_M107_w   {quality = 1; price = 3000; };
  
-class rhs_weap_m14ebrri {quality == 1; price = 3000; };
+class rhs_weap_m14ebrri {quality = 1; price = 3000; };
  
  
 //m16
-class rhs_weap_m16a4    {quality == 1; price = 3000; };
-class rhs_weap_m16a4_carryhandle    {quality == 1; price = 3000; };
-class rhs_weap_m16a4_carryhandle_M203   {quality == 1; price = 3000; };
-class rhs_weap_m16a4_carryhandle_pmag   {quality == 1; price = 3000; };
-class rhs_weap_m16a4_pmag   {quality == 1; price = 3000; };
+class rhs_weap_m16a4    {quality = 1; price = 3000; };
+class rhs_weap_m16a4_carryhandle    {quality = 1; price = 3000; };
+class rhs_weap_m16a4_carryhandle_M203   {quality = 1; price = 3000; };
+class rhs_weap_m16a4_carryhandle_pmag   {quality = 1; price = 3000; };
+class rhs_weap_m16a4_pmag   {quality = 1; price = 3000; };
  
 //m2010
-class rhs_weap_XM2010   {quality == 1; price = 3000; };
-class rhs_weap_XM2010_wd    {quality == 1; price = 3000; };
-class rhs_weap_XM2010_d {quality == 1; price = 3000; };
-class rhs_weap_XM2010_sa    {quality == 1; price = 3000; };
+class rhs_weap_XM2010   {quality = 1; price = 3000; };
+class rhs_weap_XM2010_wd    {quality = 1; price = 3000; };
+class rhs_weap_XM2010_d {quality = 1; price = 3000; };
+class rhs_weap_XM2010_sa    {quality = 1; price = 3000; };
  
 //m24
-class rhs_weap_m24sws   {quality == 1; price = 3000; };
-class rhs_weap_m24sws_blk   {quality == 1; price = 3000; };
-class rhs_weap_m24sws_ghillie   {quality == 1; price = 3000; };
+class rhs_weap_m24sws   {quality = 1; price = 3000; };
+class rhs_weap_m24sws_blk   {quality = 1; price = 3000; };
+class rhs_weap_m24sws_ghillie   {quality = 1; price = 3000; };
  
 //m240/49
-class rhs_weap_m240B    {quality == 1; price = 3000; };
-class rhs_weap_m240B_CAP    {quality == 1; price = 3000; };
-class rhs_weap_m240G    {quality == 1; price = 3000; };
-class rhs_weap_m249_pip_L   {quality == 1; price = 3000; };
-class rhs_weap_m249_pip_L_para  {quality == 1; price = 3000; };
-class rhs_weap_m249_pip_L_vfg   {quality == 1; price = 3000; };
-class rhs_weap_m249_pip_S   {quality == 1; price = 3000; };
-class rhs_weap_m249_pip_S_para  {quality == 1; price = 3000; };
-class rhs_weap_m249_pip_S_vfg   {quality == 1; price = 3000; };
+class rhs_weap_m240B    {quality = 1; price = 3000; };
+class rhs_weap_m240B_CAP    {quality = 1; price = 3000; };
+class rhs_weap_m240G    {quality = 1; price = 3000; };
+class rhs_weap_m249_pip_L   {quality = 1; price = 3000; };
+class rhs_weap_m249_pip_L_para  {quality = 1; price = 3000; };
+class rhs_weap_m249_pip_L_vfg   {quality = 1; price = 3000; };
+class rhs_weap_m249_pip_S   {quality = 1; price = 3000; };
+class rhs_weap_m249_pip_S_para  {quality = 1; price = 3000; };
+class rhs_weap_m249_pip_S_vfg   {quality = 1; price = 3000; };
  
 //m27
-class rhs_weap_m27iar   {quality == 1; price = 3000; };
-class rhs_weap_m27iar_grip  {quality == 1; price = 3000; };
+class rhs_weap_m27iar   {quality = 1; price = 3000; };
+class rhs_weap_m27iar_grip  {quality = 1; price = 3000; };
  
 //m32
-class rhs_weap_m32  {quality == 1; price = 3000; };
+class rhs_weap_m32  {quality = 1; price = 3000; };
  
 //m4
-class rhs_weap_m4   {quality == 1; price = 3000; };
-class rhs_weap_m4_carryhandle   {quality == 1; price = 3000; };
-class rhs_weap_m4_carryhandle_pmag  {quality == 1; price = 3000; };
-class rhs_weap_m4_carryhandle_mstock    {quality == 1; price = 3000; };
-class rhs_weap_m4_m203  {quality == 1; price = 3000; };
-class rhs_weap_m4_m203S {quality == 1; price = 3000; };
-class rhs_weap_m4_m320  {quality == 1; price = 3000; };
-class rhs_weap_m4_pmag  {quality == 1; price = 3000; };
-class rhs_weap_m4_mstock    {quality == 1; price = 3000; };
+class rhs_weap_m4   {quality = 1; price = 3000; };
+class rhs_weap_m4_carryhandle   {quality = 1; price = 3000; };
+class rhs_weap_m4_carryhandle_pmag  {quality = 1; price = 3000; };
+class rhs_weap_m4_carryhandle_mstock    {quality = 1; price = 3000; };
+class rhs_weap_m4_m203  {quality = 1; price = 3000; };
+class rhs_weap_m4_m203S {quality = 1; price = 3000; };
+class rhs_weap_m4_m320  {quality = 1; price = 3000; };
+class rhs_weap_m4_pmag  {quality = 1; price = 3000; };
+class rhs_weap_m4_mstock    {quality = 1; price = 3000; };
  
 //m4a1
-class rhs_weap_m4a1_carryhandle {quality == 1; price = 3000; };
-class rhs_weap_m4a1_carryhandle_m203    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_carryhandle_m203S   {quality == 1; price = 3000; };
-class rhs_weap_m4a1_carryhandle_pmag    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_carryhandle_mstock  {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_bk  {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_M203_bk {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_KAC_bk  {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_d   {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_M203_d  {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_KAC_d   {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_M203    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_KAC {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_wd  {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_M203_wd {quality == 1; price = 3000; };
-class rhs_weap_m4a1_blockII_KAC_wd  {quality == 1; price = 3000; };
-class rhs_weap_m4a1 {quality == 1; price = 3000; };
-class rhs_weap_m4a1_d   {quality == 1; price = 3000; };
-class rhs_weap_m4a1_m203s_d {quality == 1; price = 3000; };
-class rhs_weap_m4a1_d_mstock    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_m203    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_m203s   {quality == 1; price = 3000; };
-class rhs_weap_m4a1_m320    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_pmag    {quality == 1; price = 3000; };
-class rhs_weap_m4a1_mstock  {quality == 1; price = 3000; };
+class rhs_weap_m4a1_carryhandle {quality = 1; price = 3000; };
+class rhs_weap_m4a1_carryhandle_m203    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_carryhandle_m203S   {quality = 1; price = 3000; };
+class rhs_weap_m4a1_carryhandle_pmag    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_carryhandle_mstock  {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_bk  {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_M203_bk {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_KAC_bk  {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_d   {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_M203_d  {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_KAC_d   {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_M203    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_KAC {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_wd  {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_M203_wd {quality = 1; price = 3000; };
+class rhs_weap_m4a1_blockII_KAC_wd  {quality = 1; price = 3000; };
+class rhs_weap_m4a1 {quality = 1; price = 3000; };
+class rhs_weap_m4a1_d   {quality = 1; price = 3000; };
+class rhs_weap_m4a1_m203s_d {quality = 1; price = 3000; };
+class rhs_weap_m4a1_d_mstock    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_m203    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_m203s   {quality = 1; price = 3000; };
+class rhs_weap_m4a1_m320    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_pmag    {quality = 1; price = 3000; };
+class rhs_weap_m4a1_mstock  {quality = 1; price = 3000; };
  
-class rhs_weap_M590_8RD {quality == 1; price = 3000; };
-class rhs_weap_M590_5RD {quality == 1; price = 3000; };
+class rhs_weap_M590_8RD {quality = 1; price = 3000; };
+class rhs_weap_M590_5RD {quality = 1; price = 3000; };
  
 //sr25
-class rhs_weap_sr25 {quality == 1; price = 3000; };
-class rhs_weap_sr25_d   {quality == 1; price = 3000; };
-class rhs_weap_sr25_ec  {quality == 1; price = 3000; };
-class rhs_weap_sr25_ec_d    {quality == 1; price = 3000; };
-class rhs_weap_sr25_ec_wd   {quality == 1; price = 3000; };
-class rhs_weap_sr25_wd  {quality == 1; price = 3000; };
+class rhs_weap_sr25 {quality = 1; price = 3000; };
+class rhs_weap_sr25_d   {quality = 1; price = 3000; };
+class rhs_weap_sr25_ec  {quality = 1; price = 3000; };
+class rhs_weap_sr25_ec_d    {quality = 1; price = 3000; };
+class rhs_weap_sr25_ec_wd   {quality = 1; price = 3000; };
+class rhs_weap_sr25_wd  {quality = 1; price = 3000; };
  
 //mk18
-class rhs_weap_mk18 {quality == 1; price = 3000; };
-class rhs_weap_mk18_bk  {quality == 1; price = 3000; };
-class rhs_weap_mk18_KAC_bk  {quality == 1; price = 3000; };
-class rhs_weap_mk18_d   {quality == 1; price = 3000; };
-class rhs_weap_mk18_KAC_d   {quality == 1; price = 3000; };
-class rhs_weap_mk18_m320    {quality == 1; price = 3000; };
-class rhs_weap_mk18_KAC {quality == 1; price = 3000; };
-class rhs_weap_mk18_wd  {quality == 1; price = 3000; };
-class rhs_weap_mk18_KAC_wd  {quality == 1; price = 3000; };
+class rhs_weap_mk18 {quality = 1; price = 3000; };
+class rhs_weap_mk18_bk  {quality = 1; price = 3000; };
+class rhs_weap_mk18_KAC_bk  {quality = 1; price = 3000; };
+class rhs_weap_mk18_d   {quality = 1; price = 3000; };
+class rhs_weap_mk18_KAC_d   {quality = 1; price = 3000; };
+class rhs_weap_mk18_m320    {quality = 1; price = 3000; };
+class rhs_weap_mk18_KAC {quality = 1; price = 3000; };
+class rhs_weap_mk18_wd  {quality = 1; price = 3000; };
+class rhs_weap_mk18_KAC_wd  {quality = 1; price = 3000; };
  
 //mp7
-class rhsusf_weap_MP7A1_base_f  {quality == 1; price = 3000; };
-class rhsusf_weap_MP7A1_aor1    {quality == 1; price = 3000; };
-class rhsusf_weap_MP7A1_desert  {quality == 1; price = 3000; };
-class rhsusf_weap_MP7A1_winter  {quality == 1; price = 3000; };
+class rhsusf_weap_MP7A1_base_f  {quality = 1; price = 3000; };
+class rhsusf_weap_MP7A1_aor1    {quality = 1; price = 3000; };
+class rhsusf_weap_MP7A1_desert  {quality = 1; price = 3000; };
+class rhsusf_weap_MP7A1_winter  {quality = 1; price = 3000; };
  
-class rhs_weap_pp2000   {quality == 1; price = 3000; };
+class rhs_weap_pp2000   {quality = 1; price = 3000; };
  
 //pk
-class rhs_weap_pkm  {quality == 1; price = 3000; };
-class rhs_weap_pkp  {quality == 1; price = 3000; };
+class rhs_weap_pkm  {quality = 1; price = 3000; };
+class rhs_weap_pkp  {quality = 1; price = 3000; };
  
 //svd
-class rhs_weap_svdp {quality == 1; price = 3000; };
-class rhs_weap_svdp_wd  {quality == 1; price = 3000; };
-class rhs_weap_svdp_wd_npz  {quality == 1; price = 3000; };
-class rhs_weap_svdp_npz {quality == 1; price = 3000; };
-class rhs_weap_svds {quality == 1; price = 3000; };
-class rhs_weap_svds_npz {quality == 1; price = 3000; };
+class rhs_weap_svdp {quality = 1; price = 3000; };
+class rhs_weap_svdp_wd  {quality = 1; price = 3000; };
+class rhs_weap_svdp_wd_npz  {quality = 1; price = 3000; };
+class rhs_weap_svdp_npz {quality = 1; price = 3000; };
+class rhs_weap_svds {quality = 1; price = 3000; };
+class rhs_weap_svds_npz {quality = 1; price = 3000; };
  
 //vss
-class rhs_weap_vss  {quality == 1; price = 3000; };
-class rhs_weap_vss_grip {quality == 1; price = 3000; };
-class rhs_weap_vss_grip_npz {quality == 1; price = 3000; };
-class rhs_weap_vss_npz  {quality == 1; price = 3000; };
+class rhs_weap_vss  {quality = 1; price = 3000; };
+class rhs_weap_vss_grip {quality = 1; price = 3000; };
+class rhs_weap_vss_grip_npz {quality = 1; price = 3000; };
+class rhs_weap_vss_npz  {quality = 1; price = 3000; };
  
 //launchers
-class rhs_weap_igla {quality == 1; price = 3000; };
-class rhs_weap_fgm148   {quality == 1; price = 3000; };
-class rhs_weap_fim92    {quality == 1; price = 3000; };
-class rhs_weap_M136 {quality == 1; price = 3000; };
-class rhs_weap_M136_hedp    {quality == 1; price = 3000; };
-class rhs_weap_M136_hp  {quality == 1; price = 3000; };
-class rhs_weap_m72a7    {quality == 1; price = 3000; };
-class rhs_weap_smaw {quality == 1; price = 3000; };
-class rhs_weap_smaw_green   {quality == 1; price = 3000; };
-class rhs_weap_rpg26    {quality == 1; price = 3000; };
-class rhs_weap_rpg7 {quality == 1; price = 3000; };
-class rhs_weap_rshg2    {quality == 1; price = 3000; };
+class rhs_weap_igla {quality = 1; price = 3000; };
+class rhs_weap_fgm148   {quality = 1; price = 3000; };
+class rhs_weap_fim92    {quality = 1; price = 3000; };
+class rhs_weap_M136 {quality = 1; price = 3000; };
+class rhs_weap_M136_hedp    {quality = 1; price = 3000; };
+class rhs_weap_M136_hp  {quality = 1; price = 3000; };
+class rhs_weap_m72a7    {quality = 1; price = 3000; };
+class rhs_weap_smaw {quality = 1; price = 3000; };
+class rhs_weap_smaw_green   {quality = 1; price = 3000; };
+class rhs_weap_rpg26    {quality = 1; price = 3000; };
+class rhs_weap_rpg7 {quality = 1; price = 3000; };
+class rhs_weap_rshg2    {quality = 1; price = 3000; };
  
 //pistols
-class rhsusf_weap_glock17g4 {quality == 1; price = 3000; };
-class rhsusf_weap_m1911a1   {quality == 1; price = 3000; };
-class rhs_weap_M320 {quality == 1; price = 3000; };
-class rhsusf_weap_m9    {quality == 1; price = 3000; };
-class rhs_weap_pya  {quality == 1; price = 3000; };
-class rhs_weap_makarov_pm   {quality == 1; price = 3000; };
-class rhs_weap_pp2000_folded    {quality == 1; price = 3000; };
+class rhsusf_weap_glock17g4 {quality = 1; price = 3000; };
+class rhsusf_weap_m1911a1   {quality = 1; price = 3000; };
+class rhs_weap_M320 {quality = 1; price = 3000; };
+class rhsusf_weap_m9    {quality = 1; price = 3000; };
+class rhs_weap_pya  {quality = 1; price = 3000; };
+class rhs_weap_makarov_pm   {quality = 1; price = 3000; };
+class rhs_weap_pp2000_folded    {quality = 1; price = 3000; };
 //Optics//
 	//Arma 3 Optics//
 class optic_Aco {quality = 1; price = 454; };
@@ -2108,56 +2108,56 @@ class hlc_optic_PVS4M14 {quality = 1; price = 2636; };
 class hlc_optic_suit {quality = 1; price = 617; };
 class HLC_Optic_ZFSG1 {quality = 1; price = 610; };
 //snipersup
-class rhsusf_acc_M2010S {quality == 1; price = 150; };
+class rhsusf_acc_M2010S {quality = 1; price = 150; };
  
-class rhsusf_acc_ACOG2_USMC {quality == 1; price = 150; };
-class rhsusf_acc_ACOG3_USMC {quality == 1; price = 150; };
-class rhsusf_acc_ACOG_USMC  {quality == 1; price = 150; };
-class rhsusf_acc_anpvs27    {quality == 1; price = 150; };
+class rhsusf_acc_ACOG2_USMC {quality = 1; price = 150; };
+class rhsusf_acc_ACOG3_USMC {quality = 1; price = 150; };
+class rhsusf_acc_ACOG_USMC  {quality = 1; price = 150; };
+class rhsusf_acc_anpvs27    {quality = 1; price = 150; };
  
-class rhsusf_acc_EOTECH {quality == 1; price = 150; };
-class rhsusf_acc_ELCAN  {quality == 1; price = 150; };
-class rhsusf_acc_ELCAN_ard  {quality == 1; price = 150; };
-class rhsusf_acc_ACOG   {quality == 1; price = 150; };
-class rhsusf_acc_ACOG2  {quality == 1; price = 150; };
-class rhsusf_acc_ACOG3  {quality == 1; price = 150; };
-class rhsusf_acc_ACOG_anpvs27   {quality == 1; price = 150; };
-class rhsusf_acc_M2A1   {quality == 1; price = 150; };
-class rhsusf_acc_eotech_552 {quality == 1; price = 150; };
-class rhsusf_acc_eotech_552_d   {quality == 1; price = 150; };
-class rhsusf_acc_compm4 {quality == 1; price = 150; };
-class rhsusf_acc_premier_low    {quality == 1; price = 150; };
-class rhsusf_acc_premier_anpvs27    {quality == 1; price = 150; };
-class rhsusf_acc_premier    {quality == 1; price = 150; };
-class rhsusf_acc_LEUPOLDMK4 {quality == 1; price = 150; };
-class rhsusf_acc_LEUPOLDMK4_2   {quality == 1; price = 150; };
-class rhsusf_acc_LEUPOLDMK4_2_d {quality == 1; price = 150; };
-class rhsusf_acc_SpecterDR  {quality == 1; price = 150; };
-class rhsusf_acc_SpecterDR_OD   {quality == 1; price = 150; };
-class rhsusf_acc_SpecterDR_D    {quality == 1; price = 150; };
-class rhsusf_acc_SpecterDR_A    {quality == 1; price = 150; };
-class rhsusf_acc_ACOG_d {quality == 1; price = 150; };
-class rhsusf_acc_ACOG_wd    {quality == 1; price = 150; };
-class rhsusf_acc_eotech_xps3    {quality == 1; price = 150; };
+class rhsusf_acc_EOTECH {quality = 1; price = 150; };
+class rhsusf_acc_ELCAN  {quality = 1; price = 150; };
+class rhsusf_acc_ELCAN_ard  {quality = 1; price = 150; };
+class rhsusf_acc_ACOG   {quality = 1; price = 150; };
+class rhsusf_acc_ACOG2  {quality = 1; price = 150; };
+class rhsusf_acc_ACOG3  {quality = 1; price = 150; };
+class rhsusf_acc_ACOG_anpvs27   {quality = 1; price = 150; };
+class rhsusf_acc_M2A1   {quality = 1; price = 150; };
+class rhsusf_acc_eotech_552 {quality = 1; price = 150; };
+class rhsusf_acc_eotech_552_d   {quality = 1; price = 150; };
+class rhsusf_acc_compm4 {quality = 1; price = 150; };
+class rhsusf_acc_premier_low    {quality = 1; price = 150; };
+class rhsusf_acc_premier_anpvs27    {quality = 1; price = 150; };
+class rhsusf_acc_premier    {quality = 1; price = 150; };
+class rhsusf_acc_LEUPOLDMK4 {quality = 1; price = 150; };
+class rhsusf_acc_LEUPOLDMK4_2   {quality = 1; price = 150; };
+class rhsusf_acc_LEUPOLDMK4_2_d {quality = 1; price = 150; };
+class rhsusf_acc_SpecterDR  {quality = 1; price = 150; };
+class rhsusf_acc_SpecterDR_OD   {quality = 1; price = 150; };
+class rhsusf_acc_SpecterDR_D    {quality = 1; price = 150; };
+class rhsusf_acc_SpecterDR_A    {quality = 1; price = 150; };
+class rhsusf_acc_ACOG_d {quality = 1; price = 150; };
+class rhsusf_acc_ACOG_wd    {quality = 1; price = 150; };
+class rhsusf_acc_eotech_xps3    {quality = 1; price = 150; };
  
-class rhs_acc_rakursPM  {quality == 1; price = 150; };
-class rhs_acc_1p29  {quality == 1; price = 150; };
-class rhs_acc_1p63  {quality == 1; price = 150; };
-class rhs_acc_1p78  {quality == 1; price = 150; };
-class rhs_acc_1pn93_1   {quality == 1; price = 150; };
-class rhs_acc_1pn93_2   {quality == 1; price = 150; };
-class rhs_acc_ekp1  {quality == 1; price = 150; };
-class rhs_acc_pgo7v {quality == 1; price = 150; };
-class rhs_acc_pkas  {quality == 1; price = 150; };
-class rhs_acc_pso1m2    {quality == 1; price = 150; };
-class rhs_acc_pso1m21   {quality == 1; price = 150; };
-class rhsusf_acc_premier	{quality == 1; price = 150; };
-class rhsusf_acc_premier_low 	{quality == 1; price = 150; };
-class rhsusf_acc_premier_anpvs27	{quality == 1; price = 150; };
-class rhsusf_acc_M8541	{quality == 1; price = 150; };
-class rhsusf_acc_M8541_low	{quality == 1; price = 150; };
-class rhsusf_acc_M8541_low_d	{quality == 1; price = 150; };
-class rhsusf_acc_M8541_low_wd	{quality == 1; price = 150; };
+class rhs_acc_rakursPM  {quality = 1; price = 150; };
+class rhs_acc_1p29  {quality = 1; price = 150; };
+class rhs_acc_1p63  {quality = 1; price = 150; };
+class rhs_acc_1p78  {quality = 1; price = 150; };
+class rhs_acc_1pn93_1   {quality = 1; price = 150; };
+class rhs_acc_1pn93_2   {quality = 1; price = 150; };
+class rhs_acc_ekp1  {quality = 1; price = 150; };
+class rhs_acc_pgo7v {quality = 1; price = 150; };
+class rhs_acc_pkas  {quality = 1; price = 150; };
+class rhs_acc_pso1m2    {quality = 1; price = 150; };
+class rhs_acc_pso1m21   {quality = 1; price = 150; };
+class rhsusf_acc_premier	{quality = 1; price = 150; };
+class rhsusf_acc_premier_low 	{quality = 1; price = 150; };
+class rhsusf_acc_premier_anpvs27	{quality = 1; price = 150; };
+class rhsusf_acc_M8541	{quality = 1; price = 150; };
+class rhsusf_acc_M8541_low	{quality = 1; price = 150; };
+class rhsusf_acc_M8541_low_d	{quality = 1; price = 150; };
+class rhsusf_acc_M8541_low_wd	{quality = 1; price = 150; };
 	//misc//
 class acc_flashlight {quality = 1; price = 154; };
 class acc_pointer_IR {quality = 1; price = 156; };
@@ -2204,32 +2204,32 @@ class hlc_muzzle_snds_HK33 {quality = 1; price = 510; };
 class hlc_muzzle_snds_M14 {quality = 1; price = 510; };
 class hlc_muzzle_Tundra {quality = 1; price = 505; };
 //aksupp
-class rhs_acc_ak5   {quality == 1; price = 150; };
-class rhs_acc_dtk   {quality == 1; price = 150; };
-class rhs_acc_dtk1  {quality == 1; price = 150; };
-class rhs_acc_dtk3  {quality == 1; price = 150; };
-class rhs_acc_dtk4screws    {quality == 1; price = 150; };
-class rhs_acc_dtk4long  {quality == 1; price = 150; };
-class rhs_acc_pbs1  {quality == 1; price = 150; };
-class rhs_acc_pgs64 {quality == 1; price = 150; };
-class rhs_acc_tgpa  {quality == 1; price = 150; };
-class rhs_acc_tgpv  {quality == 1; price = 150; };
+class rhs_acc_ak5   {quality = 1; price = 150; };
+class rhs_acc_dtk   {quality = 1; price = 150; };
+class rhs_acc_dtk1  {quality = 1; price = 150; };
+class rhs_acc_dtk3  {quality = 1; price = 150; };
+class rhs_acc_dtk4screws    {quality = 1; price = 150; };
+class rhs_acc_dtk4long  {quality = 1; price = 150; };
+class rhs_acc_pbs1  {quality = 1; price = 150; };
+class rhs_acc_pgs64 {quality = 1; price = 150; };
+class rhs_acc_tgpa  {quality = 1; price = 150; };
+class rhs_acc_tgpv  {quality = 1; price = 150; };
  
 //bipodacc
-class rhsusf_acc_harris_bipod   {quality == 1; price = 150; };
-class rhsusf_acc_grip2  {quality == 1; price = 150; };
-class rhsusf_acc_grip2_tan  {quality == 1; price = 150; };
-class rhsusf_acc_grip1  {quality == 1; price = 150; };
-class rhsusf_acc_grip3  {quality == 1; price = 150; };
-class rhsusf_acc_grip3_tan  {quality == 1; price = 150; };
+class rhsusf_acc_harris_bipod   {quality = 1; price = 150; };
+class rhsusf_acc_grip2  {quality = 1; price = 150; };
+class rhsusf_acc_grip2_tan  {quality = 1; price = 150; };
+class rhsusf_acc_grip1  {quality = 1; price = 150; };
+class rhsusf_acc_grip3  {quality = 1; price = 150; };
+class rhsusf_acc_grip3_tan  {quality = 1; price = 150; };
  
 //m4sup
-class rhsusf_acc_nt4_black  {quality == 1; price = 150; };
-class rhsusf_acc_nt4_tan    {quality == 1; price = 150; };
-class rhsusf_acc_rotex5_grey    {quality == 1; price = 150; };
-class rhsusf_acc_rotex5_tan {quality == 1; price = 150; };
-class rhsusf_acc_SF3P556    {quality == 1; price = 150; };
-class rhsusf_acc_SFMB556    {quality == 1; price = 150; };
+class rhsusf_acc_nt4_black  {quality = 1; price = 150; };
+class rhsusf_acc_nt4_tan    {quality = 1; price = 150; };
+class rhsusf_acc_rotex5_grey    {quality = 1; price = 150; };
+class rhsusf_acc_rotex5_tan {quality = 1; price = 150; };
+class rhsusf_acc_SF3P556    {quality = 1; price = 150; };
+class rhsusf_acc_SFMB556    {quality = 1; price = 150; };
 //Ammo//
 class 100Rnd_580x42_Mag_F {quality = 0; price = 590; };
 class 100Rnd_580x42_Mag_Tracer_F {quality = 1; price = 594; };
@@ -2526,191 +2526,191 @@ class 3Rnd_UGL_FlareYellow_F {quality = 1; price = 30; };
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  
 //ak ammo
-class rhs_30Rnd_545x39_AK   {quality == 1; price = 200; };
-class rhs_30Rnd_545x39_AK_no_tracers    {quality == 1; price = 200; };
-class rhs_30Rnd_545x39_7N10_AK  {quality == 1; price = 200; };
-class rhs_30Rnd_545x39_7N22_AK  {quality == 1; price = 200; };
-class rhs_30Rnd_545x39_AK_green {quality == 1; price = 200; };
-class rhs_30Rnd_545x39_7U1_AK   {quality == 1; price = 200; };
-class rhs_45Rnd_545x39_AK   {quality == 1; price = 200; };
-class rhs_45Rnd_545x39_7N10_AK  {quality == 1; price = 200; };
-class rhs_45Rnd_545x39_7N22_AK  {quality == 1; price = 200; };
-class rhs_45Rnd_545x39_AK_green {quality == 1; price = 200; };
-class rhs_45Rnd_545x39_7U1_AK   {quality == 1; price = 200; };
+class rhs_30Rnd_545x39_AK   {quality = 1; price = 200; };
+class rhs_30Rnd_545x39_AK_no_tracers    {quality = 1; price = 200; };
+class rhs_30Rnd_545x39_7N10_AK  {quality = 1; price = 200; };
+class rhs_30Rnd_545x39_7N22_AK  {quality = 1; price = 200; };
+class rhs_30Rnd_545x39_AK_green {quality = 1; price = 200; };
+class rhs_30Rnd_545x39_7U1_AK   {quality = 1; price = 200; };
+class rhs_45Rnd_545x39_AK   {quality = 1; price = 200; };
+class rhs_45Rnd_545x39_7N10_AK  {quality = 1; price = 200; };
+class rhs_45Rnd_545x39_7N22_AK  {quality = 1; price = 200; };
+class rhs_45Rnd_545x39_AK_green {quality = 1; price = 200; };
+class rhs_45Rnd_545x39_7U1_AK   {quality = 1; price = 200; };
  
 //vss asval
-class rhs_20rnd_9x39mm_SP5  {quality == 1; price = 200; };
-class rhs_20rnd_9x39mm_SP6  {quality == 1; price = 200; };
-class rhs_10rnd_9x39mm_SP5  {quality == 1; price = 200; };
-class rhs_10rnd_9x39mm_SP6  {quality == 1; price = 200; };
+class rhs_20rnd_9x39mm_SP5  {quality = 1; price = 200; };
+class rhs_20rnd_9x39mm_SP6  {quality = 1; price = 200; };
+class rhs_10rnd_9x39mm_SP5  {quality = 1; price = 200; };
+class rhs_10rnd_9x39mm_SP6  {quality = 1; price = 200; };
  
-class rhs_30Rnd_762x39mm    {quality == 1; price = 200; };
-class rhs_30Rnd_762x39mm_tracer {quality == 1; price = 200; };
-class rhs_30Rnd_762x39mm_89 {quality == 1; price = 200; };
-class rhs_30Rnd_762x39mm_U  {quality == 1; price = 200; };
+class rhs_30Rnd_762x39mm    {quality = 1; price = 200; };
+class rhs_30Rnd_762x39mm_tracer {quality = 1; price = 200; };
+class rhs_30Rnd_762x39mm_89 {quality = 1; price = 200; };
+class rhs_30Rnd_762x39mm_U  {quality = 1; price = 200; };
  
 //gp25
-class rhs_VOG25 {quality == 1; price = 200; };
-class rhs_VOG25p    {quality == 1; price = 200; };
-class rhs_vg40tb    {quality == 1; price = 200; };
-class rhs_vg40sz    {quality == 1; price = 200; };
-class rhs_vg40op_white  {quality == 1; price = 200; };
-class rhs_vg40op_green  {quality == 1; price = 200; };
-class rhs_vg40op_red    {quality == 1; price = 200; };
-class rhs_GRD40_white   {quality == 1; price = 200; };
-class rhs_GRD40_green   {quality == 1; price = 200; };
-class rhs_GRD40_red {quality == 1; price = 200; };
-class rhs_VG40MD_White  {quality == 1; price = 200; };
-class rhs_VG40MD_Green  {quality == 1; price = 200; };
-class rhs_VG40MD_Red    {quality == 1; price = 200; };
-class rhs_GDM40 {quality == 1; price = 200; };
+class rhs_VOG25 {quality = 1; price = 200; };
+class rhs_VOG25p    {quality = 1; price = 200; };
+class rhs_vg40tb    {quality = 1; price = 200; };
+class rhs_vg40sz    {quality = 1; price = 200; };
+class rhs_vg40op_white  {quality = 1; price = 200; };
+class rhs_vg40op_green  {quality = 1; price = 200; };
+class rhs_vg40op_red    {quality = 1; price = 200; };
+class rhs_GRD40_white   {quality = 1; price = 200; };
+class rhs_GRD40_green   {quality = 1; price = 200; };
+class rhs_GRD40_red {quality = 1; price = 200; };
+class rhs_VG40MD_White  {quality = 1; price = 200; };
+class rhs_VG40MD_Green  {quality = 1; price = 200; };
+class rhs_VG40MD_Red    {quality = 1; price = 200; };
+class rhs_GDM40 {quality = 1; price = 200; };
  
 //svd
-class rhs_10Rnd_762x54mmR_7N1   {quality == 1; price = 200; };
+class rhs_10Rnd_762x54mmR_7N1   {quality = 1; price = 200; };
  
 //pp2000
-class rhs_mag_9x19mm_7n21_20    {quality == 1; price = 200; };
-class rhs_mag_9x19mm_7n31_20    {quality == 1; price = 200; };
-class rhs_mag_9x19mm_7n21_44    {quality == 1; price = 200; };
-class rhs_mag_9x19mm_7n31_44    {quality == 1; price = 200; };
+class rhs_mag_9x19mm_7n21_20    {quality = 1; price = 200; };
+class rhs_mag_9x19mm_7n31_20    {quality = 1; price = 200; };
+class rhs_mag_9x19mm_7n21_44    {quality = 1; price = 200; };
+class rhs_mag_9x19mm_7n31_44    {quality = 1; price = 200; };
  
 //pist
-class rhs_mag_9x19_17   {quality == 1; price = 200; };
-class rhs_mag_9x18_8_57N181S    {quality == 1; price = 200; };
-class rhs_mag_9x18_12_57N181S   {quality == 1; price = 200; };
-class rhsusf_mag_7x45acp_MHP    {quality == 1; price = 200; };
-class rhsusf_mag_17Rnd_9x19_JHP {quality == 1; price = 200; };
-class rhsusf_mag_17Rnd_9x19_FMJ {quality == 1; price = 200; };
-class rhsusf_mag_15Rnd_9x19_JHP {quality == 1; price = 200; };
-class rhsusf_mag_15Rnd_9x19_FMJ {quality == 1; price = 200; };
+class rhs_mag_9x19_17   {quality = 1; price = 200; };
+class rhs_mag_9x18_8_57N181S    {quality = 1; price = 200; };
+class rhs_mag_9x18_12_57N181S   {quality = 1; price = 200; };
+class rhsusf_mag_7x45acp_MHP    {quality = 1; price = 200; };
+class rhsusf_mag_17Rnd_9x19_JHP {quality = 1; price = 200; };
+class rhsusf_mag_17Rnd_9x19_FMJ {quality = 1; price = 200; };
+class rhsusf_mag_15Rnd_9x19_JHP {quality = 1; price = 200; };
+class rhsusf_mag_15Rnd_9x19_FMJ {quality = 1; price = 200; };
  
  
 //pkp
-class rhs_100Rnd_762x54mmR  {quality == 1; price = 200; };
-class rhs_100Rnd_762x54mmR_green    {quality == 1; price = 200; };
-class rhs_100Rnd_762x54mmR_7N13 {quality == 1; price = 200; };
-class rhs_100Rnd_762x54mmR_7N26 {quality == 1; price = 200; };
-class rhs_100Rnd_762x54mmR_7BZ3 {quality == 1; price = 200; };
+class rhs_100Rnd_762x54mmR  {quality = 1; price = 200; };
+class rhs_100Rnd_762x54mmR_green    {quality = 1; price = 200; };
+class rhs_100Rnd_762x54mmR_7N13 {quality = 1; price = 200; };
+class rhs_100Rnd_762x54mmR_7N26 {quality = 1; price = 200; };
+class rhs_100Rnd_762x54mmR_7BZ3 {quality = 1; price = 200; };
  
 //launcher
-class rhs_rpg26_mag {quality == 1; price = 200; };
-class rhs_rpg18_mag {quality == 1; price = 200; };
-class rhs_rshg2_mag {quality == 1; price = 200; };
-class rhs_rpg7_PG7VL_mag    {quality == 1; price = 200; };
-class rhs_rpg7_PG7VR_mag    {quality == 1; price = 200; };
-class rhs_rpg7_OG7V_mag {quality == 1; price = 200; };
-class rhs_rpg7_TBG7V_mag    {quality == 1; price = 200; };
-class rhs_mag_9k32_rocket   {quality == 1; price = 200; };
-class rhs_mag_9k38_rocket   {quality == 1; price = 200; };
-class rhs_mag_smaw_HEAA {quality == 1; price = 200; };
-class rhs_mag_smaw_HEDP {quality == 1; price = 200; };
-class rhs_mag_smaw_SR   {quality == 1; price = 200; };
-class rhs_m136_mag  {quality == 1; price = 200; };
-class rhs_m136_hedp_mag {quality == 1; price = 200; };
-class rhs_m136_hp_mag   {quality == 1; price = 200; };
-class rhs_m72a7_mag {quality == 1; price = 200; };
-class rhs_fim92_mag {quality == 1; price = 200; };
-class rhs_fgm148_magazine_AT    {quality == 1; price = 200; };
+class rhs_rpg26_mag {quality = 1; price = 200; };
+class rhs_rpg18_mag {quality = 1; price = 200; };
+class rhs_rshg2_mag {quality = 1; price = 200; };
+class rhs_rpg7_PG7VL_mag    {quality = 1; price = 200; };
+class rhs_rpg7_PG7VR_mag    {quality = 1; price = 200; };
+class rhs_rpg7_OG7V_mag {quality = 1; price = 200; };
+class rhs_rpg7_TBG7V_mag    {quality = 1; price = 200; };
+class rhs_mag_9k32_rocket   {quality = 1; price = 200; };
+class rhs_mag_9k38_rocket   {quality = 1; price = 200; };
+class rhs_mag_smaw_HEAA {quality = 1; price = 200; };
+class rhs_mag_smaw_HEDP {quality = 1; price = 200; };
+class rhs_mag_smaw_SR   {quality = 1; price = 200; };
+class rhs_m136_mag  {quality = 1; price = 200; };
+class rhs_m136_hedp_mag {quality = 1; price = 200; };
+class rhs_m136_hp_mag   {quality = 1; price = 200; };
+class rhs_m72a7_mag {quality = 1; price = 200; };
+class rhs_fim92_mag {quality = 1; price = 200; };
+class rhs_fgm148_magazine_AT    {quality = 1; price = 200; };
  
-class rhsgref_5Rnd_792x57_kar98k    {quality == 1; price = 200; };
-class rhsgref_5Rnd_762x54_m38   {quality == 1; price = 200; };
+class rhsgref_5Rnd_792x57_kar98k    {quality = 1; price = 200; };
+class rhsgref_5Rnd_762x54_m38   {quality = 1; price = 200; };
  
-class rhsusf_5Rnd_762x51_m118_special_Mag   {quality == 1; price = 200; };
-class rhsusf_5Rnd_762x51_m993_Mag   {quality == 1; price = 200; };
-class rhsusf_5Rnd_762x51_m62_Mag    {quality == 1; price = 200; };
+class rhsusf_5Rnd_762x51_m118_special_Mag   {quality = 1; price = 200; };
+class rhsusf_5Rnd_762x51_m993_Mag   {quality = 1; price = 200; };
+class rhsusf_5Rnd_762x51_m62_Mag    {quality = 1; price = 200; };
  
-class rhsgref_10Rnd_792x57_m76  {quality == 1; price = 200; };
+class rhsgref_10Rnd_792x57_m76  {quality = 1; price = 200; };
  
-class rhsgref_30rnd_556x45_m21  {quality == 1; price = 200; };
-class rhsgref_30rnd_556x45_m21_t    {quality == 1; price = 200; };
+class rhsgref_30rnd_556x45_m21  {quality = 1; price = 200; };
+class rhsgref_30rnd_556x45_m21_t    {quality = 1; price = 200; };
  
 //m320
-class rhs_mag_M441_HE   {quality == 1; price = 200; };
-class rhs_mag_M433_HEDP {quality == 1; price = 200; };
-class rhs_mag_M4009 {quality == 1; price = 200; };
-class rhs_mag_m576  {quality == 1; price = 200; };
-class rhs_mag_M585_white    {quality == 1; price = 200; };
-class rhs_mag_M661_green    {quality == 1; price = 200; };
-class rhs_mag_M662_red  {quality == 1; price = 200; };
-class rhs_mag_M713_red  {quality == 1; price = 200; };
-class rhs_mag_M714_white    {quality == 1; price = 200; };
-class rhs_mag_M715_green    {quality == 1; price = 200; };
-class rhs_mag_M716_yellow   {quality == 1; price = 200; };
+class rhs_mag_M441_HE   {quality = 1; price = 200; };
+class rhs_mag_M433_HEDP {quality = 1; price = 200; };
+class rhs_mag_M4009 {quality = 1; price = 200; };
+class rhs_mag_m576  {quality = 1; price = 200; };
+class rhs_mag_M585_white    {quality = 1; price = 200; };
+class rhs_mag_M661_green    {quality = 1; price = 200; };
+class rhs_mag_M662_red  {quality = 1; price = 200; };
+class rhs_mag_M713_red  {quality = 1; price = 200; };
+class rhs_mag_M714_white    {quality = 1; price = 200; };
+class rhs_mag_M715_green    {quality = 1; price = 200; };
+class rhs_mag_M716_yellow   {quality = 1; price = 200; };
  
 //
-class rhsusf_5Rnd_300winmag_xm2010  {quality == 1; price = 200; };
+class rhsusf_5Rnd_300winmag_xm2010  {quality = 1; price = 200; };
  
 //m4
-class rhs_mag_30Rnd_556x45_Mk318_Stanag {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_Mk262_Stanag {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M855A1_Stanag    {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M855A1_Stanag_No_Tracer  {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green   {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow  {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Orange  {quality == 1; price = 200; };
-class rhs_mag_30Rnd_556x45_M200_Stanag  {quality == 1; price = 200; };
+class rhs_mag_30Rnd_556x45_Mk318_Stanag {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_Mk262_Stanag {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M855A1_Stanag    {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M855A1_Stanag_No_Tracer  {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Red {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Green   {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Yellow  {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M855A1_Stanag_Tracer_Orange  {quality = 1; price = 200; };
+class rhs_mag_30Rnd_556x45_M200_Stanag  {quality = 1; price = 200; };
  
-class rhs_200rnd_556x45_M_SAW   {quality == 1; price = 200; };
-class rhs_200rnd_556x45_B_SAW   {quality == 1; price = 200; };
-class rhs_200rnd_556x45_T_SAW   {quality == 1; price = 200; };
-class rhsusf_100Rnd_556x45_soft_pouch   {quality == 1; price = 200; };
-class rhsusf_200Rnd_556x45_soft_pouch   {quality == 1; price = 200; };
-class rhsusf_100Rnd_556x45_M200_soft_pouch  {quality == 1; price = 200; };
+class rhs_200rnd_556x45_M_SAW   {quality = 1; price = 200; };
+class rhs_200rnd_556x45_B_SAW   {quality = 1; price = 200; };
+class rhs_200rnd_556x45_T_SAW   {quality = 1; price = 200; };
+class rhsusf_100Rnd_556x45_soft_pouch   {quality = 1; price = 200; };
+class rhsusf_200Rnd_556x45_soft_pouch   {quality = 1; price = 200; };
+class rhsusf_100Rnd_556x45_M200_soft_pouch  {quality = 1; price = 200; };
  
-class rhsusf_50Rnd_762x51   {quality == 1; price = 200; };
-class rhsusf_50Rnd_762x51_m61_ap    {quality == 1; price = 200; };
-class rhsusf_50Rnd_762x51_m62_tracer    {quality == 1; price = 200; };
-class rhsusf_50Rnd_762x51_m80a1epr  {quality == 1; price = 200; };
-class rhsusf_50Rnd_762x51_m82_blank {quality == 1; price = 200; };
-class rhsusf_100Rnd_762x51  {quality == 1; price = 200; };
-class rhsusf_100Rnd_762x51_m61_ap   {quality == 1; price = 200; };
-class rhsusf_100Rnd_762x51_m62_tracer   {quality == 1; price = 200; };
-class rhsusf_100Rnd_762x51_m80a1epr {quality == 1; price = 200; };
-class rhsusf_100Rnd_762x51_m82_blank    {quality == 1; price = 200; };
-class rhsusf_50Rnd_762x51_m993  {quality == 1; price = 200; };
-class rhsusf_100Rnd_762x51_m993 {quality == 1; price = 200; };
+class rhsusf_50Rnd_762x51   {quality = 1; price = 200; };
+class rhsusf_50Rnd_762x51_m61_ap    {quality = 1; price = 200; };
+class rhsusf_50Rnd_762x51_m62_tracer    {quality = 1; price = 200; };
+class rhsusf_50Rnd_762x51_m80a1epr  {quality = 1; price = 200; };
+class rhsusf_50Rnd_762x51_m82_blank {quality = 1; price = 200; };
+class rhsusf_100Rnd_762x51  {quality = 1; price = 200; };
+class rhsusf_100Rnd_762x51_m61_ap   {quality = 1; price = 200; };
+class rhsusf_100Rnd_762x51_m62_tracer   {quality = 1; price = 200; };
+class rhsusf_100Rnd_762x51_m80a1epr {quality = 1; price = 200; };
+class rhsusf_100Rnd_762x51_m82_blank    {quality = 1; price = 200; };
+class rhsusf_50Rnd_762x51_m993  {quality = 1; price = 200; };
+class rhsusf_100Rnd_762x51_m993 {quality = 1; price = 200; };
  
  
-class rhsusf_20Rnd_762x51_m118_special_Mag  {quality == 1; price = 200; };
-class rhsusf_20Rnd_762x51_m993_Mag  {quality == 1; price = 200; };
-class rhsusf_20Rnd_762x51_m62_Mag   {quality == 1; price = 200; };
+class rhsusf_20Rnd_762x51_m118_special_Mag  {quality = 1; price = 200; };
+class rhsusf_20Rnd_762x51_m993_Mag  {quality = 1; price = 200; };
+class rhsusf_20Rnd_762x51_m62_Mag   {quality = 1; price = 200; };
  
 //m107
-class rhsusf_mag_10Rnd_STD_50BMG_M33    {quality == 1; price = 200; };
-class rhsusf_mag_10Rnd_STD_50BMG_mk211  {quality == 1; price = 200; };
+class rhsusf_mag_10Rnd_STD_50BMG_M33    {quality = 1; price = 200; };
+class rhsusf_mag_10Rnd_STD_50BMG_mk211  {quality = 1; price = 200; };
  
  
-class rhsusf_5Rnd_00Buck    {quality == 1; price = 200; };
-class rhsusf_5rnd_doomsday_buck {quality == 1; price = 200; };
-class rhsusf_5Rnd_Slug  {quality == 1; price = 200; };
-class rhsusf_5Rnd_HE    {quality == 1; price = 200; };
-class rhsusf_5Rnd_FRAG  {quality == 1; price = 200; };
+class rhsusf_5Rnd_00Buck    {quality = 1; price = 200; };
+class rhsusf_5rnd_doomsday_buck {quality = 1; price = 200; };
+class rhsusf_5Rnd_Slug  {quality = 1; price = 200; };
+class rhsusf_5Rnd_HE    {quality = 1; price = 200; };
+class rhsusf_5Rnd_FRAG  {quality = 1; price = 200; };
  
-class rhsusf_8Rnd_00Buck    {quality == 1; price = 200; };
-class rhsusf_8rnd_doomsday_buck {quality == 1; price = 200; };
-class rhsusf_8Rnd_Slug  {quality == 1; price = 200; };
-class rhsusf_8Rnd_HE    {quality == 1; price = 200; };
-class rhsusf_8Rnd_FRAG  {quality == 1; price = 200; };
+class rhsusf_8Rnd_00Buck    {quality = 1; price = 200; };
+class rhsusf_8rnd_doomsday_buck {quality = 1; price = 200; };
+class rhsusf_8Rnd_Slug  {quality = 1; price = 200; };
+class rhsusf_8Rnd_HE    {quality = 1; price = 200; };
+class rhsusf_8Rnd_FRAG  {quality = 1; price = 200; };
  
 //m32
-class rhsusf_mag_6Rnd_M441_HE   {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M433_HEDP {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M576_Buckshot {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M781_Practice {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_m4009 {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M585_white    {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_m661_green    {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_m662_red  {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M713_red  {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M714_white    {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M715_green    {quality == 1; price = 200; };
-class rhsusf_mag_6Rnd_M716_yellow   {quality == 1; price = 200; };
+class rhsusf_mag_6Rnd_M441_HE   {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M433_HEDP {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M576_Buckshot {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M781_Practice {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_m4009 {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M585_white    {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_m661_green    {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_m662_red  {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M713_red  {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M714_white    {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M715_green    {quality = 1; price = 200; };
+class rhsusf_mag_6Rnd_M716_yellow   {quality = 1; price = 200; };
  
 //mp7
-class rhsusf_mag_40Rnd_46x30_FMJ    {quality == 1; price = 200; };
-class rhsusf_mag_40Rnd_46x30_JHP    {quality == 1; price = 200; };
-class rhsusf_mag_40Rnd_46x30_AP {quality == 1; price = 200; };
+class rhsusf_mag_40Rnd_46x30_FMJ    {quality = 1; price = 200; };
+class rhsusf_mag_40Rnd_46x30_JHP    {quality = 1; price = 200; };
+class rhsusf_mag_40Rnd_46x30_AP {quality = 1; price = 200; };
  
 //Flares nades and other toys//
 class FlareGreen_F {quality = 1; price = 29; };
@@ -3411,112 +3411,112 @@ class Exile_Bike_OldBike 							{quality = 1; price = 200; };
 	// GAZ-233011
 	///////////////////////////////////////////////////////////////////////////////
 	
-	class rhs_tigr_m_3camo_vdv						{quality == 1; price = 10000; };
-	class rhs_tigr_m_vdv							{quality == 1; price = 10000; };
-	class rhs_tigr_sts_vdv							{quality == 1; price = 20000; };
-	class rhs_tigr_sts_3camo_vdv					{quality == 1; price = 20000; };
+	class rhs_tigr_m_3camo_vdv						{quality = 1; price = 10000; };
+	class rhs_tigr_m_vdv							{quality = 1; price = 10000; };
+	class rhs_tigr_sts_vdv							{quality = 1; price = 20000; };
+	class rhs_tigr_sts_3camo_vdv					{quality = 1; price = 20000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// GAZ-66
 	//////////////////////////////////////////////////////////////////////////////
 	
-	class rhs_gaz66_msv 							{quality == 1; price = 8000; };
-	class rhs_gaz66_zu23_msv						{quality == 1; price = 30000; };
+	class rhs_gaz66_msv 							{quality = 1; price = 8000; };
+	class rhs_gaz66_zu23_msv						{quality = 1; price = 30000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// HMVE
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_m1025_w_s							 	{quality == 1; price = 5000; };
-	class rhsusf_m1025_w_s_Mk19							{quality == 1; price = 20000; };
-	class rhsusf_m1025_w_s_m2							{quality == 1; price = 10000; };
+	class rhsusf_m1025_w_s							 	{quality = 1; price = 5000; };
+	class rhsusf_m1025_w_s_Mk19							{quality = 1; price = 20000; };
+	class rhsusf_m1025_w_s_m2							{quality = 1; price = 10000; };
 	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// M1078A1P2
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_M1078A1P2_wd_fmtv_usarmy				{quality == 1; price = 10000; };
-	class rhsusf_M1078A1P2_B_M2_wd_fmtv_usarmy			{quality == 1; price = 18000; };
-	class rhsusf_M1083A1P2_wd_fmtv_usarmy				{quality == 1; price = 10000; };
-	class rhsusf_M1083A1P2_B_M2_wd_fmtv_usarmy			{quality == 1; price = 18000; };
+	class rhsusf_M1078A1P2_wd_fmtv_usarmy				{quality = 1; price = 10000; };
+	class rhsusf_M1078A1P2_B_M2_wd_fmtv_usarmy			{quality = 1; price = 18000; };
+	class rhsusf_M1083A1P2_wd_fmtv_usarmy				{quality = 1; price = 10000; };
+	class rhsusf_M1083A1P2_B_M2_wd_fmtv_usarmy			{quality = 1; price = 18000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// M117 ASV
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_M1117_W			{quality == 1; price = 70000; };
+	class rhsusf_M1117_W			{quality = 1; price = 70000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// M1232 MRAP
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_M1232_usarmy_wd				{quality == 1; price = 25000; };
-	class rhsusf_M1232_M2_usarmy_wd				{quality == 1; price = 32000; };
-	class rhsusf_M1232_MK19_usarmy_wd			{quality == 1; price = 40000; };
-	class rhsusf_rg33_usmc_wd         				{quality == 1; price = 20000; };
-	class rhsusf_rg33_m2_usmc_wd         			{quality == 1; price = 28000; };
+	class rhsusf_M1232_usarmy_wd				{quality = 1; price = 25000; };
+	class rhsusf_M1232_M2_usarmy_wd				{quality = 1; price = 32000; };
+	class rhsusf_M1232_MK19_usarmy_wd			{quality = 1; price = 40000; };
+	class rhsusf_rg33_usmc_wd         				{quality = 1; price = 20000; };
+	class rhsusf_rg33_m2_usmc_wd         			{quality = 1; price = 28000; };
 	
 
 	///////////////////////////////////////////////////////////////////////////////
 	// M1237 MRAP
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_M1237_M2_usarmy_wd					{quality == 1; price = 40000; };
-	class rhsusf_M1237_MK19_usarmy_wd				{quality == 1; price = 48000; };
+	class rhsusf_M1237_M2_usarmy_wd					{quality = 1; price = 40000; };
+	class rhsusf_M1237_MK19_usarmy_wd				{quality = 1; price = 48000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// M977A4
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_M977A4_REPAIR_usarmy_wd				{quality == 1; price = 20000; };
-	class rhsusf_M977A4_BKIT_M2_usarmy_wd				{quality == 1; price = 22000; };
-	class rhsusf_M978A4_BKIT_usarmy_wd			{quality == 1; price = 20000; };
+	class rhsusf_M977A4_REPAIR_usarmy_wd				{quality = 1; price = 20000; };
+	class rhsusf_M977A4_BKIT_M2_usarmy_wd				{quality = 1; price = 22000; };
+	class rhsusf_M978A4_BKIT_usarmy_wd			{quality = 1; price = 20000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// MRZR
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsusf_mrzr4_d			{quality == 1; price = 1000; };
+	class rhsusf_mrzr4_d			{quality = 1; price = 1000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// UAZ
 	//////////////////////////////////////////////////////////////////////////////
-	class rhsgref_ins_uaz 								{quality == 1; price = 5000; };
-	class rhsgref_ins_uaz_spg9	 						{quality == 1; price = 30000; };
-	class rhsgref_ins_uaz_dshkm	 						{quality == 1; price = 10000; };
-	class rhsgref_ins_uaz_ags	 						{quality == 1; price = 20000; };
+	class rhsgref_ins_uaz 								{quality = 1; price = 5000; };
+	class rhsgref_ins_uaz_spg9	 						{quality = 1; price = 30000; };
+	class rhsgref_ins_uaz_dshkm	 						{quality = 1; price = 10000; };
+	class rhsgref_ins_uaz_ags	 						{quality = 1; price = 20000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// URAL
 	//////////////////////////////////////////////////////////////////////////////
-	class RHS_Ural_VDV_01							{quality == 1; price = 5000; };
-	class RHS_Ural_Zu23_MSV_01						{quality == 1; price = 35000; };
-	class RHS_Ural_Open_VDV_01						{quality == 1; price = 5000; };
-	class RHS_rhs_kamaz5350_msv						{quality == 1; price = 5000; };
-	class rhs_typhoon_vdv							{quality == 1; price = 8000; };
+	class RHS_Ural_VDV_01							{quality = 1; price = 5000; };
+	class RHS_Ural_Zu23_MSV_01						{quality = 1; price = 35000; };
+	class RHS_Ural_Open_VDV_01						{quality = 1; price = 5000; };
+	class RHS_rhs_kamaz5350_msv						{quality = 1; price = 5000; };
+	class rhs_typhoon_vdv							{quality = 1; price = 8000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// BTR some commented out due to animation/repair bugs
 	//////////////////////////////////////////////////////////////////////////////
 	
-	class RHS_BTR80_MSV 							{quality == 1; price = 50000; };
-	class RHS_BTR80_VDV 							{quality == 1; price = 50000; };
-	class RHS_BTR80_VMF 							{quality == 1; price = 50000; };
-	class RHS_BTR80_VV 								{quality == 1; price = 50000; };
-	class RHS_BTR80A_MSV 							{quality == 1; price = 90000; };
-	class RHS_BTR80A_VDV 							{quality == 1; price = 90000; };
-	class RHS_BTR80A_VMF 							{quality == 1; price = 90000; };
-	class RHS_BTR80A_VV 							{quality == 1; price = 90000; };
+	class RHS_BTR80_MSV 							{quality = 1; price = 50000; };
+	class RHS_BTR80_VDV 							{quality = 1; price = 50000; };
+	class RHS_BTR80_VMF 							{quality = 1; price = 50000; };
+	class RHS_BTR80_VV 								{quality = 1; price = 50000; };
+	class RHS_BTR80A_MSV 							{quality = 1; price = 90000; };
+	class RHS_BTR80A_VDV 							{quality = 1; price = 90000; };
+	class RHS_BTR80A_VMF 							{quality = 1; price = 90000; };
+	class RHS_BTR80A_VV 							{quality = 1; price = 90000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// BRDM
 	//////////////////////////////////////////////////////////////////////////////
 
-	class rhsgref_BRDM2UM_msv 								{quality == 1; price = 10000; };
-	class rhsgref_BRDM2_HQ_msv 								{quality == 1; price = 15000; };
-	class rhsgref_BRDM2_ATGM_msv							{quality == 1; price = 80000; };
-	class rhsgref_BRDM2_msv 								{quality == 1; price = 50000; };
+	class rhsgref_BRDM2UM_msv 								{quality = 1; price = 10000; };
+	class rhsgref_BRDM2_HQ_msv 								{quality = 1; price = 15000; };
+	class rhsgref_BRDM2_ATGM_msv							{quality = 1; price = 80000; };
+	class rhsgref_BRDM2_msv 								{quality = 1; price = 50000; };
 	
 	
 	///////////////////////////////////////////////////////////////////////////////
@@ -3527,89 +3527,89 @@ class Exile_Bike_OldBike 							{quality = 1; price = 200; };
 	//BMD
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhs_bmd1pk								{quality == 1; price = 70000; };
-	class rhs_bmd1									{quality == 1; price = 60000; };
-	class rhs_bmd1p									{quality == 1; price = 75000; };
-	class rhs_bmd1r									{quality == 1; price = 80000; };
-	class rhs_bmd2									{quality == 1; price = 75000; };
-	class rhs_bmd2m									{quality == 1; price = 80000; };
-	class rhs_bmd4ma_vdv							{quality == 1; price = 90000; };
-	class rhs_sprut_vdv								{quality == 1; price = 100000; };
+	class rhs_bmd1pk								{quality = 1; price = 70000; };
+	class rhs_bmd1									{quality = 1; price = 60000; };
+	class rhs_bmd1p									{quality = 1; price = 75000; };
+	class rhs_bmd1r									{quality = 1; price = 80000; };
+	class rhs_bmd2									{quality = 1; price = 75000; };
+	class rhs_bmd2m									{quality = 1; price = 80000; };
+	class rhs_bmd4ma_vdv							{quality = 1; price = 90000; };
+	class rhs_sprut_vdv								{quality = 1; price = 100000; };
 	
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//BMP
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhs_bmp1k_msv								{quality == 1; price = 85000; };
-	class rhs_bmp1p_msv								{quality == 1; price = 80000; };
-	class rhs_bmp2k_msv								{quality == 1; price = 90000; };
-	class rhs_bmp3m_msv								{quality == 1; price = 100000; };
-	class rhs_bmp3mera_msv							{quality == 1; price = 120000; };
+	class rhs_bmp1k_msv								{quality = 1; price = 85000; };
+	class rhs_bmp1p_msv								{quality = 1; price = 80000; };
+	class rhs_bmp2k_msv								{quality = 1; price = 90000; };
+	class rhs_bmp3m_msv								{quality = 1; price = 100000; };
+	class rhs_bmp3mera_msv							{quality = 1; price = 120000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//M113
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhsusf_m113_usarmy_M240   				{quality == 1; price = 30000; };
-	class rhsusf_m113_usarmy 						{quality == 1; price = 35000; };
-	class rhsusf_m113_usarmy_MK19   				{quality == 1; price = 41000; };
+	class rhsusf_m113_usarmy_M240   				{quality = 1; price = 30000; };
+	class rhsusf_m113_usarmy 						{quality = 1; price = 35000; };
+	class rhsusf_m113_usarmy_MK19   				{quality = 1; price = 41000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//M1A2
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhsusf_m1a2sep1wd_usarmy   					{quality == 1; price = 300000; };
-	class rhsusf_m1a2sep1tuskiwd_usarmy   				{quality == 1; price = 400000; };
-	class rhsusf_m1a2sep1tuskiiwd_usarmy   				{quality == 1; price = 500000; };
+	class rhsusf_m1a2sep1wd_usarmy   					{quality = 1; price = 300000; };
+	class rhsusf_m1a2sep1tuskiwd_usarmy   				{quality = 1; price = 400000; };
+	class rhsusf_m1a2sep1tuskiiwd_usarmy   				{quality = 1; price = 500000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//M2A2 Bradley
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class RHS_M2A3_wd   							{quality == 1; price = 175000; };
-	class RHS_M2A3_BUSKI_wd   						{quality == 1; price = 225000; };
-	class RHS_M2A3_BUSKIII_wd   					{quality == 1; price = 275000; };
-	class RHS_M6_wd   								{quality == 1; price = 180000; };
+	class RHS_M2A3_wd   							{quality = 1; price = 175000; };
+	class RHS_M2A3_BUSKI_wd   						{quality = 1; price = 225000; };
+	class RHS_M2A3_BUSKIII_wd   					{quality = 1; price = 275000; };
+	class RHS_M6_wd   								{quality = 1; price = 180000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//ZSU 234 Shilka
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhs_zsu234_aa   								{quality == 1; price = 70000; };
+	class rhs_zsu234_aa   								{quality = 1; price = 70000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//T-XX Tanks
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhs_t72ba_tv   								{quality == 1; price = 200000; };
-	class rhs_t72bd_tv   								{quality == 1; price = 275000; };
-	class rhs_t80   									{quality == 1; price = 225000; };
-	class rhs_t80bv   									{quality == 1; price = 300000; };
-	class rhs_t80um   									{quality == 1; price = 375000; };
-	class rhs_t90a_tv   								{quality == 1; price = 440000; };
+	class rhs_t72ba_tv   								{quality = 1; price = 200000; };
+	class rhs_t72bd_tv   								{quality = 1; price = 275000; };
+	class rhs_t80   									{quality = 1; price = 225000; };
+	class rhs_t80bv   									{quality = 1; price = 300000; };
+	class rhs_t80um   									{quality = 1; price = 375000; };
+	class rhs_t90a_tv   								{quality = 1; price = 440000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//Helicopters
 	/////////////////////////////////////////////////////////////////////////////
 	
-	class rhsusf_CH53E_USMC   								{quality == 1; price = 100000; };
-	class RHS_MELB_MH6M   									{quality == 1; price = 10500; };
-	class RHS_MELB_H6M   									{quality == 1; price = 10500; };
-	class RHS_MELB_AH6M_L									{quality == 1; price = 100000; };
-	class RHS_MELB_AH6M_M									{quality == 1; price = 120000; };
-	class RHS_CH_47F   										{quality == 1; price = 50000; };
-	class RHS_UH60M   										{quality == 1; price = 40000; };
-	class RHS_UH1Y_UNARMED   								{quality == 1; price = 22000; };
-	class RHS_Mi8AMT_vvsc   								{quality == 1; price = 30000; };
-	class RHS_Mi8mt_Cargo_vvsc  							{quality == 1; price = 30000; };
-	class rhs_ka60_c   										{quality == 1; price = 20000; };
+	class rhsusf_CH53E_USMC   								{quality = 1; price = 100000; };
+	class RHS_MELB_MH6M   									{quality = 1; price = 10500; };
+	class RHS_MELB_H6M   									{quality = 1; price = 10500; };
+	class RHS_MELB_AH6M_L									{quality = 1; price = 100000; };
+	class RHS_MELB_AH6M_M									{quality = 1; price = 120000; };
+	class RHS_CH_47F   										{quality = 1; price = 50000; };
+	class RHS_UH60M   										{quality = 1; price = 40000; };
+	class RHS_UH1Y_UNARMED   								{quality = 1; price = 22000; };
+	class RHS_Mi8AMT_vvsc   								{quality = 1; price = 30000; };
+	class RHS_Mi8mt_Cargo_vvsc  							{quality = 1; price = 30000; };
+	class rhs_ka60_c   										{quality = 1; price = 20000; };
 	
 	/////////////////////////////////////////////////////////////////////////////
 	//Boat
 	/////////////////////////////////////////////////////////////////////////////
 
-	class rhsusf_mkvsoc   								{quality == 1; price = 30000; };
+	class rhsusf_mkvsoc   								{quality = 1; price = 30000; };
 
 
 
