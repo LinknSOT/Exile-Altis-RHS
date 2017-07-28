@@ -1,5 +1,5 @@
 
-	/**
+	/*
 	 * Weapons, scopes, silencers, ammo
 	 */
 	class Exile_Trader_Armory
@@ -8,47 +8,25 @@
 		showWeaponFilter = 1;
 		categories[] = 
 		{
-"ARMAHandgun",
-"RHS_PISTOLS"
-"EXILEHandgun",
-"ARMAShotgun",
-"ARMASubmachineGun",
-"RHS_SMG",
-"NIARMSSubMachineGun",
-"VSM Weapons",
-"RHS_RIFLES",
-"ARMAAssaultRifle",
-"EXILEAssaultRifle",
-"NIARMSAssaultRifle",
-"ARMAMachineGun",
-"RHS_LMGS",
-"EXILEMachineGun",
-"NIARMSMachineGun",
-"ARMASniperRifle",
-"RHS_SNIPERS",
-"EXILESniperRifle",
-"NIARMSSniperRifle",
-"ArmaBipod",
-"NIARMSBipod",
-"ARMAOptics",
-"NIARMSOptics",
-"ARMAPointer",
-"NIARMSPointer",
-"ARMAAmmo",
-"EXILEAmmo",
-"NIARMSAmmo",
-"RHS_ACCESSORIES",
-"RHS_AMMO"
+			"PointerAttachments",
+			"BipodAttachments",
+			"Pistols",
+			"Shotguns",
+			"SubMachineGuns",
+			"LightMachineGuns",
+			"AssaultRifles",
+			"SniperRifles",
+			//"MuzzleAttachments",
+			"OpticAttachments",
+			"Ammunition",
+			"GrenadeLauncherAmmo",
+			"Flares",
+			"Smokes"
 
-
-
-
-
-		
 		};
 	};
 
-	/**
+	/*
 	 * Satchels, nades, UAVs, static MGs
 	 */
 	class Exile_Trader_SpecialOperations
@@ -57,24 +35,21 @@
 		showWeaponFilter = 1; // for noob tubes
 		categories[] = 
 		{
-"ARMALauncher",
-"RHS_LAUNCHERS",
-"StaticMG",
-"ARMAGrenade",
-"ARMARocket",
-"ARMAMine",
-"GLAmmoARMA",
-"FlaresARMA",
-"FlaresNIARMS",
-"GLAmmoARMA",
-"MISCARMA",
-"SmokeARMA",
-"RHS_LAUNCHERSAMMO"
-
+			//"UAVs",
+			"StaticMGs",
+			"Explosives",
+			"GrenadeLauncherAmmo",
+			"Rockets",
+			//"Navigation",
+			//"GasMask",
+			"Tools",
+			"Currency",
+			"SpecialAmmo"
+			//"FirstAid"
 		};
 	};
 
-	/**
+	/*
 	 * Uniforms, vests, helmets, backpacks
 	 */
 	class Exile_Trader_Equipment
@@ -83,28 +58,17 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-"ARMABackpack",
-"RHS_BACKPACKS",
-"VSMBackpacks",
-"ARMAHeadgear",
-"RHS_HELMETS",
-"VSMHeadgear",
-"EXILEHeadgear",
-"ARMANVGoggles",
-"ARMAUniform",
-"VSMUniform",
-"RHS_UNIFORMS"
-"EXILEUniform",
-"ARMAVest",
-"VSMVests",
-"RHS_VESTS",
-"EXILEMedical",
-"RHS_EQUIPMENTS"
-
+			"Headgear",
+			"Glasses",
+			"Uniforms",
+			"Vests",
+			"Backpacks",
+			"FirstAid",
+			"Navigation"
 		};
 	};
 
-	/**
+	/*
 	 * Cans, cans, cans
 	 */
 	class Exile_Trader_Food
@@ -113,13 +77,12 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-"EXILEDrink",
-"EXILEFood"
-
+			"Food",
+			"Drinks"
 		};
 	};
 
-	/**
+	/*
 	 * Light bulbs, metal, etc.
 	 */
 	class Exile_Trader_Hardware
@@ -128,16 +91,14 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-
-"EXILEHardware",
-"MISCARMA",
-"Tools"
-
-
+			"Hardware",
+			"ExtendedBaseMod", //added new
+			"Tools",
+			"Currency"
 		};
 	};
 
-	/**
+	/*
 	 * Sells cars and general vehicles
 	 */
 	class Exile_Trader_Vehicle
@@ -146,20 +107,12 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-"ARMAArmedCar",
-"ARMAArmedTank",
-"ARMAUnarmedCar",
-"ARMAUnarmedTruck",
-"ExileArmedCar",
-"ExileUnarmedCar",
-"ExileUnarmedTruck",
-"RHStanks",
-"RHSapc",
-"RHSvech",
+			"Cars",
+			"Trucks"
 		};
 	};
 
-	/**
+	/*
 	 * Sells choppers and planes
 	 */
 	class Exile_Trader_Aircraft
@@ -168,16 +121,13 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-"ArmedHelicopter",
-"RHShelicopter",
-"ARMAUnarmedHelicopter",
-"ExileUnarmedHelicopter",
-"ArmedPlane",
-"UnarmedPlane"
+			"Choppers",
+			"ArmChoppers",
+			"Planes"
 		};
 	};
 
-	/**
+	/*
 	 * Sells ships and boats
 	 */ 
 	class Exile_Trader_Boat
@@ -186,10 +136,7 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-"ARMAArmedBoat",
-"ExileArmedBoat",
-"ExileUnarmedBoat"
-
+			"Boats"
 		};
 	};
 
@@ -199,12 +146,11 @@
 		showWeaponFilter = 0;
 		categories[] = 
 		{
-"Diving"
-
+			"Diving"
 		};
 	};
 
-	/**
+	/*
 	 * Sells Community Items
 	 */ 
 	class Exile_Trader_CommunityCustoms
@@ -306,4 +252,3 @@
 			"Community10"
 		};
 	};
-
