@@ -97,7 +97,7 @@
 			// Add your items here <3
 		};
 	};
-	class Backpacks
+class Backpacks
 	{
 		name = "VSM Backpacks";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\backpack_ca.paa";
@@ -133,7 +133,74 @@
 			"SURPAT_Backpack_Kitbag", 
 			"SURPAT_Backpack_Compact", 
 			"Tiger_Backpack_Kitbag", 
-			"Tiger_Backpack_Compact" 
+			"Tiger_Backpack_Compact",
+			// ARMABackpack
+	"B_Assault_Diver",
+	"B_AssaultPack_blk",
+	"B_AssaultPack_cbr",
+	"B_AssaultPack_dgtl",
+	"B_AssaultPack_Kerry",
+	"B_AssaultPack_khk",
+	"B_AssaultPack_mcamo",
+	"B_AssaultPack_ocamo",
+	"B_AssaultPack_rgr",
+	"B_AssaultPack_sgg",
+	"B_AssaultPack_tna_F",
+	"B_AssaultPackG",
+	"B_Bergen_blk",
+	"B_Bergen_dgtl_F",
+	"B_Bergen_hex_F",
+	"B_Bergen_mcamo",
+	"B_Bergen_mcamo_F",
+	"B_Bergen_rgr",
+	"B_Bergen_sgg",
+	"B_Bergen_tna_F",
+	"B_BergenC_blu",
+	"B_BergenC_grn",
+	"B_BergenC_red",
+	"B_BergenG",
+	"B_Carryall_cbr",
+	"B_Carryall_ghex_F",
+	"B_Carryall_khk",
+	"B_Carryall_mcamo",
+	"B_Carryall_ocamo",
+	"B_Carryall_oli",
+	"B_Carryall_oucamo",
+	"B_FieldPack_blk",
+	"B_FieldPack_cbr",
+	"B_FieldPack_ghex_F",
+	"B_FieldPack_khk",
+	"B_FieldPack_ocamo",
+	"B_FieldPack_oli",
+	"B_FieldPack_oucamo",
+	"B_HuntingBackpack",
+	"B_Kitbag_cbr",
+	"B_Kitbag_mcamo",
+	"B_Kitbag_rgr",
+	"B_Kitbag_sgg",
+	"B_OutdoorPack_blk",
+	"B_OutdoorPack_blu",
+	"B_OutdoorPack_tan",
+	"B_TacticalPack_blk",
+	"B_TacticalPack_mcamo",
+	"B_TacticalPack_ocamo",
+	"B_TacticalPack_oli",
+	"B_TacticalPack_rgr",
+	"B_ViperHarness_blk_F",
+	"B_ViperHarness_ghex_F",
+	"B_ViperHarness_hex_F",
+	"B_ViperHarness_khk_F",
+	"B_ViperHarness_oli_F",
+	"B_ViperLightHarness_blk_F",
+	"B_ViperLightHarness_ghex_F",
+	"B_ViperLightHarness_hex_F",
+	"B_ViperLightHarness_khk_F",
+	"B_ViperLightHarness_oli_F",
+	"C_Bergen_blu",
+	"C_Bergen_grn",
+	"C_Bergen_red",
+	"G_AssaultPack",
+	"G_Bergen"
 		};
 	};
 
@@ -168,7 +235,6 @@ items[]=
 	"B_BergenC_red",
 	"B_BergenG",
 	"B_Carryall_cbr",
-	"B_Carryall_ghex_F",
 	"B_Carryall_khk",
 	"B_Carryall_mcamo",
 	"B_Carryall_ocamo",
@@ -533,8 +599,7 @@ class Headgear
                 "rhsusf_mich_helmet_marpatd_norotos_headset",
                 "rhsusf_mich_helmet_marpatwd",
                 "rhsusf_mich_helmet_marpatwd_alt",
-                "rhsusf_mich_helmet_marpatwd_alt_headset",
-                "rhsusf_mich_helmet_marpatwd_headset",
+                "rhsusf_mich_helmet_marpatwd_alt_headset",       
                 "rhsusf_mich_helmet_marpatwd_norotos",
                 "rhsusf_mich_helmet_marpatwd_norotos_arc",
                 "rhsusf_mich_helmet_marpatwd_norotos_arc_headset",
@@ -675,8 +740,7 @@ items[]=
 	"H_HelmetB_black",
 	"H_HelmetB_camo",
 	"H_HelmetB_desert",
-	"H_HelmetB_grass",
-	"H_HelmetB_light",
+	"H_HelmetB_grass",	
 	"H_HelmetB_light_black",
 	"H_HelmetB_light_desert",
 	"H_HelmetB_light_grass",
@@ -687,8 +751,7 @@ items[]=
 	"H_HelmetB_plain_blk",
 	"H_HelmetB_plain_mcamo",
 	"H_HelmetB_sand",
-	"H_HelmetB_snakeskin",
-	"H_HelmetB_TI_tna_F",
+	"H_HelmetB_snakeskin",	
 	"H_HelmetCrew_I",
 	"H_HelmetCrew_O",
 	"H_HelmetCrew_O_ghex_F",
@@ -729,8 +792,7 @@ items[]=
 	"H_Shemag_khk",
 	"H_Shemag_olive",
 	"H_Shemag_olive_hs",
-	"H_Shemag_tan",
-	"H_ShemagOpen_khk",
+	"H_Shemag_tan",	
 	"H_ShemagOpen_tan",
 	"H_StrawHat",
 	"H_StrawHat_dark",
@@ -1147,8 +1209,7 @@ class Uniforms
                 //us
                 "rhs_uniform_cu_ocp",
                 "rhs_uniform_cu_ocp_101st",
-                "rhs_uniform_cu_ocp_10th",
-                "rhs_uniform_cu_ocp_1stcav",
+                "rhs_uniform_cu_ocp_10th",             
                 "rhs_uniform_cu_ocp_82nd",
                 "rhs_uniform_cu_ucp",
                 "rhs_uniform_cu_ucp_101st",
@@ -1319,8 +1380,7 @@ items[]=
 	"U_C_TeeSurfer_shorts_1",
 	"U_C_TeeSurfer_shorts_2",
 	"U_C_WorkerCoveralls",
-	"U_C_WorkerOveralls",
-	"U_Competitor",
+	"U_C_WorkerOveralls",	
 	"U_I_C_Soldier_Bandit_1_F",
 	"U_I_C_Soldier_Bandit_2_F",
 	"U_I_C_Soldier_Bandit_3_F",
@@ -1328,8 +1388,7 @@ items[]=
 	"U_I_C_Soldier_Bandit_5_F",
 	"U_I_C_Soldier_Camo_F",
 	"U_I_C_Soldier_Para_1_F",
-	"U_I_C_Soldier_Para_2_F",
-	"U_I_C_Soldier_Para_3_F",
+	"U_I_C_Soldier_Para_2_F",	
 	"U_I_C_Soldier_Para_4_F",
 	"U_I_C_Soldier_Para_5_F",
 	"U_I_CombatUniform",
@@ -1653,8 +1712,7 @@ class Vests
                 "rhsgref_6b23_ttsko_mountain_medic",
                 "rhsgref_6b23_ttsko_mountain_nco",
                 "rhsgref_6b23_ttsko_mountain_officer",
-                "rhsgref_6b23_ttsko_mountain_rifleman",
-                "rhsgref_6b23_ttsko_mountain_sniper",
+                "rhsgref_6b23_ttsko_mountain_rifleman",          
                 "rhsgref_6b23_ttsko_mountain",
                 //ru
                 "rhs_6sh46",
@@ -1722,6 +1780,7 @@ class Vests
 				"rhssaf_vest_md99_woodland"
         };
     };
+
 class Vests
 {
 name="Arma Vests";
@@ -1790,7 +1849,7 @@ items[]=
 
 
 
-class EXILECurrency
+class Currency
 {
 name="Exile Currency";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -1842,7 +1901,7 @@ items[]=
 	"Exile_Item_SeedAstics",
 };
 };
-class EXILEHardware
+class Hardware
 {
 name="Exile Hardware";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -1880,7 +1939,7 @@ items[]=
 	"Exile_Item_Codelock",
 };
 };
-class ExileMedical
+class FirstAid
 {
 name="First Aid";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -2406,14 +2465,7 @@ items[]=
 	"Exile_Weapon_VSSVintorez",
 };
 };
-class Pistols
-{
-name="Exile Handgun";
-icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-items[]=
-{	// EXILEHandgun
-};
-};
+
 class LightMachineGuns
 {
 name="Exile LMG";
@@ -2425,14 +2477,7 @@ items[]=
 	"Exile_Weapon_PKP",
 };
 };
-class EXILEMelee
-{
-name="Exile Melee";
-icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
-items[]=
-{	// EXILEMelee
-};
-};
+
 class SniperRifles
 {
 name="Exile Sniper Rifle";

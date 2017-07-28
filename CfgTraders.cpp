@@ -46,7 +46,7 @@
 			"Tools",
 			"Currency",
 			"SpecialAmmo"
-			//"FirstAid"
+			"FirstAid"
 		};
 	};
 
