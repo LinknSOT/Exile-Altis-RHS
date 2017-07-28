@@ -2170,7 +2170,8 @@ items[]=
 	"hgun_PDW2000_F",
 };
 };
-    class RHS_LAUNCHERS {
+    class Launcher 
+	{
         name = "RHS Launchers";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2190,7 +2191,8 @@ items[]=
                 "rhs_weap_rshg2"
         };
     };
-     class RHS_LAUNCHERSAMMO {
+     class Rockets 
+	 {
         name = "RHS Launchers rockets";
         icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
         items[] =
@@ -2217,7 +2219,7 @@ items[]=
         };
     };  
 
-class ARMALauncher
+class Launcher
 {
 name="Arma Launcher";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -3315,7 +3317,7 @@ items[]=
 	"hlc_8Rnd_45ACP_B_hk45",
 };
 };
-class FlaresARMA
+class Flares
 {
 name="Arma Flares";
 icon= a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa;
@@ -3340,7 +3342,7 @@ items[]=
 };
 };
 
-class FlaresNIARMS
+class Flares
 {
 name="NIARMS Flares";
 icon= a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa;
@@ -3355,7 +3357,7 @@ items[]=
 	"hlc_GRD_yellow",
 };
 };
-class GLAmmoARMA
+class GrenadeLauncherAmmo
 {
 name="ARMA GL Ammo";
 icon= a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa;
@@ -3366,7 +3368,7 @@ items[]=
 };
 };
 
-class MISCARMA
+class Flares
 {
 name="Misc";
 icon= a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa;
@@ -3378,7 +3380,7 @@ items[]=
 	"Chemlight_yellow"
 };
 };
-class SmokeARMA
+class Smokes
 {
 name="Arma Smokes";
 icon= a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa;
@@ -3409,7 +3411,7 @@ items[]=
 };
 
 
-class ARMAGrenade
+class Explosives
 {
 name="Arma Grenades";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -3422,7 +3424,7 @@ items[]=
 	"O_IR_Grenade"
 };
 };
-class ARMAMine
+class Explosives
 {
 name="Arma Mines";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
@@ -3436,7 +3438,7 @@ items[]=
 	"SLAMDirectionalMine_Wire_Mag"
 };
 };
-class ARMARocket
+class Rockets
 {
 name="Arma Rockets";
 icon= "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";

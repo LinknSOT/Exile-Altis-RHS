@@ -40,6 +40,7 @@
 			"Explosives",
 			"GrenadeLauncherAmmo",
 			"Rockets",
+			"Launcher"
 			//"Navigation",
 			//"GasMask",
 			"Tools",
@@ -65,6 +66,7 @@
 			"Backpacks",
 			"FirstAid",
 			"Navigation"
+			"NVG"
 		};
 	};
 
@@ -92,7 +94,6 @@
 		categories[] = 
 		{
 			"Hardware",
-			"ExtendedBaseMod", //added new
 			"Tools",
 			"Currency"
 		};
